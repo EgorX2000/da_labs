@@ -1,0 +1,10000 @@
+word1862
+word3217
++ word1538 1548
++ word1822 4640
++ word7145 5937
+word1444
+- word1942
+word7172
+- word2895
++ word7166 7981
+- word617
++ word2128 5988
++ word6865 6455
++ word6147 4109
++ word7270 910
++ word2454 2062
++ word7642 3096
+word1039
+word4950
++ word4001 9585
++ word3218 6691
++ word6019 633
++ word191 9485
++ word3251 5185
++ word4669 9889
++ LongWordWithMixedCase30 8847
+word5657
+word6932
++ LongWordWithMixedCase13 9324
++ word5104 485
+word5987
++ word45 685
+word1929
+- word7720
++ word496 720
++ word4680 54
++ word7605 1781
+- word5649
+- word1105
++ word4257 6228
++ word345 8311
++ word4548 732
+word1276
+- word7187
++ word2482 3685
+- word3227
++ word2405 9768
+- word6959
++ word432 7817
++ word351 2825
+- word7745
++ word2888 7201
+- word4404
++ word5705 9609
++ word4618 5182
++ word208 7880
++ word1309 9133
++ word3506 3536
++ word4476 2688
++ word5566 8948
++ word4808 905
++ word6060 9971
++ word4857 8647
+word1597
+word4986
++ word7847 594
+- word2229
+word2424
++ word4342 6738
++ word2390 9590
+- word1312
+- word2922
++ word7814 3750
++ word5424 4669
+- word798
+! Save /tmp/dict4.bin
++ word4945 7262
++ word3267 9309
+- word577
+word2425
++ word4629 5215
+- word5036
+word3300
+- word7795
+word4198
+- word4723
+word7096
++ word6191 8182
+- word1318
+word7348
++ word2027 4030
+word6114
+word4365
+word3510
++ word5991 886
++ word1241 7059
++ word3083 8022
+- RandomStringJvgEIIROQa
+word6166
++ word2491 9742
+word412
++ word7133 9671
++ word5224 9801
+word4419
+word6983
+word5370
+- word1357
++ word2096 5188
++ word1608 2010
++ word4256 1037
+word5610
++ word6334 5274
+word5040
++ word4904 6958
++ word1605 3504
++ word1865 4350
+word2205
+word7024
++ word2144 8699
++ word7329 4538
+! Save /tmp/dict4.bin
+- word3180
+- word1572
+! Load /tmp/dict1.bin
++ word2423 4067
+- word924
++ word2113 596
++ word2050 7536
+! Save /tmp/dict8.bin
++ word1663 3936
++ word7001 2159
+! Load /tmp/dict4.bin
++ word5210 5610
++ word4783 1672
++ word1060 1308
++ word1511 3444
+word1534
++ word1917 1951
+word5104
++ word4049 8954
++ word5940 1630
++ word4859 7852
+- word196
+- word1128
++ word1970 8434
++ word2388 5080
++ word5674 1338
++ word4764 5750
++ word7130 9217
++ word2757 7138
++ word1894 3204
+word2237
++ word6383 1050
+word530
++ word7601 5757
+- word2335
++ word451 3187
++ word6704 7089
++ word5507 6887
+word6500
+word7300
+word7082
++ word2307 5281
+word2995
++ RandomStringiNReomLRZE 5214
++ word1446 6696
++ word2744 8834
++ word2918 502
++ word4203 3007
++ word1557 3804
++ word6027 9935
+- word5360
+word3827
+- word1634
++ word1495 3181
++ word3684 3861
+! Save /tmp/dict1.bin
++ word2449 4965
++ word3072 5390
++ word4926 6294
++ word4979 6062
++ word2030 8351
++ word919 732
++ word3126 3613
++ word6788 3089
++ word5920 9222
+- word2201
+- word4405
++ word4446 3289
++ word7016 6007
+LongWordWithMixedCase44
++ word7852 7632
+word6346
+- word3467
++ word6072 7862
+word1330
++ word2666 1721
++ word4058 7692
+word4478
+word6944
++ word5482 3914
+- word220
++ word5959 9217
++ word2365 1783
++ word6670 8341
+word5818
+word6064
++ word4416 6438
+! Load /tmp/dict10.bin
+word6303
+- word3781
+word7305
++ word2127 1791
++ word2194 1983
+- word7568
++ word3289 5843
++ word6289 3674
++ word6546 4074
++ word4529 7425
++ word4925 912
+word3390
+word3723
++ word6860 4105
++ word6987 3695
++ word1777 1925
++ word5262 4499
+- word3647
++ word7005 3436
+word4662
++ word553 8483
+- word3267
+word2637
++ word4469 1353
++ word4007 1674
++ word3023 2519
+word6265
++ word6002 4901
++ word101 5200
+- word4166
++ word2236 4397
++ word5252 9123
+- word6007
+- word931
++ word7113 3276
++ word5519 6041
++ word7300 6037
++ word5827 6859
+- word6959
++ word2800 4869
+- word5428
+- word7557
+word5182
++ word4163 7316
++ word4682 4365
+word3846
++ word4590 1654
++ word4175 3678
+word3385
++ word1594 4966
++ word1358 850
+word4638
+- word4664
++ word3907 6787
+- word2406
+word1635
++ word5732 6273
++ word3598 6023
+- word796
+- word498
+! Load /tmp/dict9.bin
++ word1642 3002
++ word653 6796
++ word7240 5595
+! Save /tmp/dict1.bin
+word3654
++ word3775 9619
++ word6500 8284
++ word4222 7323
++ word5348 3800
+word6136
+- word3780
++ word7392 2492
++ word2391 9065
++ word124 5712
+- word2015
++ word2076 1138
+- word647
+- word6686
++ word5512 2026
++ word3166 3020
++ word5691 6012
+word3072
+word7423
+- word1533
++ word2350 9080
++ word2817 5916
++ word3600 9921
++ word4216 6209
++ word1678 7088
+word2015
+word2332
+- word5691
++ word4146 6198
+word213
+- word360
++ word2088 2156
++ word2077 6133
++ word1802 9167
++ word3788 1612
+word5360
++ word1040 8346
++ word4568 150
++ word6629 5579
++ word4982 6278
++ word3059 9993
++ word3781 5361
++ word5307 2869
+- word7141
++ word5455 990
+! Load /tmp/dict2.bin
++ word1036 2991
++ word7768 1461
++ word6788 4648
++ word2327 6875
++ word5734 225
+word5587
++ word5752 4530
+word4418
++ word1463 8334
++ word1200 9270
+- word577
+word6694
+- word4058
++ word5854 4809
++ word79 835
++ word6942 6168
+word2119
++ word1792 5260
++ word3728 8005
++ word1431 8534
+- word2852
++ word5169 8963
+word1854
+- word2108
++ word5101 7099
++ word4450 2160
++ word433 1761
++ word1879 2713
+word2527
++ word5269 1901
++ word3490 8737
+! Save /tmp/dict10.bin
+- word3087
+word1885
+- word5079
+word6112
++ word468 788
++ word7477 2509
+- word3074
++ word3621 8068
+word1015
+word7535
++ word1120 9769
++ word5573 8238
++ word3938 4120
+word5929
+word4222
++ RandomStringzqwrDqfRDv 6486
++ word1235 2723
++ word335 7322
++ word4391 8058
+word3424
++ word5375 6311
++ word2921 9018
++ word7834 6001
+word5426
++ word6806 3217
+word794
+- word762
++ word1754 7761
+word7261
++ word351 7664
++ word3004 5913
+word4426
++ word5222 883
++ word858 4857
++ word2129 9481
+word7921
++ word6916 5721
++ word5218 6309
++ word6735 8216
++ word3151 3411
+word5435
++ word2919 6202
++ word513 9203
+- word2318
+- word7273
++ word1335 4792
++ word500 499
++ word6160 6277
+! Load /tmp/dict6.bin
++ word732 5258
++ word150 1560
+! Load /tmp/dict3.bin
++ word3802 3182
++ word6623 3882
++ word6643 1530
+- word7803
++ word630 171
++ word6625 6359
++ word7931 2015
++ word3111 2633
+word5688
++ word4366 7521
+- word4423
++ word3891 7926
+word317
+! Save /tmp/dict4.bin
+word5910
++ word1241 9530
+word4262
++ word7409 1826
++ word4203 1945
+word1926
++ word6147 8121
+word353
++ word5261 7034
+- word5307
+word3532
+word942
++ word5155 3554
++ word795 7054
+word3045
+- word3548
+word3795
++ word1149 3323
++ word4994 543
++ word7731 7064
+- word2547
++ word1520 711
+- word7850
+- word1275
+word885
+! Load /tmp/dict1.bin
++ word552 1697
+- word5388
++ word2418 1548
++ word4942 4947
++ word2604 3391
++ word1076 7273
++ word6281 7027
+- word1550
++ word5943 8936
+- word5283
++ word7995 2194
++ word4341 2833
++ word3925 3051
++ word3883 1915
++ word5865 9286
+word1858
+- word5250
++ word537 5418
++ word1722 6575
++ word1669 4383
+- word510
+- word1750
++ word4954 7541
++ word4458 6418
+! Load /tmp/dict10.bin
++ word1593 992
++ word4078 3150
++ word301 7685
+- word385
+word656
+word2410
++ word5290 5563
++ word3370 1340
+- word1932
+- word7650
++ word4892 1145
+- word4866
+word2763
+word5257
++ word5217 555
+word1035
++ word6699 910
+word4659
++ word1118 3503
++ word7302 3166
++ word7700 3227
++ word6567 5916
+! Save /tmp/dict1.bin
+- word921
++ word1041 4712
++ word7574 1787
++ word3152 6383
+- word1740
++ word3885 6334
+word99
++ word4926 6017
++ word712 3302
++ word7951 3626
++ word6112 1969
+- word7428
+- word303
++ word6321 2757
+word1900
+! Save /tmp/dict3.bin
++ word3079 8872
+word5746
++ word6694 3918
++ word4154 5253
++ word3419 6161
++ word4720 961
++ word364 3357
++ word6419 1651
+word4966
+- word5122
++ word4409 5205
++ word1046 6733
++ word4785 2633
+word599
++ word2039 9072
++ word6321 488
++ word2874 9450
++ word3801 4094
++ word7716 3689
+word5462
+- word4578
++ word5965 6319
++ word138 6675
++ word6050 5817
++ word242 9279
++ word2309 7589
+- word7482
+word6114
++ word3104 2904
+word2900
++ word3250 957
++ word5623 6696
++ word4689 3705
+word6676
++ word5133 147
++ word5386 5553
+- word274
++ word7801 9931
++ word5404 3999
+! Load /tmp/dict10.bin
++ word3124 7066
+- word2389
++ word3556 6769
++ word2202 6387
+word5226
+word1440
++ word2126 1988
++ word231 392
+word3517
++ word7033 8400
+- word5723
++ word7215 3134
+- word2933
++ word2010 9118
+- word870
++ word1099 8257
++ word7160 9942
++ word2343 7445
+! Load /tmp/dict1.bin
+word2339
+- word6329
++ word6443 9907
+- word149
++ word2784 3838
+word6628
++ word1213 5965
++ word2780 2504
++ word730 6389
++ word6005 9708
++ word332 6227
++ word6139 5870
++ word2904 2984
+word3691
++ word3404 1346
+word1059
++ word2927 2941
+word866
++ word2203 4075
++ word2391 6561
+- word7200
+- word5045
++ word7821 8533
++ word7292 2606
+word3509
+word6656
++ word3424 5660
+word4222
++ word3148 3053
++ word2404 8249
++ word2687 5930
++ word2384 8222
+! Load /tmp/dict6.bin
+! Save /tmp/dict9.bin
+- word5053
+! Save /tmp/dict5.bin
+! Load /tmp/dict10.bin
+word3327
++ word1598 9900
++ word2617 8825
+word4626
++ word5420 1495
+word7754
++ word5875 901
++ word7632 8940
++ word5794 8876
++ word3629 9364
++ word6274 4196
++ word5158 5615
+! Load /tmp/dict3.bin
+- word29
++ word4582 2637
++ word2676 1133
++ word6303 1729
+! Save /tmp/dict8.bin
++ word6226 783
+word523
++ word3616 2826
+! Load /tmp/dict4.bin
++ word7928 9894
++ word2615 2255
+word1120
+word4947
++ word441 3748
+word4581
++ word3533 2559
++ word2133 7752
+RandomStringOzPzOjlbiu
++ word4314 3834
+word730
++ word5761 1931
+word5162
+word4605
++ word5433 6374
+word3451
+- word1953
+word2393
++ word7000 928
++ word6416 402
++ word5482 4638
+- word572
++ word3112 1144
++ word1543 475
+- word4839
++ word6062 8595
++ word3178 5440
++ word4798 5364
++ word5747 8595
++ word3519 6802
++ word4672 2762
++ word6689 9638
+- word2552
+! Save /tmp/dict3.bin
++ word1750 3349
++ word4442 5776
+- word5462
+word7152
++ word1712 4791
+- word3000
++ word5905 5359
++ word5423 3117
+word6942
+word7775
+! Save /tmp/dict10.bin
++ word1199 6147
++ word5432 1289
+word6964
+word1588
++ word7817 2289
++ word7679 2807
+word547
++ word4722 1710
++ LongWordWithMixedCase75 2655
++ word79 6364
+- word1048
+- word3093
++ word4900 9050
++ word3019 6891
++ word7090 4718
++ word3718 4770
++ word363 472
++ word4667 6555
+- word4148
++ word274 2251
++ word3361 1503
+- word6582
++ word3320 4692
++ word6814 1436
++ word6689 9313
++ word7664 3835
++ word1962 7699
++ word5862 5940
++ word3592 8567
+! Save /tmp/dict4.bin
++ word4472 3257
++ word1831 5119
++ word5201 2164
++ word1045 8311
++ word466 9111
+- word4850
++ word1243 6327
+! Load /tmp/dict1.bin
+word6559
+word185
++ word2527 6559
++ word5958 5186
++ word1930 9715
++ word4181 5988
+word4576
+! Save /tmp/dict1.bin
+word4388
++ word5698 5413
++ word7904 8846
++ word4876 747
++ word6599 5544
+- word2998
+word4024
+! Save /tmp/dict2.bin
++ word6744 4960
+- word2854
++ word1334 8937
++ word7333 1601
+word7627
+- word2659
++ word1434 4880
++ word4784 5001
+- word2150
++ word7120 9784
++ word1494 3226
+word4038
++ word1455 8055
+LongWordWithMixedCase80
++ word5491 834
++ word5517 7035
++ word5275 3781
+- word4984
+- word4525
++ word6182 1484
+word4586
++ word1968 5350
++ word7616 4981
+word1037
++ word2706 9695
+- word5758
++ word3601 6951
+word1945
++ word3415 9369
++ word482 48
++ word4593 6932
++ word7636 2009
+! Load /tmp/dict4.bin
+word7966
++ word1715 4807
++ word2313 7453
+- word5903
++ word4964 5016
++ word7546 4870
++ word2157 6005
++ word3788 7682
++ word7417 6525
++ word2845 8648
++ word6602 623
+RandomStringKAkhDPaleB
++ word6083 5944
+word716
+word5224
++ word610 7932
++ word3955 6549
++ word1676 9918
++ word3757 1769
++ word6292 7573
++ word613 3712
+word358
++ word5967 237
+- word596
++ word3135 3167
+word15
+word3406
+word4387
+word7864
+LongWordWithMixedCase93
+! Load /tmp/dict6.bin
++ word5879 2150
++ word3693 8979
++ word5066 8469
++ word1177 6357
++ word590 2067
+word7945
+word1575
++ word2394 9786
++ word2544 8208
++ word5233 9037
++ word2753 5901
++ word3781 2871
++ word4418 4664
++ word3252 8187
++ word3700 8521
+! Save /tmp/dict10.bin
++ word6253 9607
++ word409 9641
++ word3385 6177
+- word1402
+- word5601
+word7040
++ word3194 2030
+! Load /tmp/dict5.bin
+word6039
+- word784
++ word7539 2317
+word2071
++ word5327 7917
++ word4992 2404
+! Load /tmp/dict6.bin
++ word6224 1415
++ word6941 4091
++ word4283 359
++ word7668 7396
+word2457
+- word3740
++ word4361 5149
++ word1043 7876
+word6838
+word121
++ word6288 8365
+- word5907
+LongWordWithMixedCase57
+word6826
++ word2982 5492
++ word7821 6533
+word4520
++ word1285 8492
++ word1651 9824
++ word4544 9741
++ word2263 3924
++ word2878 2303
+word322
++ word4634 5561
+- word5895
++ word2019 1947
++ word3857 9546
++ word3438 994
+word6387
++ word6094 6998
+word7062
++ word5729 6602
+word7426
+- word7562
+word5003
++ word5926 5145
++ word2270 1567
++ word6526 3467
++ word1826 295
++ word5502 157
+- word7934
++ word5409 9685
++ word4936 7198
++ word941 7529
++ word4538 7111
++ word328 6868
+word948
+word1786
++ LongWordWithMixedCase86 9420
++ word5519 4838
++ word4634 8480
++ word4800 126
++ word6461 7810
++ word989 611
+LongWordWithMixedCase48
++ word5302 6918
+- word507
+word2916
+LongWordWithMixedCase25
++ word7680 2337
++ word3425 8316
++ word1083 5077
++ word1075 3047
++ word5732 8516
+- word6789
+word7177
++ word3081 37
++ word258 7108
+LongWordWithMixedCase55
++ word5410 9102
+word1779
++ word2364 5564
++ word3292 2610
+word7620
+word423
++ word6462 2209
++ word4458 426
++ word6744 5023
+word7992
++ word2708 1943
++ word1893 9660
++ word4285 7401
+- word4604
++ word6109 8055
+word4165
++ word7746 8904
++ word4422 5085
+- word4743
++ word7583 647
+word4329
++ word5764 1824
+- word7688
+word3119
+! Save /tmp/dict10.bin
++ word4333 9305
+! Load /tmp/dict1.bin
++ word2836 9685
+word6150
+- word399
+- word4773
+- word5229
+! Save /tmp/dict2.bin
++ word1378 1590
++ word7788 6944
+! Load /tmp/dict5.bin
++ word5337 6649
++ word7843 1494
++ word3983 3144
+- word1956
++ word5955 9729
+- word2630
++ word4007 3471
+word1369
++ word4773 3937
+word4959
++ word4192 3918
+word4081
+word7526
++ word5985 8285
+- word5221
++ word581 8642
+word2328
+! Save /tmp/dict2.bin
++ word5909 9014
+word3524
++ word3641 622
+- word1399
+- word7750
++ word103 8550
+! Load /tmp/dict10.bin
+word4967
++ word7054 1725
+word82
++ word5314 7436
+word5047
++ word2495 608
+- word5860
+- word1582
++ word1325 3524
++ word4898 4382
+- word4864
+- word3327
+- word5890
+word6245
+word7096
+- word6250
++ word6112 32
+word5941
+word7918
++ word5855 6931
++ word7545 6521
+LongWordWithMixedCase12
++ word4437 2098
++ word2166 6489
+word2473
++ word5880 4241
++ word567 2821
++ word7223 5915
+- word337
++ word3737 3043
++ word356 2077
++ word3383 8258
+! Save /tmp/dict5.bin
++ word5184 2300
+word2307
++ word4050 773
++ word4100 5148
+word1198
+! Load /tmp/dict10.bin
+- word1205
+- word3576
++ word4609 1377
++ word6258 4755
++ word1950 296
+word4442
++ word7201 5373
++ word5675 1387
++ word4542 8531
++ word5465 8571
++ word1921 429
++ word3571 5183
++ word5262 7510
++ word7514 7317
+- word2828
++ word1628 1821
++ word180 7109
++ word6744 628
+word3038
+word7830
++ word3591 5465
++ word3271 253
++ word4010 7063
++ word1149 4058
+word4279
+word5540
++ word6621 1106
+- word2085
+- word5950
+- LongWordWithMixedCase8
+word368
+word1124
+word2023
+- word2828
++ word4042 1659
++ word4770 7808
++ word4444 7477
+word4026
++ word3045 4065
++ word383 1110
++ word4549 6383
++ word4460 4237
+! Load /tmp/dict8.bin
+- word5672
++ word4362 2401
+word4596
++ word3827 1697
+- word3923
+word1056
+- word2067
+word7914
++ word406 1525
+word596
++ word6089 5509
++ word5036 9523
++ word6496 3368
+word7931
++ word3709 914
+! Load /tmp/dict7.bin
++ word7474 4581
++ word2929 9434
++ word1592 9197
++ word537 636
+- word4250
++ word569 4476
+- word1904
+word6282
+- word669
+word7060
+! Save /tmp/dict7.bin
++ word4146 3942
+RandomStringagmgyjABBu
++ word4737 1122
++ word2488 6492
+- word7169
++ word2963 5096
+- word7321
++ word832 9501
++ word3401 5096
++ word431 2515
++ word2367 974
+word5065
+word2937
++ word4301 141
+! Save /tmp/dict6.bin
++ word4134 3243
++ word2386 1455
++ word4751 4363
++ word4899 3285
+- word6730
+! Load /tmp/dict1.bin
+word3079
+- word4170
++ word6535 6931
+word1169
++ word5058 327
++ RandomStringLgWIURaDgT 9828
+- word6279
+word1047
+- word7202
+- word127
+word6763
++ word181 9297
++ word613 7769
+! Save /tmp/dict6.bin
++ word1770 7579
+word3570
++ word2595 8683
+word7940
+- word546
++ word4272 6851
+word2961
+! Save /tmp/dict2.bin
+word803
++ word7989 1814
+- word8
++ word2615 8706
++ word7437 3280
++ word2794 6015
++ word6703 9202
++ word7702 3748
+word6851
++ word6492 4695
++ word458 2682
++ word5787 1010
+word2972
+LongWordWithMixedCase95
++ word4917 1609
++ word3639 3409
++ word557 2747
++ word3413 5562
+word89
++ word7245 5820
+word2844
++ word3998 4681
++ word7957 5359
++ word69 9220
+- word3804
++ word4787 9142
++ word7763 7508
++ word3144 2281
+- word3021
++ word2777 5171
++ word2437 7903
+! Load /tmp/dict7.bin
++ word4885 7364
++ word7780 126
++ word286 9203
+- word1792
++ word1452 1088
+! Load /tmp/dict5.bin
+word6980
++ word6413 7959
+word4980
++ word352 5359
+- word6510
+- word7382
++ word5987 478
++ word6254 3163
+- word3333
++ word7539 427
++ word3211 5784
++ word2408 2019
+word4512
++ word4243 2959
++ word5849 3639
++ word7563 6894
++ word1961 3765
++ word6646 5315
++ word7127 4441
+- word3717
+word6541
+- word191
+word3801
+- LongWordWithMixedCase40
+- word3122
+word7425
++ word3554 7205
++ word2529 6557
++ word1908 7306
++ word162 7069
++ word5474 2147
+word2167
+word4690
+- word5527
++ word501 4808
+! Save /tmp/dict5.bin
++ word4575 463
+! Load /tmp/dict4.bin
++ word3331 1637
+- word3267
++ word3152 9247
+word1394
++ word4636 3410
+word3732
++ word40 4029
+word7096
+- word571
+! Save /tmp/dict9.bin
++ word6473 9937
+- word686
+- word3008
++ word315 1089
++ word3272 8568
++ word4916 2571
++ word4927 2395
++ word2643 2052
++ word5287 3541
+word7104
++ word1936 1772
+word6194
++ word2510 8075
++ word3087 7293
++ word3100 7543
+word4809
++ word370 475
++ word1855 7852
++ word800 5250
+- word76
++ word6091 3571
++ word101 2741
++ word364 1879
++ word7401 888
++ word1996 1591
++ word4323 9241
++ word5277 1796
++ word523 9356
+word6080
++ word1842 4092
+- word1508
+- word309
++ word1931 4708
++ word2796 4409
+- word1945
++ word446 5168
+- word3776
++ word5639 4767
++ word5775 2929
++ word7923 944
++ word664 7793
++ word6102 4128
+RandomStringqSWeJXmzun
++ word5739 3735
+- word5817
+- word4118
+- word6172
+word1613
+- word6506
++ word3360 8611
+- word1839
++ word367 2905
++ word3853 7020
+word2558
++ word1575 6683
+- word1050
++ word1973 1782
++ word1761 943
+- word6795
++ word3584 1201
++ word2765 7643
++ word6708 2609
+- word1273
+- word1333
++ word1358 1442
++ word3932 7935
++ word1670 37
++ word4647 4768
+! Load /tmp/dict8.bin
+! Load /tmp/dict9.bin
++ word5138 7110
+word783
++ word4731 6305
++ word329 4726
+- word6760
+- word2218
+word6680
++ word2008 2432
++ word6533 2418
++ word5261 2747
++ word6796 2767
+- word5716
++ word7881 4743
++ word1368 5495
+word1252
+- word7473
+- word3264
++ word6368 7283
++ word5792 856
+word2130
+- word2751
+word2963
+word1016
++ word7749 7848
+- word6613
+- word4564
+- word4623
+word5168
++ word5968 5274
++ word2472 8256
++ RandomStringpYgFzLoPqB 5407
++ word7019 5791
+- word2311
+! Load /tmp/dict2.bin
+word6173
++ word2374 1683
++ word3821 7998
++ word99 4409
++ word7946 7106
++ word4538 7389
++ word7142 459
++ word4160 4144
++ word428 4778
+! Load /tmp/dict3.bin
++ word4681 1812
+word7340
++ word676 6058
++ word3388 1787
+word2423
++ word2325 5771
++ word2143 2940
++ word5193 3367
+- word3859
++ word5056 8504
+word1219
++ word6411 4493
++ word4142 1722
++ word5473 4245
++ word2239 7832
++ word1756 3855
++ word7448 394
+! Save /tmp/dict9.bin
+word4587
++ word5490 121
++ word1746 7964
++ word3515 2101
+word6638
+- word4228
+word1233
+- word6319
+word3930
++ word6667 7583
+- word3479
++ word3596 783
++ word1571 7267
+- word3441
++ word6497 3734
++ word442 1143
+- word3723
+word3112
++ word7205 9924
++ word2889 8142
++ word6983 6088
++ word7691 7690
++ word3476 5202
++ word2058 3972
++ word3010 1406
++ word6598 3025
++ word6308 7575
++ word617 476
++ word7231 9894
+word2461
+- word4305
+! Load /tmp/dict8.bin
++ word3880 2351
+word4726
+word2041
++ word2027 8693
++ word1067 5742
+word1099
++ word1266 3924
+word335
++ word3404 4463
++ word1746 5147
++ word2830 641
++ word2883 2280
++ word7696 9585
+- word5552
+word3407
++ word6629 2930
+word4746
++ word1917 6081
++ word1646 9664
+word2899
+- word6508
++ word2397 4905
+word7767
++ word5445 5924
+word4264
++ word5063 902
+- word578
+- word5150
+- word3971
++ word6455 3156
++ word7134 5997
+! Save /tmp/dict10.bin
+word514
+- word3382
++ word3202 1104
++ word2981 4706
+word4489
+word5461
+- word4510
+word6514
++ word4141 8311
+word1151
++ word5621 5520
++ word2850 3601
++ word5650 5980
++ word3933 2396
++ word1935 676
+word3612
++ word5604 4079
+word5191
+- word3166
+word7829
++ word7810 5005
++ LongWordWithMixedCase93 5788
+word3413
+- word715
+word3559
+word3605
++ word3345 1349
++ word4547 7911
++ word6116 7992
++ word7324 2532
+- word6560
+word1314
++ word219 8046
++ word3600 7055
++ word7129 3458
++ word2138 3522
++ word1526 6546
++ word7661 9892
++ word6969 6886
++ word621 4070
+- word6834
++ word1772 7361
+word6655
+word6582
+! Save /tmp/dict6.bin
+word5245
+- word5002
+word6094
+- word4155
++ word450 2047
+word5946
++ word1981 6160
++ word1286 5698
+word7080
+- word3336
+word4857
++ word3756 3104
++ word5906 8638
++ word5400 5853
++ word6262 6219
++ word7845 4166
+- word5957
++ word797 8341
+word4725
+! Load /tmp/dict4.bin
++ word4006 5126
+word3892
+word3983
++ word2891 8987
++ word7923 96
++ word2965 890
++ word4515 7698
+word1728
+- word3389
+word7037
++ word3282 2349
+! Load /tmp/dict7.bin
+word622
++ word7018 8846
++ word733 8838
+- word304
++ word2000 9537
+LongWordWithMixedCase19
++ word6316 8717
+! Load /tmp/dict1.bin
++ word7318 9344
+- word6265
++ word5100 1580
++ word4367 858
++ word2221 7805
++ word5949 5277
+word1164
++ word2994 4408
+- word41
++ word4339 2034
+! Save /tmp/dict5.bin
++ word1445 2089
++ word5958 6527
++ word4318 6623
++ word128 6983
++ word5936 3902
+word2773
++ word7018 2681
+- LongWordWithMixedCase7
++ word4417 5848
++ word3863 3026
++ word5890 6845
+word7322
++ word6075 4092
++ word5207 4822
+! Save /tmp/dict4.bin
+- word4123
++ word1198 4928
++ word7631 1356
+word7875
++ word6431 5688
++ word4364 8669
++ word3988 5206
+word5899
++ word4980 875
++ word7007 5621
++ word3785 622
++ word4132 7491
+- word2586
++ word592 8848
++ word7505 2176
++ word1041 4963
+- word4647
++ word2487 1842
+word5265
++ word1135 3323
+- word3420
++ word7968 9250
++ word3472 5057
+- word7130
+- word1503
+- word5180
+- word5640
++ word7118 6989
++ word457 6705
+word944
++ word4460 2285
+! Save /tmp/dict3.bin
++ word6872 905
++ word6128 2264
++ word5357 6490
++ word4217 2818
+- word6012
+word7641
++ word6615 7508
++ word5044 1109
++ word7164 751
++ word2800 9212
+word4697
++ word3655 8259
++ word4075 9717
++ word4467 560
+word4187
++ word6564 4948
+word375
+- word6525
+word7869
++ word872 8380
++ word171 281
++ word2326 966
++ word5518 1315
+! Save /tmp/dict2.bin
+! Load /tmp/dict7.bin
++ word3568 3092
+- word6398
++ word767 3385
++ word6396 7348
+word7616
++ word1800 1160
++ word7088 6383
++ word6186 6561
++ word2277 3255
+- word2264
+! Save /tmp/dict6.bin
+word6110
+- word7590
++ word6888 3351
++ word7524 7010
++ word5190 5279
+word6746
++ word6162 9060
+word6272
++ word6357 3960
++ word83 7103
++ word6430 4175
+word4798
++ word4973 2863
++ word5645 923
++ word5038 8658
++ word1393 3013
++ word2442 6886
++ word2652 1198
++ word1793 1044
++ word7237 7472
++ word5539 5540
++ word6289 4045
+word192
+! Save /tmp/dict5.bin
+word1051
+word1316
+word6574
+- word3295
++ word2103 5515
++ word2129 2998
++ word7142 1681
++ word7039 6388
+word3635
+- word5136
++ word4625 4385
+- word7370
++ word3847 9716
++ word1505 1851
++ word188 9597
+word3160
++ word4494 5308
++ word4152 5041
++ word2363 8500
+word4367
++ word4822 986
+word6662
++ LongWordWithMixedCase9 3651
++ word3096 4869
++ word7767 804
+! Save /tmp/dict4.bin
+- word4758
++ word5659 7120
+word1199
++ word835 2986
+word1126
++ word3193 7290
++ word3140 5626
++ word4452 6875
++ word3353 9698
+word6508
++ word6014 4688
++ word545 2303
++ word2502 8005
++ word1383 7451
+! Load /tmp/dict8.bin
+word938
+word6581
+- word3587
++ word1348 9452
++ word780 4117
+- word2744
+! Load /tmp/dict10.bin
+word2007
++ word190 3926
++ word7678 9431
++ word5265 9415
++ word3812 1317
++ word6983 5042
+word7586
++ word7451 4591
+word2230
++ word5260 8347
+word3530
++ word5387 3238
++ word5630 5953
+- word1557
+word1333
+! Load /tmp/dict1.bin
++ word3885 8605
++ word4762 3508
++ word3219 46
++ word6320 3968
++ word999 80
++ word4219 8296
++ word388 3956
++ word588 2210
++ word339 6422
++ word4195 4544
++ word5748 6886
++ word7784 4823
+- word2126
++ word7313 9917
++ word3283 6508
+word6033
+word3455
++ word5293 30
+word5859
++ word4183 6677
++ word621 7325
++ word3697 9561
+! Load /tmp/dict5.bin
+- word5947
++ RandomStringzqwrDqfRDv 3568
++ word1517 1298
++ word7711 6524
++ word2387 9954
++ word5950 6706
+word4160
+word3629
+word1411
++ word2576 9759
++ word7079 9516
+- word7691
++ word6458 9703
+word4668
++ word5756 9737
++ word6916 3603
++ word7925 7420
++ word3341 1798
++ word5558 3695
+! Load /tmp/dict4.bin
+- word1515
+word5580
+word2186
++ word5812 5288
+- word2119
+word4257
++ word6085 1561
+word7115
+word1570
++ word5577 7449
++ word3063 4712
+LongWordWithMixedCase44
+word7850
++ word7029 3120
++ word6179 7024
++ word2105 7921
+- word6437
+- RandomStringgzWOpgptQE
+word565
+! Load /tmp/dict4.bin
++ word647 3662
+- word3138
+word4517
+- word6481
+word4763
+word4546
++ word25 7446
++ word5757 6455
+- word6977
++ word2732 9143
++ word7828 1596
++ word5140 7666
++ word3347 3213
++ word6460 4349
+word7676
+word5405
++ word1451 6307
++ word1256 3859
++ word6513 5556
++ word5620 7271
+word4514
+- word5127
++ word3737 6776
++ word2311 6673
+- word7408
++ word2269 7896
+- word881
++ word4637 1116
+- word2689
+word6533
+word5481
+word142
+word4687
++ word6665 132
++ word3427 3849
+word2240
++ word5234 6938
+word1468
++ word3426 4663
+word6796
++ word1954 5904
++ word3145 5763
++ word1119 128
+- word2942
++ word1001 6570
++ word496 6198
+word7737
+word104
++ word7487 3752
+word5307
++ word5540 626
++ word3581 3163
++ word7305 3113
++ word822 890
+word4270
++ word5190 5937
+- word2958
+- word6227
++ word6047 1640
++ word4045 4355
++ LongWordWithMixedCase47 274
++ word6216 5763
+! Save /tmp/dict3.bin
++ word3847 7905
+word5946
++ word509 9473
+word4464
++ word7480 9056
+! Save /tmp/dict9.bin
++ word6130 4159
++ word3338 9743
+word2580
+word2430
++ word6361 2727
++ word6282 6138
+word4125
+- word3048
++ word4302 1290
+word2923
++ word7195 7052
+word3362
+word5279
++ word6286 8069
++ word4937 5350
+word1100
++ word1536 3462
++ word7771 7232
++ word3022 1433
++ word2799 3249
+word4142
++ word4105 1464
+word893
+word4730
++ word6118 3285
+word181
+- word946
++ word7506 1236
++ word7047 7486
++ word4070 476
+! Save /tmp/dict2.bin
+word1947
++ word1382 6010
+- word3004
++ word4488 9129
++ word1445 454
++ word6773 7506
++ word4642 7882
++ word74 6955
++ word6421 3137
++ word5095 1586
+word3101
+- word7048
+word6205
++ word3211 593
++ word6225 1633
++ word1857 6614
++ word7044 6341
+word6109
++ word4991 3893
++ word6546 4509
+- word4762
++ word7157 1573
++ word948 6603
++ word2394 5401
+word3172
+- word2058
++ word2671 3968
++ word4086 5650
++ word2522 687
++ word3969 1289
++ word67 6298
+- word1605
++ word2470 6551
++ word6924 576
+word4317
++ word3621 5909
++ word713 7217
++ word5625 2426
++ word3842 2506
+word256
++ word457 5879
++ word2152 4322
++ word5469 7173
++ word6873 8170
++ word5950 8933
+- word1483
++ word4260 8224
++ word6885 7707
++ word3614 1297
++ word4384 7862
+! Load /tmp/dict6.bin
+! Load /tmp/dict5.bin
+- word4092
++ word1114 7346
++ word5841 9717
++ word6724 2730
++ word3000 638
++ word3039 5921
++ word2945 6070
+word4734
+word5510
++ LongWordWithMixedCase21 1680
++ word6416 978
+- word4063
+- word3
+- word1847
++ word564 6357
++ word2282 5141
+word3124
+word53
++ word1997 9650
++ word5579 1062
++ word2862 856
++ word770 1126
++ word3830 1270
++ word5586 8718
++ word6553 7056
+- word3731
++ word2057 1861
+word5385
++ word4950 4263
++ word6612 9087
+- word4571
++ word2594 7591
++ LongWordWithMixedCase38 9338
++ word2829 557
++ word5283 9660
+- word5049
+word5516
+! Load /tmp/dict5.bin
++ word1249 226
++ word5364 6790
++ word4169 4967
++ word6479 3704
++ word6858 6701
++ word1128 1098
+word7947
++ word7806 3944
++ word3627 6636
++ word2760 6182
+word5242
++ word2805 388
+word3655
+! Save /tmp/dict8.bin
+- word5922
++ word5271 5009
+word5087
++ word3161 4264
+- word7219
+- word3096
+- word3146
++ word3163 1270
+- word2779
++ word3314 9888
+- word7776
+word4408
++ word5096 6501
++ word4597 7964
++ word42 941
+word5319
++ word3691 3754
+! Load /tmp/dict5.bin
+- word4865
+word6375
++ RandomStringjSrTRbwGkG 9529
++ word4734 3424
++ word5542 4962
++ word3803 1858
++ word5660 1800
++ word2005 8352
+- word7476
+word5112
+- word2937
++ word1402 6053
++ word3462 7168
+- word2224
++ word4223 2718
++ word6008 5443
+- word6734
++ word5274 4556
++ word3939 5909
++ word4951 6686
++ word6805 7957
++ word3245 2992
+word6288
+word137
+word5920
+word3699
++ word7842 4298
++ word6870 7616
++ word4551 9575
+- word5209
+word3412
++ word748 520
++ word6398 3496
+! Load /tmp/dict7.bin
+word2967
++ word5851 5018
++ word2187 6925
++ word174 7393
+word4799
++ word4531 5189
+- word2111
+- word4373
+word6667
++ word3585 7222
+! Save /tmp/dict2.bin
++ word220 31
++ word1001 3483
++ word2030 3613
++ word7250 4518
++ word6793 9484
+- word7679
++ word4950 8979
++ word5962 237
+word3794
++ word244 508
++ word5116 4931
+- word4443
+- word4943
++ word2259 7416
+! Save /tmp/dict5.bin
++ word1968 1916
+- word3153
++ word7819 2795
++ word1715 2802
+- word7220
++ word1008 9314
++ word1215 6788
+- word6332
++ word2529 9578
+- word4627
++ word5297 9539
++ word2398 8177
+word6129
++ word2671 5085
+- word1210
+- word6492
+! Load /tmp/dict6.bin
+word2483
++ word501 1864
++ word6297 6870
++ word109 1857
+- word5622
++ word3237 5473
+- word6006
++ word5352 1262
++ word2753 6566
++ word6930 814
+word109
++ word6878 8976
++ word389 7201
++ word4255 6803
++ word7779 3614
+word7703
+- word6616
+- word791
++ word2330 4105
++ word1042 8066
++ word4235 9429
+word1489
++ word2419 2062
+word474
+- word6556
++ word5422 5911
+- word6630
++ word4552 3180
+- word6434
++ word7297 7499
++ word818 3850
++ word5762 106
+word3715
+word48
+word3278
+word2798
+word854
+word2118
++ word6701 600
++ word1357 5154
++ word3120 7710
+word1053
+- word6312
++ word1343 8404
+- word1273
++ word5007 3377
++ word4909 8746
+word4385
+- word1925
++ word5913 1360
++ word4289 776
+! Load /tmp/dict5.bin
+word3905
++ word6637 6628
++ word2293 1332
+word5330
+word971
+- word4727
++ word6427 4718
++ word2606 2660
++ word2676 3496
++ word6646 4706
+! Load /tmp/dict9.bin
++ word3338 7229
++ word4393 3824
++ word5657 8361
++ word314 6435
+word4200
++ word2110 7508
++ word5764 7272
+- word2726
+! Load /tmp/dict6.bin
++ word7303 171
+- word747
++ word982 5486
++ word5016 8897
+- word389
+! Save /tmp/dict10.bin
+- word6048
+- word4407
+word5938
++ word866 5955
++ word5938 8220
++ word4856 5001
++ word764 1870
++ word1426 7544
+- word2645
+- word4350
++ word5789 474
++ word1713 9024
++ word597 4786
++ word7458 3426
++ word7294 2330
++ word6815 587
++ word5734 827
++ word1908 3020
++ word2505 7615
+word5747
+word3333
++ word6430 3262
++ word5683 7644
++ word2472 1550
+! Load /tmp/dict5.bin
++ word595 1775
+word2164
++ word3839 4537
++ word6209 7689
++ word219 1991
++ word1405 508
++ word6018 9920
++ word7753 2604
+- word2715
+- word3867
++ word798 2005
+- word2973
++ word2383 7215
++ word1724 7445
++ word1391 9198
+word3991
+- word2342
++ word2011 8485
+- word2117
++ word7535 1365
++ word2781 7662
+- word4624
++ word1079 926
+- word7220
+- word1054
+word2309
+word3407
++ word2213 6368
+word4062
++ word3888 2071
+- word454
+- word7032
++ word2318 389
++ word4937 8560
+word3343
++ word7623 3936
+! Load /tmp/dict9.bin
+- word4639
++ word3105 291
+- word1921
++ word3125 508
++ word939 4156
++ word2417 3201
++ word3374 9853
+! Save /tmp/dict2.bin
++ word7142 4132
+RandomStringVSYUAIskLE
++ word4204 1615
+word679
++ word4048 5128
++ word4030 7746
++ word1106 9055
+word4658
++ word6544 7656
+! Load /tmp/dict3.bin
++ word3125 9208
+word5982
++ word5156 3328
+word1770
++ word5518 6152
++ word3015 4263
++ word527 7210
+- word799
++ word4333 6841
++ word2420 7749
+word6819
++ word4245 4510
+- word4124
++ word1383 3742
++ word2062 3650
+word1528
++ word3116 838
+word3299
+! Save /tmp/dict10.bin
+word4178
+- word3340
+word1959
++ word102 7262
+word1207
++ word7225 5355
++ word7928 2469
+word3913
++ word948 8048
+word1869
++ word2468 4311
+word6023
+- word6270
+word3792
++ word7878 2062
++ word6792 161
++ word6714 1819
++ word4336 8720
++ word7831 8873
++ word3591 1828
++ word4180 1145
++ word2576 9868
++ word4641 372
++ word2572 5309
++ word2644 716
+- word7926
++ LongWordWithMixedCase27 716
++ word3677 6070
+! Load /tmp/dict2.bin
++ word5715 9299
+- word1650
++ word4250 990
++ word2208 4258
++ word4617 7974
++ word1296 2956
++ word7072 8945
+word2254
++ word1616 1745
+word5726
+word2338
+! Load /tmp/dict7.bin
++ word7020 6634
++ word5871 1829
++ word4898 6482
++ word6229 9837
++ word3158 7457
+- word5751
++ word4517 2215
+- word4898
++ word2404 7740
++ word3697 3697
++ word6662 5068
++ word5616 7339
+word3730
++ word3190 8101
+word6107
++ word376 5235
++ word6460 7557
+- word5587
+- word7986
+- word3107
+- word6076
+word6764
++ word554 2774
++ word3542 5951
+word2204
++ word7953 4197
++ word1340 5298
++ word1404 8483
++ word6384 5663
++ word5646 9762
++ word2116 7453
++ word5487 5478
+word4715
+! Load /tmp/dict10.bin
+word1306
+word365
++ word5602 4160
++ word3933 5677
++ word1086 3065
+word7757
++ word5857 4176
+word478
++ word788 6309
+word1869
++ word7017 6739
++ word6096 52
++ word3285 7528
+word807
+- word3251
++ word6285 524
++ word4712 3573
++ word3128 2996
++ word6181 576
++ word2330 7421
++ word7474 9548
++ word4303 9986
++ word1573 7705
++ word4468 1556
+- word927
+word1662
+- word15
++ word1819 234
++ word2822 7643
++ word448 7260
++ word6606 4091
+word4195
+- word5826
++ word4020 3735
+word6573
+- word85
++ word2714 4284
+- word1682
++ word7671 7396
++ word1122 8706
+word2300
+! Load /tmp/dict3.bin
++ word3106 5440
++ word2793 9747
+! Save /tmp/dict2.bin
+- word1743
++ word2780 6455
++ word6640 3535
++ word2527 1185
+word5015
+word2967
+LongWordWithMixedCase50
++ word1170 6940
++ word7158 6666
++ word6639 798
++ word6169 5327
+word7089
+- word7422
++ word2571 5572
++ word5355 7207
++ word6408 754
++ word3672 869
+word3602
+- word3641
++ word345 1035
++ word6244 9937
++ word2667 2838
+! Load /tmp/dict7.bin
++ word3984 8333
+- word7638
++ word620 5078
+word7203
++ word5949 8321
++ word744 3336
++ word1786 1881
+- word6469
++ word561 9948
+word5335
++ LongWordWithMixedCase77 7440
+word4113
++ word3680 9821
+word5818
++ word4429 1307
++ LongWordWithMixedCase50 9970
++ word5142 1158
++ word7776 2723
++ word7043 5516
+- word4154
++ word3595 7775
++ word7245 2670
++ word1197 7598
+word4879
+word5497
+- LongWordWithMixedCase86
+- word2007
++ word7123 1029
++ word6309 928
+word3277
++ word2645 9456
+word5252
++ word6404 3761
++ word4389 2220
+- word661
+! Load /tmp/dict2.bin
+- word2305
++ word4950 892
++ word5617 5997
++ word5076 7252
++ word5832 1496
+- word5170
+word3691
++ word2727 833
+word750
++ word2999 5920
++ word3910 271
++ word7771 1896
+word1187
++ word1024 4915
++ word1567 9125
+word6510
++ word6536 9116
+word1463
++ word512 8407
++ word4222 5853
++ word3271 8689
+word2986
++ word156 4023
++ word2245 3614
++ word5850 37
+- word4313
++ word3872 3430
+- word7454
++ word4516 6410
+- word7645
++ word123 3130
++ word6377 8199
++ word820 7637
++ word3894 3583
+- word1132
++ word1110 741
++ word5611 5450
++ word7154 6064
++ word334 9880
++ word2208 8147
+- word1246
+- word7396
+! Load /tmp/dict3.bin
+- word6124
++ word3405 1239
++ word5042 4681
++ word2367 1976
++ word5908 9027
+- word530
+- word5361
+word6799
++ word1776 6201
++ word3483 9197
++ word5504 1003
++ word2201 357
++ word2376 6758
+word7775
+word4811
++ word4458 9405
+- word5515
++ word3754 2865
+- word2227
++ word2319 3649
+- word871
+word4030
+word5753
++ word4755 1649
++ word6946 2872
+word2214
++ word1599 5668
++ word4851 4335
+word4149
++ word5849 7991
+word7731
+- word7217
++ word292 1875
+! Save /tmp/dict4.bin
++ word1257 7486
+! Load /tmp/dict1.bin
++ word6751 2512
++ word3993 3551
+- word6921
++ word7438 222
+! Save /tmp/dict5.bin
++ word2772 84
++ word4531 4406
+- word6960
+- word4390
++ word387 4392
++ word892 3067
++ word1992 3356
++ word6144 250
+word5700
++ word4029 9221
++ word975 5002
++ word1940 3649
++ word6584 1880
++ word4596 2657
++ word7017 8622
+- word1398
++ word1929 7409
++ word7934 5682
++ word6514 3481
++ word2022 4595
+word6460
++ word1853 6834
++ word878 2486
++ word7169 1314
+- word3708
+word6716
++ word1548 9419
++ word2992 7477
+- word7038
+- word784
++ word6684 1437
+- word4930
++ word1356 6717
+- word1671
+word1506
+word7462
+word3619
+- word1434
++ word6822 4187
+- word6013
+- word3402
++ word4971 288
++ word3431 2182
+word6593
++ word6429 4087
+word5850
++ word5261 2692
+- word3217
+word2363
++ word931 4718
++ word1155 4302
++ word1279 1413
++ word4366 6781
++ word4712 7535
++ word2318 9853
+word7478
+word7937
++ word6800 2305
++ word7366 1907
+! Load /tmp/dict6.bin
+word4208
+- word3312
++ word6071 7096
++ word1017 1845
+- word6381
++ word1238 7682
+word1486
++ word1845 9632
+word2399
++ word4149 1355
++ word6579 2686
+word539
++ word7350 9290
++ word831 67
++ word7710 7414
++ word4756 8191
+word1938
+- word1883
+word3900
++ word1215 7092
+- word6763
+! Load /tmp/dict9.bin
++ word1710 6319
+word2633
++ word2196 3317
++ word6539 6740
++ word7134 7527
++ word6750 593
++ word1042 6620
+word5193
++ word3627 948
+- word7300
+word4558
++ word7973 9237
++ word3042 6738
++ word4798 8357
++ word3980 2657
++ word2051 354
++ word4458 1570
++ LongWordWithMixedCase50 3067
++ word7620 3254
+- word837
++ word1659 9675
+word3692
+- word6151
++ word6035 4064
+word781
++ word5818 1502
++ word2687 6188
+word3997
++ word6204 9397
++ word5858 5726
++ word7303 4349
++ word1812 6860
++ word833 6794
++ word456 3176
+- word2114
++ word5323 5055
+- word4850
++ word253 8348
+! Load /tmp/dict6.bin
++ word2249 6914
++ word7946 9953
++ word5714 2442
++ word4006 6891
+- word832
++ word6734 1701
++ word572 9180
++ word825 6909
+! Load /tmp/dict1.bin
++ word3260 3100
+- word6718
+- word1154
++ word5693 1395
++ word2648 370
++ word2308 5359
++ word1776 9544
+word1176
+word3698
++ word3416 8056
+word3041
+RandomStringvjPNvSkdwa
++ word6019 9124
++ word2748 5967
++ word7906 3718
++ word3751 266
++ word7153 2179
++ word6326 3119
++ word6589 5035
+word234
++ word2566 8598
++ word3822 8466
++ word2863 2349
++ word7856 4387
++ word7703 3659
+- word5534
+- word2104
++ word183 3711
++ word7740 8441
++ word3149 8356
+word4080
+- word6002
++ word7552 1734
+word2032
+- word3823
++ word7106 4703
++ word1360 3671
++ word4026 6455
+- word3063
++ LongWordWithMixedCase69 2807
++ word1989 5552
++ word5038 3614
++ word7070 6053
++ word109 255
+word7412
+- word3109
++ word6866 4349
+! Load /tmp/dict6.bin
+- word542
++ word844 2489
+- word3840
+word3168
+- word6328
++ word142 5401
++ word7168 222
++ word2657 6084
+- word1211
+word225
+- word1685
++ word4119 5223
++ word3891 8739
++ word6367 4529
++ word389 8617
++ word7082 6227
+word4012
++ word6493 4912
++ word2370 5811
+word1918
++ word5174 2660
+word257
+word2059
+- word1647
++ word4937 6471
+- word1824
++ word6094 4618
++ word7021 1406
++ word4053 9138
+word3090
++ word5601 8602
+word1023
++ word1773 5650
+word4385
+word5599
+word2267
++ word5513 6225
++ word2311 4195
++ word4191 4562
+! Save /tmp/dict9.bin
++ word4116 6462
++ word6477 4955
++ word983 4056
+word6934
+word955
++ word6152 3406
++ word3548 3509
+! Save /tmp/dict8.bin
+word1131
++ word5794 6874
++ word587 883
+word3628
++ word5461 9533
++ word1204 5611
+! Load /tmp/dict10.bin
+word142
++ word2962 9585
++ word3036 7614
++ word5952 396
++ word2989 4612
++ word1986 2378
+word5599
++ word4136 3204
++ word7489 6087
++ word6263 5301
++ word4255 405
+- word3676
++ word1219 2759
+word798
++ word4602 3900
++ word856 9003
+word1528
+word41
++ word3595 9181
++ word184 7019
++ word5298 7017
+- word6450
+- LongWordWithMixedCase30
++ word404 431
++ word6862 6713
++ word484 6896
+! Save /tmp/dict2.bin
++ word4725 4183
++ word7727 4353
+- word3042
+! Save /tmp/dict8.bin
++ word748 2023
+- word7833
++ word7473 7507
+word7612
+word7864
+word3183
++ word3061 1538
++ word6287 5624
++ word4748 2128
+word7830
++ word565 410
+word7713
++ word1147 3436
++ word5900 791
++ word4880 4753
+- word6860
++ word124 5069
++ word608 792
+- word572
+- word5247
+word5179
+- word5509
++ word484 3754
++ word7817 9083
++ word6272 8843
+word3550
++ word7248 942
++ word3125 7071
++ word701 2339
++ word3772 8216
++ word7522 7337
++ word348 960
++ word311 9542
+word220
++ word674 5008
++ word3487 9711
++ word4444 1633
++ word2843 4334
++ word800 9622
++ word1932 9969
++ word181 9702
+- word2963
++ word811 6496
++ word4766 3275
+- word3471
++ word7987 4695
+- word3099
++ word3352 7345
+- word1052
++ word752 8332
++ word7199 7421
++ RandomStringiNReomLRZE 9382
++ word3280 9761
+! Load /tmp/dict4.bin
++ word3389 1327
++ word55 7984
+- word3503
+! Load /tmp/dict9.bin
++ word2704 6378
+word1748
++ word2756 5272
++ word2624 9758
+- word5183
++ word1780 2915
+- word6767
+- word3342
++ word2495 6362
+- word7580
+! Load /tmp/dict7.bin
+word1111
+- word7307
++ word6649 7601
++ word25 5566
++ word5984 7915
+word1024
++ word3104 2000
++ word2192 6011
++ word3857 872
++ word6075 80
++ LongWordWithMixedCase78 2798
+- word6107
++ word7566 6088
++ word6977 5867
++ word1434 9556
++ word3136 7406
++ word4573 4804
++ word4010 5022
+word2269
+- word3136
++ word5296 4473
++ RandomStringgUNXijJiPH 3462
+- word7612
++ word4230 4349
+- word6012
+- word2378
++ word7205 1763
+word6056
+word1808
+! Load /tmp/dict2.bin
++ word5744 6953
++ word2648 7797
++ word3272 7462
+- word3822
+word1344
++ word4677 1709
+word2041
+word7701
++ word2572 4045
+! Save /tmp/dict6.bin
++ word4020 3353
++ word795 4076
++ word3073 9565
++ word6910 2908
++ word7252 2790
++ word7698 2551
++ word7658 8082
+word637
+- word7290
++ word1921 502
++ word4561 4632
++ word2248 7092
++ word3641 7661
+- word1795
++ word3025 5778
+- word7770
+word4352
++ word7232 1239
++ LongWordWithMixedCase100 7201
++ word1374 2984
+word3349
++ word3450 8969
+word3886
++ word7839 6293
+- word5552
++ word3902 2178
++ word5573 6933
++ word7063 1188
++ word5252 5008
+- word2250
++ word6044 4746
+! Save /tmp/dict6.bin
+word1505
++ word6709 5390
+word6542
+- word3960
+word257
++ word1361 7725
++ word1977 2994
++ word1591 835
++ word5223 3595
+word5832
++ word7623 1155
++ word6444 4817
++ word7976 3875
++ word203 6103
++ word5295 5439
++ word3656 8391
+! Save /tmp/dict10.bin
++ word7987 9988
+word1745
++ word3857 2590
++ word1890 4002
+- word2557
+- word4045
+word3940
++ word3870 1507
+word2101
++ word4967 780
+! Load /tmp/dict4.bin
++ word2149 2601
++ word3967 4927
++ word5130 2227
++ word7840 41
++ word2787 5520
++ word3053 2404
++ word3094 9972
+word62
++ word7396 3863
++ word3132 6655
+! Save /tmp/dict4.bin
+word2786
++ word1798 2590
++ word7883 6280
+- word206
++ word2792 1539
++ word2949 3276
+word5691
+- word6811
+- word821
++ word1530 286
++ word6762 9237
++ word5130 7149
+word815
++ word4631 8585
+- word3635
++ word2496 1234
++ word6456 196
++ word3344 440
++ word2409 2562
++ word5303 5414
++ word2214 3205
++ word4296 2827
+word3648
++ word2664 8106
+word2179
+- word607
+word4347
++ word6222 6778
++ word4569 104
++ word6320 8098
++ word4410 7568
++ word4568 3957
++ word4983 9797
+word919
++ word2647 7583
++ word3710 4344
+word1611
++ word3129 4017
+- word4974
+! Save /tmp/dict6.bin
+word5307
++ word5452 3060
++ word7310 9179
+word3994
++ word6034 6972
++ word4808 1207
+! Save /tmp/dict1.bin
++ word1616 3394
+- word3988
++ word2466 4080
++ word3719 6536
++ word7479 4380
++ word3474 5897
+- word4148
++ word6390 1211
+! Load /tmp/dict3.bin
++ word139 7075
+word4169
+word2744
+word22
+word7483
++ word7934 153
+word7603
++ word5987 3259
++ word213 5110
++ word7371 6958
+word7000
++ word5431 7448
+word3290
++ word187 6499
+word2070
++ word1569 1729
+- word5652
++ word576 4054
++ word5621 722
++ word3272 5245
+word2001
++ word7161 7699
++ word1282 3164
++ RandomStringkNvizpbMFJ 2782
+word1661
+word7507
+- word2974
+word5734
+word6735
+! Load /tmp/dict1.bin
++ word4942 7174
++ word2811 3921
++ word2852 3383
++ word5795 9750
++ word6394 1728
++ word1885 4082
++ word2962 5720
+- word7838
++ word1576 6428
++ word3974 1575
++ word5707 1561
+- word676
++ word1454 7896
+word19
+word6159
++ word212 382
+- word3286
++ word554 3242
+word5819
++ word7818 4767
++ word450 6029
++ word5745 3257
++ word3974 2461
+word4601
++ word2813 6879
++ word752 3415
+- word4483
+word1595
+- word3633
++ word1467 1441
++ word7379 8094
+- word5145
+word1594
+word5223
+! Load /tmp/dict10.bin
++ word680 6275
+word4762
++ word5846 7942
++ word3499 1021
+- word1190
++ word6567 2878
++ word6359 4440
+word2426
+- word4098
++ word5351 9793
+- word7552
+- word2634
+word1944
++ word4751 7671
++ word7350 9959
++ word2984 3983
++ word389 5961
++ word2316 5643
+- word5905
++ word4007 5322
+- word5092
+word1533
++ word703 4040
++ word725 6913
++ word5123 6774
++ word7458 1581
++ word6179 512
++ word5001 5312
++ word7917 2385
++ word1539 8862
++ word5323 6218
++ word812 9068
++ word3988 3041
+- word516
++ word1306 9732
++ word5969 3493
++ word1813 4814
+word13
++ word7327 560
+word2642
++ word2351 7004
++ word7819 2981
++ word2354 7246
+- word1282
++ word314 5654
++ word5466 6470
+word1161
+word497
++ word644 505
++ word1203 1165
++ word5563 6002
++ word3418 6548
++ word7684 1525
++ word7926 7214
++ RandomStringaZfxqyJpCc 8065
++ word6359 7155
++ word1942 4972
++ word3919 301
+! Load /tmp/dict7.bin
+word4510
++ word224 5669
+word2118
++ word6786 6889
++ word806 1086
+word2330
+- word7828
++ word6578 4607
++ word4743 9777
+! Save /tmp/dict7.bin
+! Save /tmp/dict7.bin
++ word1301 6095
++ word1436 1286
+word6617
++ word7182 162
+word618
+- word4949
+- word5820
+! Save /tmp/dict2.bin
+word7877
++ word7486 5693
++ word27 1007
++ word5315 466
++ word4775 6430
++ word5950 7124
+word2733
+! Load /tmp/dict7.bin
++ word1667 6110
+word843
++ word7756 7013
+! Load /tmp/dict9.bin
+- word4427
+! Save /tmp/dict10.bin
+word7796
+- word818
++ word6891 1086
++ word1308 8422
+word2344
++ word3491 4327
+word717
+word1900
++ word6873 9305
++ word6380 490
++ word1507 4389
+word7678
++ word1686 1242
++ word6512 2305
++ word265 6843
+word4097
++ word4879 3012
+! Load /tmp/dict10.bin
++ word7888 5699
++ word1262 3259
+word2420
+- word7355
++ word7759 7226
++ word4358 7948
+word7946
++ word1742 2479
++ LongWordWithMixedCase78 7686
++ word4470 4362
++ word7902 6512
++ word7596 470
+word28
++ word6464 8764
++ word228 272
+! Load /tmp/dict4.bin
++ word1922 2113
+word2078
++ word6885 4022
+word1658
+- word2909
+- word7805
+- word7379
+word7468
++ word1068 5795
+! Load /tmp/dict8.bin
++ word7459 1807
+word2238
+- RandomStringlfSZFPNGLL
++ word7206 6168
++ word3444 7949
+! Save /tmp/dict7.bin
+word531
+word2329
++ word4042 7037
++ word5182 5121
+- word6481
++ word6232 6031
+! Save /tmp/dict10.bin
+word7364
++ word4740 5914
+- word135
+word2541
++ word336 4069
+word159
++ word1654 1539
+word2773
+- word558
++ word1846 5667
+word5948
++ word2799 8767
+- word7491
++ word5458 9380
+- word4411
+- word3196
++ word4676 5463
+word785
++ word7294 2697
++ word7782 6566
+word6279
++ word392 394
++ word2314 5258
+word342
++ word2021 7496
++ word3607 2442
++ word6583 6189
++ word468 4161
+word1323
+word2048
++ word5207 4928
++ word2233 199
++ word2888 7173
+word4222
+- word1392
++ word7825 1380
+word483
+word125
+- word6712
+word3390
+- word634
+- word3631
++ word2724 7153
++ word7328 360
+- word7332
+word7297
++ word2618 7885
++ word6543 9541
+word7781
++ word451 3643
++ word472 7760
++ word4532 8529
++ word2828 6422
++ word7933 8409
++ word1249 1884
++ word5416 9382
++ word2530 5676
++ word7017 319
++ word7139 3915
++ word898 1973
+RandomStringUhCJFTyTEk
++ word3325 5417
++ word2969 1277
+word4756
++ word2169 4890
+word2582
+- word2865
+- word4567
++ word3825 8734
+- word237
++ word4444 6047
++ word2957 9624
+- word1255
++ word6185 6216
+- word1698
+- word3513
++ word6379 357
++ word3566 1403
++ word3973 4812
++ word1366 3330
+! Save /tmp/dict6.bin
++ word3507 7061
+- word7950
++ word5439 291
++ word6798 9481
++ word92 9115
++ word2434 5477
+- word1807
+- word3571
+word2518
+word6720
++ word1964 4773
+word4386
++ word882 6392
++ word6691 7151
++ word3850 7536
++ word5930 8818
++ word4640 5964
++ word7747 5305
+- word7188
++ word5552 5728
++ word7893 848
+- word2805
++ word99 2218
++ word1024 4246
++ word1524 1584
+word4180
++ word5346 5801
+- word2478
++ word6069 8432
+word3370
+- word7652
++ word2258 9188
++ word63 4387
++ word6572 6133
+! Load /tmp/dict4.bin
+! Save /tmp/dict2.bin
++ word382 3307
+! Save /tmp/dict7.bin
++ word5176 9530
+word7374
++ word5068 4536
++ word738 7536
++ word2347 8476
++ word4253 9359
++ word7402 3542
+! Load /tmp/dict6.bin
++ word561 7474
++ word4937 8709
++ word5971 8765
++ word5864 8061
+- word7214
++ word7307 2899
+word2244
+word898
++ word4821 9675
++ word6387 6781
+word5756
++ word2386 3146
++ word6389 9364
+! Load /tmp/dict9.bin
+! Save /tmp/dict8.bin
++ word7898 9819
++ word1807 1651
++ word5492 8627
++ word4492 1298
++ word4704 668
++ word6530 6577
++ word4993 1450
++ word6004 5348
+! Load /tmp/dict5.bin
++ word3602 3816
+- word1110
++ word5675 5655
++ word2664 7115
+word415
+word1890
++ word7833 4556
++ word4029 4943
++ word5265 586
++ word2470 2959
++ word4554 2142
+- word3021
++ word2329 9370
++ word3365 8034
++ word7803 6954
+word660
+word5534
++ word6659 7698
++ word4439 2097
+word3821
+word131
+word4099
++ RandomStringVSYUAIskLE 1299
+- word7065
++ word5576 1801
++ word6905 6551
+- word2029
+- word2637
+- word2512
++ word591 2142
++ word6528 5240
++ word406 3259
+! Load /tmp/dict5.bin
++ word1251 3958
++ word1820 9384
+word4981
++ word5744 4235
++ word7907 7526
+word2885
+- word7
++ word320 3361
+! Save /tmp/dict8.bin
++ word741 3724
+- word256
+word2680
++ word49 7292
++ word1044 3619
++ word5505 6160
++ word6920 3213
+! Load /tmp/dict1.bin
+word7589
++ word4593 9492
+word3501
+word5487
++ word7317 9062
+word3695
+! Save /tmp/dict5.bin
+word801
++ word856 1913
+word483
++ word3693 9000
++ word3608 8819
++ word6389 6742
+- word633
+word474
++ word3798 4793
+word549
+word2354
+word1107
++ word5242 5656
++ word1539 4417
++ word7031 4524
+- word5862
++ word6533 3686
+- word2804
++ word1285 8888
+- word5803
++ word2804 4147
++ word5344 3604
++ word4969 1515
+word865
+- word5430
++ word3601 6095
++ word3909 9163
+- word4925
+word1248
+- word1249
++ word4955 8192
+- word6406
+word692
++ word7323 8718
++ word1687 9704
++ word650 6889
+- word1387
+- word6916
+word4974
++ LongWordWithMixedCase30 5516
++ word3851 8055
++ word3478 2667
+word1350
+word4549
++ word7872 3038
+word3701
++ word1886 9219
++ word7641 6474
+word7529
+- word6950
++ word6243 2438
++ word218 1963
+word1736
+word3553
++ word7336 9405
+- word1831
+- word5914
+- word2856
++ word5987 3741
+- word7664
+word3225
++ word6672 5372
+word1604
++ word1860 9633
++ word4389 2219
++ word2394 44
++ word5635 148
++ word6815 4527
++ word5971 8143
++ word2719 8857
+word7709
+- word3393
++ word4452 9672
++ word7881 7095
++ word4270 9836
++ word1616 4944
+LongWordWithMixedCase6
++ word7451 3051
+word1295
++ word3376 9526
++ word5343 8615
++ word3113 2730
++ word719 1622
+word3524
+word3650
++ word4572 2059
++ word989 895
+! Save /tmp/dict10.bin
++ word7150 6440
++ word4639 6138
++ word5865 6477
++ word3118 6453
+word2146
++ word7767 2205
+- word4043
++ word3064 261
++ word2377 8306
++ word5720 4876
+word832
+word3128
++ word5593 1090
+word5645
++ word7280 6031
+word6337
++ word3940 5754
+word3763
+word5807
+word3409
++ word6881 9892
++ word404 207
++ word6334 596
+word3425
++ word7492 5139
+- word3964
++ word7421 201
+- word7507
++ word152 9609
+word4519
++ word4942 40
++ word5450 4384
++ word6222 142
++ word4037 2479
+word5499
++ word3350 19
+word4734
+- word5012
++ word5078 3932
+word274
++ word4315 5528
++ word4011 5568
++ word952 9926
+word3668
++ word2159 5007
+word6454
++ word3576 9942
++ word926 623
+word6544
+! Save /tmp/dict2.bin
+- word5390
+! Load /tmp/dict3.bin
+- word5079
++ word5839 9154
++ word6198 6432
++ word7889 5938
++ word2 7401
++ word5681 1787
++ word1299 2315
+word4190
+word1065
++ word2611 4168
++ word5977 423
+- word988
+- word2897
++ word7314 5153
++ word1187 1833
++ word5444 5438
++ word1429 959
+! Save /tmp/dict4.bin
+word6398
+word2296
++ word2030 92
++ word3072 2897
++ word3017 9979
++ word1820 2873
++ word5512 70
++ word6786 6851
++ word1319 1529
++ word4351 6344
++ word3838 6910
++ word2072 562
++ word3812 247
++ word3491 2715
++ word4744 7851
+word7480
+- word2969
++ word2365 2092
++ word7121 8326
++ word29 3546
++ word5433 626
+- word7388
+word2571
+- word5277
++ LongWordWithMixedCase16 8857
++ word4858 9926
++ word1381 5733
+word7166
++ word3479 9248
++ word3307 5207
++ word7550 5270
++ word1239 4533
+word5352
++ word6166 4212
++ word6047 7274
+- word7561
++ word1358 747
+word7005
++ word447 1872
++ word7652 8042
++ word4267 7884
+- word4905
+- word6056
+- word2182
++ word7772 5147
++ word3568 4123
+word3564
++ word2861 6678
++ word2448 9071
++ word3871 5160
+word7007
++ word1390 7055
+- word3514
++ word2231 7845
+word7683
+! Load /tmp/dict5.bin
++ word7235 102
++ word1717 621
++ word1622 7890
+word5488
+! Load /tmp/dict6.bin
+- word7035
+word4297
+! Save /tmp/dict8.bin
++ word2404 1789
+word6053
+! Load /tmp/dict9.bin
++ word3545 8436
+word7178
++ word5321 7133
++ word5426 8654
++ word3022 376
+! Load /tmp/dict1.bin
++ word1065 8449
+word5115
++ word965 2434
+word519
++ word911 7846
+word489
++ word3171 8033
++ word43 8890
++ word4508 4052
+- word3446
++ word3738 9714
+word6786
++ word2259 3864
+word6334
+word7545
++ word5545 6147
++ word6721 3554
+word3090
++ word4162 8923
++ word4417 8445
++ word7756 8781
++ word1812 7988
+- word4799
+word2272
+! Load /tmp/dict10.bin
++ word4829 1089
++ word6837 231
++ word1281 3656
++ word1514 7282
+word7779
+word6715
++ word275 317
++ word6807 6441
++ word727 7028
++ word5643 4864
+word2378
+word1168
++ word3750 6568
+word7188
++ word2067 6588
+- word3012
+word4387
+word3435
+word60
++ word4380 9516
++ word6158 3450
+word5906
++ word7950 7460
++ word5699 5112
+word4544
+word3292
++ word6682 496
+word6955
++ word4298 5220
+word5452
+LongWordWithMixedCase100
++ word3835 3150
+word1103
+- word2504
++ word5187 9688
+! Load /tmp/dict8.bin
+- word3632
++ word5647 5216
++ word1040 8704
++ word3995 6850
++ word6538 6676
+- word6664
++ word3967 2022
+- word5108
++ word1065 4900
++ word1950 6214
+! Load /tmp/dict9.bin
++ word2878 5
+- word6988
++ word7524 9778
++ word6690 7502
++ word5363 2332
+- word3799
++ word2770 5784
+- LongWordWithMixedCase20
++ word4569 8839
++ word840 4582
++ word7918 5047
+- word7199
+word240
+- word5067
+word6522
++ word6364 5798
++ word4957 3628
++ word1313 4533
+- word1254
++ word6732 1251
++ LongWordWithMixedCase16 636
+- word3546
++ word3426 2309
++ word1071 3870
++ word6021 4443
++ word3888 1900
++ word5993 4580
+- word1058
+- word1656
++ word5995 8475
+word5943
++ word5009 6358
++ word3104 9802
++ word3229 6091
++ word6505 1425
+word1781
++ word2409 99
+- word7872
+word3099
++ word7844 4731
++ word1279 1934
++ word1814 289
+word7360
+word369
++ word2998 1082
+- word222
+- word712
+word4852
++ word5447 3393
++ word5823 7967
+word717
+LongWordWithMixedCase45
+word3343
+- word1898
+- word5021
++ word2879 8742
+word5477
++ word1838 5954
+word3177
++ word5657 949
++ word3850 7712
+- word7096
++ word4344 5166
++ RandomStringWtURooKtSc 3409
+word7622
+word7031
++ word6758 8529
+! Load /tmp/dict6.bin
++ word4947 1590
++ word6235 1557
++ word6513 7458
++ word2277 2058
+! Save /tmp/dict3.bin
+word2150
+- word1251
++ word1015 5057
++ word6427 4517
++ word4838 7417
+word6194
+word4996
++ word2043 553
++ word7349 4420
+- word5991
+- word1329
+word2152
++ word6489 517
+! Load /tmp/dict8.bin
+word7232
+word6790
++ word2984 8887
++ word1151 9741
+! Load /tmp/dict5.bin
++ word5582 6419
++ word5171 6645
+word4256
++ word749 4637
++ word1083 8975
++ word4936 5045
++ word7604 5966
++ word949 1443
++ word2965 9160
++ word2038 901
++ word6772 7512
+- word1859
++ word7280 8743
+word6272
++ word7621 4642
++ word3556 7871
+word7572
++ word7006 5768
++ word502 4048
+word5629
+- word6994
+- word7
+word6119
++ word4308 9385
+word3507
++ word729 2316
++ word6092 5873
++ word1136 3653
+word7328
+word2105
++ word2279 4789
+LongWordWithMixedCase42
+- word6199
++ word59 3852
+! Load /tmp/dict10.bin
++ word4793 6835
+- word13
+word5803
++ word4533 6307
++ word3611 9862
+word3715
+word5268
++ word4700 4546
++ word247 2535
+! Save /tmp/dict5.bin
+- word450
++ word4035 7800
++ word7519 567
++ word6510 4521
++ word2003 1862
+- word3851
++ word883 7953
++ word1680 3042
+word4355
+- word4502
++ word735 8841
++ word7584 1703
++ word3403 3246
++ word5803 5120
++ word5023 8085
++ word1071 8350
+! Load /tmp/dict1.bin
+! Save /tmp/dict6.bin
++ word1316 3329
++ word4116 6664
++ word3033 8740
++ word4491 8876
++ word2397 6509
+word2458
++ word3388 7989
++ word2281 4998
+- word1039
++ word628 3926
++ word1674 8540
++ word2877 8114
++ word1952 4600
++ word6084 9011
++ word4928 4061
+word3159
+word1358
++ word4087 5671
++ word4245 4406
++ word544 8739
+word1144
++ word7678 1535
++ word641 8399
+word3594
++ word6315 1426
+word7494
++ word2941 5319
++ word3008 2285
+word2139
++ word1524 3110
++ word2704 4255
+word10
++ word4347 762
+word499
+word7485
+word4210
++ word2660 6268
++ word6177 2034
++ word404 1942
++ word6045 8799
+word4641
++ word2977 2279
++ word1177 3274
+word6769
++ word7343 5683
+- word841
+- word1649
+! Load /tmp/dict2.bin
+word6719
+word4334
+word5424
++ word6204 6456
++ word7098 314
+- word4490
+- word2233
+- word6913
+word4692
++ word7345 9538
+! Save /tmp/dict4.bin
++ word4540 2219
++ word3442 1930
+word4473
++ word4634 6788
+- word5022
++ word889 4953
++ word2876 3704
++ word6944 3612
++ word3988 7244
+word2230
+word3202
++ word1144 7408
+word1407
+! Load /tmp/dict9.bin
++ word6898 7090
++ word3923 6975
+- word6080
++ word3532 1758
+- word4363
++ word2380 7645
+- word3918
++ word4051 8570
+- word1014
++ word1783 2185
+word7067
++ word5618 9393
++ word7637 5561
++ word2419 6887
+- word702
+- word5127
++ word4969 2889
++ word2962 4290
++ word6322 5723
++ word3326 8726
+word4952
+word5903
+word6911
+word1842
++ word472 9549
+word5269
++ word4028 6629
+- word4157
++ word5674 720
+! Save /tmp/dict6.bin
+word5970
+! Load /tmp/dict7.bin
++ word3006 5625
+! Load /tmp/dict5.bin
+word5806
+! Load /tmp/dict3.bin
+word3846
++ word2403 2238
++ word403 1040
++ word6580 3251
++ word195 1866
+! Load /tmp/dict1.bin
++ word420 6065
++ word7788 9851
++ word7816 1475
+- word1017
+word5831
++ word5561 16
++ word7158 4115
++ word4730 2143
++ word2530 4678
+word7016
++ word2113 1188
++ word7123 4639
++ word3275 9121
+word4052
++ word1864 1150
+- word2942
++ word5367 5404
+word1633
++ word3197 9531
+word4038
++ word3299 1774
+word1971
++ word1087 7039
+word6832
++ word263 8715
+- word4472
++ word1806 5623
++ word3695 7912
++ word7869 349
++ word3197 6796
++ word3811 4229
++ word7199 316
++ word919 6309
+- word1200
+word3705
++ word6177 9406
++ LongWordWithMixedCase71 8820
+! Save /tmp/dict7.bin
++ word1377 8909
+word5458
++ word4045 6220
++ word5884 980
+word3513
++ word6447 762
+word1262
++ word5288 2524
++ word2668 3397
+- word3097
+word5511
++ word2756 717
++ word3510 5608
++ word4367 2327
++ word4325 3865
+- word235
++ RandomStringuXoNnZTqTO 1203
+word6914
+- word1138
+- word501
++ word6082 2372
+word5359
+word2209
++ word4557 8327
++ word453 7758
++ word946 7484
+word5438
++ word5608 5120
+word6054
+word4680
+LongWordWithMixedCase76
+- word7392
++ word3985 395
++ word806 2464
+- LongWordWithMixedCase76
++ word7063 746
+- word1046
+word5774
++ word1356 151
+word4948
++ word4921 7436
+- word1067
++ word7091 9877
+word3887
++ word6259 4949
++ word3189 2767
++ word384 6447
++ RandomStringLgWIURaDgT 6303
+! Load /tmp/dict4.bin
+word97
++ word6377 269
+! Save /tmp/dict8.bin
++ word309 8285
++ word4264 9476
++ word7811 8389
+word5202
++ word6773 6694
+word5434
+- word565
+! Save /tmp/dict6.bin
+word1675
++ word1952 3308
++ word2821 6992
++ word5148 6735
++ word5724 8369
++ word721 5407
++ word6982 1067
+word5788
+- word7516
++ word6966 6960
+- word2506
+word4518
++ word2675 8304
+word3450
++ word7036 1900
+- word5899
+- word2238
+word7475
++ word4949 4016
+word4781
++ word697 4771
++ word729 766
++ word4834 7340
++ word5148 9732
++ word6414 5957
+- word6358
+! Load /tmp/dict5.bin
+- word6499
++ word7223 7501
++ word3576 296
+word2413
++ word1301 1614
+word6655
+word1344
++ word380 2313
+word1422
++ word5820 9731
++ word7343 8121
++ word1039 7475
++ word7556 3906
+word2125
++ word3094 8031
+- word3140
+word6491
+- word4553
+- word4626
+- word1251
++ word7998 6214
+word3833
+word1154
++ word4771 2615
++ word1580 5020
++ word4326 4542
++ word7395 9691
++ word7677 9025
+word3412
+- word7576
+word6843
+- word5053
++ word550 8779
++ word6851 2634
+- word1291
+! Save /tmp/dict1.bin
++ word56 2332
++ word4952 3610
++ word212 971
++ word5551 1030
++ word1153 3010
++ word6610 539
+word2487
+word4806
++ word1039 9454
++ word4631 3485
++ word7906 5760
++ word5951 8804
+word4928
++ word7517 7701
+word4815
+word7018
++ word1891 9558
+- word4297
++ word4812 8458
++ word6624 706
++ word5667 1295
++ word876 6306
++ word5239 3659
+word4158
+word4558
++ word2406 8930
++ word3116 4702
++ word6969 5145
++ word7262 2208
+word5786
++ word1611 44
+- word907
++ word7797 2914
++ word824 6110
++ word6626 3156
+- RandomStringnGBLFyRFww
++ LongWordWithMixedCase48 7360
+- word2956
++ word7677 341
++ word7097 4802
++ word3522 3814
+! Load /tmp/dict8.bin
++ word1546 259
+- word1914
+word2292
++ word2493 671
++ word4395 6759
++ word4472 2897
++ word4839 4559
++ word4263 6699
++ word3418 2973
++ word1918 371
++ word851 5755
+- word2997
+- word4186
++ word4764 4701
++ word5771 8223
++ word2507 1250
+word409
++ word3936 6713
+- word5072
+- word3414
+! Load /tmp/dict4.bin
++ word2665 5048
++ word1482 3543
++ word1811 1165
+word7975
++ word5051 9441
+- word2232
++ word6816 2912
+word7858
+- word5920
++ word7638 9445
+- word2282
++ word54 8248
++ word2965 1468
+- word7584
+word6627
++ word7367 389
++ LongWordWithMixedCase71 5140
++ word680 1949
++ word617 6249
++ word7537 6607
+- word7733
++ word4055 5823
+word7081
+word1215
+! Load /tmp/dict1.bin
++ word1248 940
++ word7259 1763
++ word4003 5595
++ word4128 8527
++ word825 9210
++ word1720 4966
++ word3700 4418
+- word5736
++ word2638 7835
+word6303
++ word1322 5299
++ word1909 3400
+word7056
++ word2378 4900
+word196
++ word5963 1508
++ word674 6559
+- word4659
++ word1785 8635
++ word7123 4131
++ word1568 1606
+- word7322
+word4098
++ word6593 5584
+word7221
++ word913 8548
+word1261
+word2319
++ word3254 8770
++ word688 5483
++ word1258 4185
+- word5324
+- word5073
++ word6729 2414
++ word5938 9824
+! Load /tmp/dict4.bin
+word7262
+word432
++ word1821 704
++ word3562 6169
+word7375
++ word292 540
+word4825
++ word784 9444
+word3645
++ word5212 6799
++ word2036 6478
++ word5099 7265
++ word4908 6875
++ word7624 8272
++ word1590 1526
++ word7783 1530
++ word721 2696
++ word3743 3772
++ word5708 4758
++ word1493 7630
+- word3845
++ word4099 3777
+word3982
++ word2401 3994
++ word2068 2433
+word5738
++ word3285 2002
+! Load /tmp/dict2.bin
++ word5807 5039
+word3955
+- word4989
++ word187 1637
++ word12 5601
+word5000
++ word4998 5105
++ word3488 4448
+- word4284
++ word4894 5019
++ word2239 9676
++ word2926 927
+- word4675
+! Load /tmp/dict4.bin
+word2105
++ word2101 4619
++ word1672 4153
+! Save /tmp/dict5.bin
+- word5751
+word6789
+! Save /tmp/dict2.bin
++ word1827 8835
++ word2078 4898
+word435
++ word2700 2021
++ word5554 7684
++ word7727 6075
++ word222 5368
+- word2322
++ word31 9012
+word883
++ word1018 4142
++ word4134 3340
+- word5613
+! Load /tmp/dict10.bin
+- word353
++ word6491 4530
++ word6746 9288
+- word7600
++ word3686 3597
+- word5380
+! Load /tmp/dict3.bin
+- word7545
+- word3078
+- word4334
++ word659 1198
++ word1596 3747
++ word5823 1614
++ word2506 7636
+- LongWordWithMixedCase24
++ word5339 5796
+- word5740
++ word1214 4678
++ word5072 1729
+- word5168
+! Save /tmp/dict9.bin
++ word5435 602
++ word1256 434
++ word4640 1641
+word3568
++ word3523 9264
+word947
+- word3012
++ word7897 3768
++ word5900 2247
+- word497
+! Load /tmp/dict7.bin
+- word2240
++ word7862 6595
++ word2341 5138
++ word2962 8995
++ word1005 8369
+! Save /tmp/dict7.bin
++ word3715 9657
+word4456
++ word1674 7530
++ word2312 6164
+! Load /tmp/dict6.bin
+word4321
+! Save /tmp/dict3.bin
++ word3224 3840
++ word7424 1824
+word3662
+- word35
+word4612
+word2107
++ word21 4068
+word4302
+word6526
++ word2821 3091
+word262
++ word4231 5710
+word6747
+- word2518
++ word3941 8456
+word4811
++ word3129 1956
++ word809 9159
++ word3690 2934
+word6642
+- word1132
++ word6025 3864
+! Save /tmp/dict9.bin
++ word7051 8255
++ word7922 3909
++ word7549 6482
+! Load /tmp/dict1.bin
++ word369 2702
++ word2943 8171
++ word5949 709
+- word5187
++ word1815 1488
++ word7795 5121
++ word7524 5644
++ word4498 7177
++ word6619 5083
+- word3651
+- word423
++ word6466 5152
++ word3620 2758
++ word3357 7247
+- word3871
++ word5815 6318
++ word3693 1284
++ word4500 7968
++ word166 67
++ word4071 6738
++ word4359 7230
++ word1362 7129
++ word848 2897
+- word49
+- word1110
++ word1673 7256
+word2300
++ word2349 5147
++ word7598 5387
++ RandomStringiNReomLRZE 2000
+word7588
++ word4699 7078
+word1617
++ word4635 8406
+word3705
+- word1335
+! Save /tmp/dict10.bin
+word2643
++ word2769 3411
++ RandomStringFtYfByyHVr 3980
++ word2847 3422
+word1460
++ word3343 4132
++ word1818 4334
++ word4321 1134
+word3191
+word589
++ word4988 2622
+- word2198
+- word2307
++ word4378 6702
+word4164
+- word5219
+word3374
++ word1877 7413
++ word1539 9930
+word6570
++ word7582 1971
+word1754
+word859
+- word7249
++ word7273 7647
++ word4421 5482
++ word3605 8964
+! Save /tmp/dict7.bin
+! Save /tmp/dict9.bin
++ word2423 6866
++ word4826 3549
++ word3973 6136
++ word7024 274
++ word2690 5083
++ word5739 427
++ LongWordWithMixedCase62 2019
+word1471
+- word4086
++ word2696 7892
++ word6984 2188
++ word5100 6626
++ word1312 7118
++ word4550 4732
++ word4143 9437
++ word5413 2850
++ word791 7251
+word7925
++ word3992 3235
++ word5843 2511
++ word6578 5268
+word5426
++ word4623 8750
++ word2420 9727
+word3475
+- word2494
+- word5331
+- word1942
+- word3640
+word1070
++ word537 2972
+- word4350
++ word1146 88
++ word5763 4272
++ word369 12
++ word5944 8866
+- word548
++ word6934 5593
++ word7762 9611
++ word1451 720
++ word3212 6643
+word1539
++ word2690 7611
+LongWordWithMixedCase100
+word2427
+- word623
+- word7842
+- word7888
++ word4921 1803
+- word778
++ word2436 4074
+! Load /tmp/dict5.bin
++ word2 6213
++ word376 7192
++ word948 7197
++ word5875 6725
+- word925
++ word7045 2948
++ word7437 5593
+word1534
+word4257
++ word7392 4708
++ word2480 5797
++ word3842 8715
++ word3230 8694
++ word1859 8926
++ word4924 6633
+- word7076
+! Load /tmp/dict10.bin
++ word5435 6289
++ word4413 4556
++ word5327 6560
++ word3265 5636
+- word6259
+- word846
++ word6462 6449
++ word2877 9914
++ word1437 1696
+word6593
+! Save /tmp/dict3.bin
+word1097
+word1939
++ word2727 5138
++ word26 2078
+word6133
++ word4558 4706
++ word4080 9836
+word6666
+! Save /tmp/dict7.bin
+word7375
++ word2661 2087
+- word7592
++ word5939 6092
+- word2241
++ word3574 1988
+word3777
+word3517
+word1365
++ word4756 4217
+word6199
++ word6086 2699
+- word7582
+word3224
++ word1509 4094
++ word4131 5613
++ word302 3892
++ word2180 3441
+! Save /tmp/dict10.bin
++ word1952 4313
++ word1842 5605
+word5292
+! Load /tmp/dict7.bin
++ word890 6139
++ word665 7996
++ word5937 7654
+word6721
++ word1967 3561
+! Save /tmp/dict9.bin
++ word7108 6292
+! Save /tmp/dict3.bin
++ word781 1856
++ word5105 1103
++ word2450 7922
+- word5263
+- word2509
+word2839
+word883
+word4610
+word3817
++ word415 3210
+- word7288
+word1508
++ word7948 9900
+word7231
++ word5650 2842
++ word4303 53
+- word4615
++ word4237 8524
+word6179
+word3879
+word7852
++ word4108 1024
++ word3108 6886
+word6451
++ word5606 7895
++ word6974 7180
++ word1312 9651
++ word7231 4540
+- word6747
++ word6187 515
++ word1434 8406
++ word4649 7135
++ word7098 1629
++ LongWordWithMixedCase63 3080
+! Save /tmp/dict10.bin
+word705
+word7799
+- word7375
+- word516
+- word7499
++ word4268 9630
++ word6729 6066
++ word7713 3717
+- word6503
++ word2526 5555
++ word6018 7328
+- word4801
++ word1262 1819
+word5738
++ word4970 6162
+! Save /tmp/dict9.bin
+- word6980
+- word183
+- word7278
+- word1542
+word3065
+word3070
++ word3371 5258
+word7435
+- word1561
+- word2663
++ word3052 1984
++ word1623 2166
++ word2485 6368
+- word995
++ word102 1300
++ word4479 7724
++ word6822 6236
+word7649
++ word1864 6483
++ word474 2767
+word4445
++ word1703 3831
+word2239
+- word2578
++ word5606 4814
+word5954
++ word7584 861
++ word5304 2365
+- word3451
+word838
+- word2192
+! Load /tmp/dict2.bin
++ word559 5536
+word2790
+- word4689
++ word3470 6272
++ word455 3390
+word5478
+word1477
+- word4116
+word1150
+! Save /tmp/dict4.bin
++ word4082 1086
+! Save /tmp/dict6.bin
++ word1014 241
+word2529
+- word3542
+word1051
+- word5920
++ word7053 4471
++ word4569 7056
++ word7523 1363
+- word5396
+- word7075
++ word429 5037
++ word410 5730
++ word77 7469
+- word4902
++ word4937 3097
++ word3014 7301
+- word7063
++ word74 1792
+- word2041
++ word7392 6632
++ word561 3875
++ word4932 2784
++ word1545 3143
++ word1283 7461
++ word5100 962
++ word6184 2008
++ word7729 2990
+- word1884
++ word4119 8587
+- word4683
++ word5438 9155
++ word4981 2454
++ word4152 1082
++ word7789 4928
++ word5977 4089
++ word5955 933
++ word6977 4302
++ word6568 2489
+- word3448
++ word2915 5978
++ word3114 9300
+word2028
++ word4944 4645
++ word1179 471
+word1682
++ word2341 9407
++ word5490 7901
++ word2343 4026
++ word3814 2822
+! Save /tmp/dict8.bin
+word3843
++ word3386 3887
++ word1304 6541
++ word5919 2254
++ word6387 8816
++ word4498 8252
+word7672
++ word6610 3723
++ word6219 332
++ word6564 7372
+word7361
++ word3981 3022
+- word2854
++ word2804 9180
++ word4977 4584
++ word1406 7633
++ word1484 7722
+word2973
++ word40 593
++ word2094 6917
+- word7475
++ word4665 5083
+- word7533
++ word2140 5765
++ word5379 9386
++ word7746 7462
+word3200
++ word2343 2025
+- word577
++ word4982 4995
++ word408 9858
++ word328 7791
++ word1062 9876
+! Save /tmp/dict10.bin
+word139
+- word7305
++ word7795 6570
+! Load /tmp/dict3.bin
++ word1619 1178
++ word1272 3704
+word5881
+- word5750
+word2144
++ word7523 6153
++ word22 6004
++ word4676 3428
+- word5796
+! Save /tmp/dict7.bin
++ word2164 9514
++ word2979 8569
++ word2348 7830
++ word4707 4078
+word5151
+word7724
++ word1810 6631
++ word3167 9612
++ word3948 6713
++ word7441 8993
+word4059
++ word3529 2255
+- word1270
++ word3306 1367
+word7299
++ word7852 1109
+- word7813
+- word1495
+- word4386
++ word208 9123
++ word2746 1255
+! Save /tmp/dict7.bin
+- LongWordWithMixedCase92
++ word7484 2119
+- word1855
++ word4397 2109
+- word2316
+- word7910
++ word7826 7147
+- word5527
++ word6269 2581
++ word61 285
+! Load /tmp/dict1.bin
+word6953
++ word3293 2415
++ word3998 6156
++ word3565 8915
+! Save /tmp/dict9.bin
++ word2942 1418
+- word3001
+word7668
++ word587 1188
++ word7581 2242
+! Load /tmp/dict6.bin
++ word6732 7215
+word5073
++ word1677 3054
+- word2100
++ word2581 1722
++ word5346 4025
++ word4160 4102
++ word2398 5741
+! Save /tmp/dict2.bin
++ word3414 763
++ word4753 5159
+word3762
+- word5425
++ word4414 4806
+! Save /tmp/dict8.bin
++ word4144 8520
+word5946
++ word1182 5979
++ word6442 5917
++ word5198 1322
++ word7570 8677
+word6065
+word7773
+LongWordWithMixedCase54
+! Save /tmp/dict2.bin
+word7688
+word3073
++ word5668 8565
++ word1573 391
++ word6089 775
++ word2969 7087
+- word7246
++ word3831 4033
+word2585
++ word6532 7966
+word19
++ word5143 4966
++ word7891 9220
++ word7426 5580
++ word7053 4290
++ word3894 2862
+word2070
++ word2751 3863
++ LongWordWithMixedCase20 220
+- word1227
++ word1505 5661
++ word5921 8070
++ word37 6102
+! Save /tmp/dict3.bin
++ word5781 7788
+word496
+word6170
+word7703
+- word4334
++ word4078 457
++ RandomStringIOExbtfQYY 1168
++ word785 4717
++ word6503 4443
+word1405
++ word1655 9908
++ word77 8813
++ word7644 4681
++ word7606 5785
+! Save /tmp/dict5.bin
++ word1731 3718
++ word434 9360
++ word7107 7335
++ word1787 6845
+word756
+- word1274
++ word93 6951
++ word1428 5564
++ word3257 9172
+- word3914
+word6540
++ word3098 5726
+word1606
+- word3267
+- word7977
+- word3381
++ word6391 6808
+word6728
++ word1142 5085
++ word4163 5339
++ word6591 8157
++ word3008 72
+! Save /tmp/dict10.bin
+! Save /tmp/dict3.bin
++ word7594 2947
+word134
+word4023
++ word2643 1484
+- word736
++ word234 1067
+word408
+- word73
+word6189
+word6544
++ word2545 8893
++ word5518 9498
+- word3205
+word3175
++ word556 6034
+- word4600
++ word7582 6554
++ word1048 836
++ word1062 4394
++ word1925 9805
+- word57
++ word7479 2605
++ word6765 1475
++ word3552 5391
++ word53 8624
+word6220
++ word7773 6255
++ word2996 3790
+- word7318
++ word294 1142
++ word2202 1571
+! Load /tmp/dict7.bin
++ word6533 5855
++ word5449 3326
++ word5038 6800
++ word1257 7466
++ word119 337
+word3645
+- word5114
++ word242 678
+- word2415
+word37
++ word5040 8940
+word1222
++ word915 2553
++ word2509 7232
++ word2365 958
++ word388 547
++ word5639 7975
++ word1406 7693
++ word5441 305
++ word427 576
++ word1971 5174
++ word7652 9762
+- word7773
+- word2034
+- word1688
++ word532 1656
++ word6388 1623
+word3704
++ word780 9077
+! Save /tmp/dict2.bin
+! Load /tmp/dict2.bin
++ word241 8169
+word5930
++ word7772 138
+- word2174
++ word2941 2030
++ word5624 3965
+word7497
+! Save /tmp/dict8.bin
+! Save /tmp/dict9.bin
+word1362
+word6288
+word2914
++ word4271 7380
++ word1146 2513
+- word4725
+- word7918
+word5072
++ word3640 5153
++ word7951 1864
+word6141
+word4716
++ word1313 5067
+word4058
+word2980
++ word6728 2225
++ word2559 733
+word7873
++ word1000 3889
+! Load /tmp/dict6.bin
++ word1611 6180
+word1525
+- word2452
+word1515
++ word2272 5470
+! Save /tmp/dict7.bin
++ word5027 672
+- word5214
++ word7173 5518
+word2749
+! Load /tmp/dict3.bin
+word3146
++ word7791 5815
++ word3722 7383
++ word4170 1963
++ word7863 4361
++ word1247 2750
+! Save /tmp/dict9.bin
++ word6782 3940
++ word7715 837
+- word4221
+- word3414
++ word1436 8496
+word456
+! Save /tmp/dict8.bin
+- word4888
++ word2702 515
++ word1484 1251
++ word4074 7729
++ word5543 2268
+- word7541
+word3202
+word2507
++ word6670 4296
++ word102 163
+word4233
++ word525 5342
++ word4093 3787
+word1267
+word2260
++ word5645 2196
+! Load /tmp/dict10.bin
++ word3969 1935
++ word1730 2601
+word2553
+- word891
++ word2355 2325
++ word7739 8200
++ word2413 2161
++ word7830 5675
+word2803
+- word247
+word3497
+- word2015
++ word4410 1444
++ word5283 9639
++ word2215 3307
+- word2941
+word3538
++ word767 1176
+word6942
+- word3403
++ word2071 4855
+- word4360
++ word4563 1762
++ word3894 5524
+word6761
+word4188
++ word905 5398
++ word1015 8181
+- word3740
++ word3911 4402
+word1604
++ word6815 8418
+word7298
++ word1648 2247
+word1217
++ word5896 9782
++ word528 6543
++ word4620 8481
+word3520
+word1691
+word7651
+- word2893
++ word3262 343
+- word7257
+word6122
++ word2002 766
++ word7619 7411
+word4561
+! Load /tmp/dict4.bin
++ word2555 4970
++ word1935 9901
++ word2154 7790
++ word4997 5730
+word2038
++ word7741 9950
+word1257
+- word6055
+word3710
+word5710
+word1180
++ word6907 9883
+word6582
++ word4692 9965
++ word3321 2270
+word3207
++ word7479 921
+! Save /tmp/dict6.bin
++ word572 6281
++ word2155 4939
+LongWordWithMixedCase89
++ word3319 3033
+word7723
+word6459
+- word4195
++ word2162 207
+- word4923
++ word3048 696
++ word2896 6881
++ word3828 3604
++ word1521 9039
++ word334 5803
++ word2794 8697
+- word4341
++ word6478 6207
++ word1436 9859
++ word5264 832
++ word3297 3456
+- word2571
+! Load /tmp/dict9.bin
++ word4281 2722
+! Load /tmp/dict4.bin
+- word7109
++ word4206 7581
++ word5607 5391
+- word5919
+word3651
++ word4992 7391
++ word1488 1720
++ word1609 4096
++ word2411 1876
+- word3339
++ word3559 1676
++ word5498 1590
++ word7457 5228
+word1139
++ word7172 9920
++ word3225 7483
+word500
++ word5555 2346
++ word844 7172
++ word6018 6042
++ word204 5136
++ word757 4769
+word4734
+- word1095
++ word5658 1147
+word2972
++ word5308 1126
++ word4052 1884
+- word2748
+word664
++ word802 1870
++ word4566 5983
++ word2134 8408
+- word2620
++ word3987 5191
++ word3036 3398
+word4056
++ word6151 1442
+! Save /tmp/dict1.bin
++ word2777 6908
+- word3422
++ word2027 9781
+- word6564
++ word6204 6435
++ word6098 9739
++ word5188 6940
++ word4108 2891
++ word3120 3606
+word4077
++ word1643 2921
++ word5308 586
++ word3801 6862
++ word2936 4711
+word6586
+! Save /tmp/dict4.bin
++ word4598 616
++ word4662 373
++ word3997 9182
+- word152
+word3780
++ word1747 6279
++ word7568 455
++ LongWordWithMixedCase72 6162
++ word2876 5206
++ word231 7036
++ word3532 5716
++ word4580 3287
++ LongWordWithMixedCase95 3938
++ RandomStringuGESFKEpiF 8031
++ word4910 4179
++ word328 8517
+word1638
++ word1540 6504
+- word7670
++ word6256 5434
+- word3729
+word6859
+- word7129
+word1344
+word7556
+! Save /tmp/dict1.bin
++ word5844 5307
+- word5595
+word2297
++ word1949 2768
++ word5939 6275
+- word2260
+word5467
+! Save /tmp/dict8.bin
++ word726 9570
++ word5289 6012
+- word3392
+- LongWordWithMixedCase15
++ word834 2033
+word812
+word1027
++ word5731 9819
++ word7185 3635
++ word3387 9434
++ word3483 3048
++ word540 5366
+word3037
+- word1836
++ word41 2911
++ word5961 759
++ word3358 6816
+word5905
++ word2645 6921
+! Load /tmp/dict9.bin
++ word6684 2898
++ word302 3697
++ word2446 2290
++ word6583 4284
++ word4852 6119
+word7941
+- word488
++ word5230 3734
++ word1777 4844
+word2031
++ word7339 7286
+word3772
++ word7230 4822
+- word1136
+word2674
+- word2731
+word3317
++ word4687 1348
++ word6194 8180
+word6705
+word1076
+word787
++ word1633 4175
++ word4508 683
++ word3847 3635
+- word6565
++ word5963 8285
++ word7770 3899
+word6323
++ word1154 310
+word6058
+word1402
+! Save /tmp/dict9.bin
+- RandomStringhHonVSABLw
++ word167 2591
+word7633
++ word646 5395
+word3916
+- word3790
++ word6459 5927
++ word2408 3489
+- word6904
++ word3586 1092
++ word2736 864
+- word3038
+word2797
+word4036
++ word5682 6329
+word2813
++ word3820 7680
++ word1813 4558
+- word2385
++ word6175 5364
+word4611
+word6829
+word5120
+- word648
++ word6883 6768
++ word3117 3757
++ word6206 7900
+word5050
++ word7778 1887
++ word4144 603
++ word5420 7591
++ word5398 79
+! Load /tmp/dict2.bin
++ word6229 6341
+- word2316
+- word7510
++ word5946 8676
++ word3607 8151
++ word5702 2782
+word6569
+word3284
+word1519
++ word6594 5073
+- word1496
+word710
++ word1923 9663
+word5421
++ word1879 5077
++ word290 3041
++ word3096 7188
++ word6441 470
+- word6921
++ word1541 8097
++ word7970 1772
+- word3802
++ word7280 1215
+word161
++ word5127 1149
+word3083
+word3707
+word4276
++ RandomStringhAJUNdPnsg 4002
++ word7292 3170
++ word6120 4763
++ word304 3979
+- word372
++ word5640 7355
++ word4010 8955
++ word7649 2983
++ word4070 5472
+- word4441
++ word4465 9016
++ word3200 3709
+- word5954
++ word4534 3515
++ word4828 6613
++ word1390 1534
++ word4848 3662
++ word2877 4842
+word6405
+word2625
+! Save /tmp/dict1.bin
++ word3961 9741
+- word7512
++ word1331 1386
++ word771 9822
++ word1319 982
++ word4608 6157
++ word7655 1569
++ word5224 8947
+- word1437
+- word3222
+word5557
++ word549 730
++ word3692 7010
++ word5222 2936
++ word3098 2902
++ word7677 232
++ word7336 3909
+- word3454
+- word5604
++ word6655 2432
++ word1950 4176
+word1423
+word1243
++ word6039 4246
++ word4623 8800
+- word7066
++ word1128 684
++ word5007 293
++ word7125 2475
+word6632
++ word1261 2113
++ LongWordWithMixedCase35 5198
++ word6937 1739
++ word2210 7428
++ word2172 9063
++ word1412 9754
+word6799
+word691
++ word1569 6786
+word2517
+word2144
+- word1229
++ word2797 8383
+! Save /tmp/dict7.bin
+word2943
+! Load /tmp/dict3.bin
++ word2224 8054
+word106
+word4108
+word3062
+- word4512
++ word5091 6859
+! Load /tmp/dict1.bin
++ word2157 2948
++ word2371 109
++ word6072 2162
++ word4383 8073
++ word4356 5502
++ word7646 7712
++ word5038 2467
++ word5120 9012
++ word7838 5022
+- word3560
++ word112 3913
++ word5940 8565
++ word7169 7240
++ word3415 6464
+- word7774
++ word3256 2470
++ word7321 4674
++ word2046 4676
++ word6769 5533
+word6289
++ word2625 3519
++ word4761 5167
++ word7627 1111
+word6603
++ word1433 5744
++ word897 1696
++ word6351 111
++ word6395 2561
+word7092
++ word1506 4079
++ word3509 9381
+word5196
++ word5826 2700
++ word717 8745
+- word6013
+word6564
+word1710
+word2650
+word1609
+- word3425
++ word2554 7760
+word959
+- word7928
++ word6656 3660
++ word865 2241
++ word5346 3262
++ word7020 3365
++ word4389 7009
++ word5926 5401
++ word3229 5019
++ word123 7416
+word3105
+- word7437
+- word4990
++ word582 6168
++ word7563 2389
++ word5048 7594
+- word1064
++ word4669 2873
+! Save /tmp/dict9.bin
++ word4452 1539
++ word3863 9387
+! Save /tmp/dict6.bin
++ word3257 6817
++ word5066 4079
++ word510 7206
++ word1701 550
+word3409
+- word5668
+! Load /tmp/dict7.bin
++ word4517 6206
+! Save /tmp/dict7.bin
++ word7376 3306
++ word6235 1633
++ word2502 6899
+- word4142
++ word7306 8251
++ word7108 5127
++ word1172 8935
++ word3896 2051
++ word5043 7815
++ word6251 4587
++ word2322 3351
+word6503
++ word5030 48
+word6069
++ word5548 6498
+word5445
++ word4041 7706
+word3123
++ word7262 1462
++ word4251 6508
++ word4323 8699
++ word1860 9938
++ word2644 5091
++ word1208 4154
+word5917
++ word6279 17
+! Load /tmp/dict1.bin
++ LongWordWithMixedCase53 5212
+- word6437
++ word4108 2330
++ word6985 7678
+word289
++ word5929 7695
+word2343
++ word1793 4829
+word2621
++ word7235 3679
++ word6352 2258
++ word6234 6885
+word325
+! Save /tmp/dict8.bin
+word706
++ word6669 7555
++ word4941 3625
+word5728
+word4148
++ word3433 6603
++ word1925 8081
++ word5465 5993
+! Load /tmp/dict4.bin
+word5194
++ word4768 5117
++ word1188 8103
++ word7995 6475
+word2307
++ word7727 1930
++ word6308 6000
++ word5533 8803
++ word7442 9372
++ word1374 7863
++ word7346 12
++ word4344 3826
++ word249 2719
++ word288 2966
+- word2387
+- word2830
+- word7399
++ word1990 5301
+! Load /tmp/dict1.bin
++ word1035 1208
++ word5393 4301
+word5542
+- word1116
++ word6199 2379
++ word5605 7227
+! Load /tmp/dict2.bin
+word1576
+- word7260
++ word4071 5952
++ word2331 4133
+word2958
+word2335
+word5891
+! Load /tmp/dict4.bin
+word4935
++ word2415 6373
++ word4910 7235
+- LongWordWithMixedCase94
+- word401
++ word1565 1207
+word7955
+- word1919
++ word4837 1603
+- word6918
+- word4683
++ word3001 9634
++ word2708 7130
+word5381
++ word1533 1423
+- word232
+- word5765
++ word6793 9698
+- word2272
+word5481
++ word6582 7940
+word5379
++ word6002 2205
++ word7389 2173
++ word680 8117
+- RandomStringlukVpgSTmg
++ RandomStringgzWOpgptQE 3074
+word7289
++ word4163 7107
+word4923
+word2226
++ word7100 9817
+word3133
++ word4985 3577
+word605
++ word2890 2613
+! Save /tmp/dict4.bin
++ word7374 6653
++ word3285 9975
+word5002
++ word883 1697
+- word1975
++ word6615 5042
++ word2464 3518
++ word607 2112
++ word7438 6545
+- word3400
++ word7549 2238
++ word5720 6679
++ word4510 3009
++ word4262 8538
+- word1773
++ word4654 3545
+! Save /tmp/dict9.bin
++ word1563 9863
++ word5471 4103
+- word128
++ word5572 710
++ word5238 5566
++ word5425 2821
++ word2193 9452
++ word1759 3350
+- word7238
++ word1602 995
+- word6006
++ word6803 4601
+word705
+! Save /tmp/dict1.bin
++ word1 9211
+- word935
+word4463
+word4226
++ word346 8301
++ word818 8199
++ word4099 1692
++ word1147 7800
++ word861 8729
++ word1040 468
++ word587 2617
++ word902 5623
+word4123
++ word292 1825
++ word7627 392
++ word5970 9061
++ word2207 6634
+! Load /tmp/dict5.bin
++ word6054 5226
++ word2444 956
++ word220 4947
++ word7995 5306
++ word1628 8910
++ word6006 5756
+- word4583
+- word7317
+- word7559
++ word6927 6823
++ word975 8911
+word5110
++ word6304 3364
+word459
++ word6183 9100
+word2625
++ word7206 9020
+- word420
++ word1354 3492
+! Load /tmp/dict7.bin
+- LongWordWithMixedCase45
++ word2014 6897
++ word3842 6077
+word7397
++ word316 9076
++ word4305 533
++ LongWordWithMixedCase61 7328
++ word2600 1412
+word1529
++ word1118 2418
+word7570
++ word6480 9203
++ word425 6581
+- word6779
++ word1705 319
+- word2999
++ word3107 6681
+word2492
++ word3332 6001
++ word800 2563
+- word2927
+- word7741
++ word1961 8646
++ word7268 922
++ word4884 7299
+word6123
+! Load /tmp/dict5.bin
++ word4002 7776
+word6477
+- word5040
++ word2560 1326
+word7344
+- word3732
+word4257
++ word1547 7846
++ word4423 2180
++ word1573 8648
++ word926 7177
++ word5881 7054
++ word2106 5628
++ word883 1848
++ word158 2602
+word5225
++ word2073 1160
+- word5511
+- word4772
++ word3374 3860
+- word2132
++ word3916 2263
+! Load /tmp/dict3.bin
++ word6836 3906
++ word3082 9636
+- word1292
+- word5587
+- word6813
++ word1608 8360
++ word5928 4759
++ word168 7596
+word2717
+! Save /tmp/dict2.bin
++ word5476 8369
+word6715
++ word5127 2642
++ word4910 9543
++ word5259 6674
+word4112
++ word5086 6064
++ word4666 8674
++ word5041 5252
++ word4355 4793
+- word4648
++ word3297 3304
++ word5676 5326
++ word4746 349
++ word1293 2148
+word2899
++ word4615 9833
+word1244
+! Save /tmp/dict4.bin
+word2980
++ word5558 8008
++ word6691 3735
++ word4000 3920
+! Load /tmp/dict7.bin
+- word2581
+- word7994
+! Save /tmp/dict2.bin
++ word5674 5036
++ word875 3502
++ word1363 5452
+! Save /tmp/dict1.bin
+- word1229
++ word3547 1023
++ word1633 9869
+- word2995
+word6456
++ word2693 4649
++ word1633 5719
++ word3772 356
+! Save /tmp/dict5.bin
++ word418 2847
++ word1487 421
+! Load /tmp/dict7.bin
++ word1343 9231
+- word6012
+- word2678
+RandomStringlukVpgSTmg
+word2779
++ word6839 5977
++ word7989 5939
++ word6130 1187
+- word213
+- word4707
++ word2078 8034
+word313
+- word3457
+- word4572
++ word2607 4096
++ word5971 1385
++ word6381 3088
+- word6126
++ word2016 8350
++ word2262 8036
++ word218 4365
++ word532 757
++ word498 7198
+! Save /tmp/dict3.bin
+word1372
++ word6153 8968
++ word2775 2300
+word5330
++ word3182 5560
+word7468
+! Save /tmp/dict9.bin
++ word3527 3457
++ word3554 7583
++ word933 1414
++ word2497 5971
+word7122
++ word6883 7874
++ word11 5841
++ word556 3780
+word5329
++ word7885 9771
++ word409 978
++ word1187 5772
+word635
++ word5747 4930
++ word1360 6246
+word4325
+- word3415
+word1914
++ word5822 9887
+! Load /tmp/dict5.bin
++ word3847 3543
++ word4019 8386
+word2246
+word7032
++ word906 2365
+- word419
++ word1162 8367
++ word3321 8786
++ word2644 4697
++ word2169 822
+word6390
+! Load /tmp/dict5.bin
+word1073
++ word3327 7014
++ word1422 4392
+word422
+- word5034
++ word5177 8839
++ word6993 2407
+word1104
++ word5719 8723
++ word4975 2409
++ word1801 3438
+- word6889
++ LongWordWithMixedCase67 9665
++ word7084 3594
++ word1799 9610
++ word2700 3333
++ word4119 4116
+- word4559
++ word6551 9805
++ word3465 1688
+word5326
++ word768 5680
++ LongWordWithMixedCase43 6959
++ word7433 4833
+- word3664
++ word7795 4071
+! Load /tmp/dict7.bin
+! Save /tmp/dict6.bin
++ word4664 7658
++ word6404 1742
++ word401 4975
+- word1427
++ word820 9065
+word6908
++ word2135 6087
++ word3971 4717
++ word4782 1274
+- word1772
++ word2856 5077
+- word917
++ word6959 6370
+word7582
++ word6497 3378
+! Load /tmp/dict1.bin
+word3480
++ word390 2043
+word7135
++ word3947 3582
++ word7802 8327
+word7972
++ word5514 4681
++ word5255 9612
++ word7654 4577
++ word3504 7173
+word2528
+word945
+- word1727
+! Load /tmp/dict7.bin
+word6540
+word2180
++ word7359 6071
++ word3572 8788
+word2946
++ word3932 432
++ word82 3256
+- word5591
+word4517
+! Save /tmp/dict3.bin
++ word4688 174
++ word2686 986
+word429
++ word7814 1441
++ word194 4466
++ word6755 8342
+word5601
++ word3507 2507
++ word6931 4498
++ word4322 9843
+word1234
++ word2048 4461
++ word5681 7797
+! Load /tmp/dict5.bin
++ word433 3553
++ word1051 1703
++ word3462 8228
++ word6746 1385
++ word1516 9797
++ word7289 8770
+- word7110
+word1243
++ word2769 1205
+- word7398
++ word5043 9329
++ word6218 7176
++ word708 9463
++ word912 1136
++ word1411 5322
++ word178 3556
+word792
+word2203
+word809
++ word1123 1887
++ word4564 4976
++ word6736 4076
++ word1536 8560
++ word5561 907
+! Save /tmp/dict7.bin
+word6431
++ word5403 7197
+word2317
+word2393
++ word242 5518
++ word6695 2617
+word674
++ word1099 9885
++ word2022 2837
++ word1929 8667
+word724
++ word588 1437
+word2123
+- word4187
++ word1572 2796
+RandomStringuGESFKEpiF
+word3733
++ word104 6154
++ word4534 1401
++ word768 6134
++ word3513 9861
++ word4306 7535
+! Save /tmp/dict9.bin
++ word1428 5717
++ word4479 7459
+- word4793
++ word2105 4293
++ word5217 7527
++ word4332 5249
++ word7045 9802
+word5625
+- word2491
+word5228
+- word192
++ word3989 3908
+word4522
+word1611
+word3547
+- word5134
+word7909
+word4806
+word4991
+- word749
++ word5807 5589
+word1888
++ word5972 1415
++ word1195 6381
+word646
+- word5717
+word3714
+word6550
+! Load /tmp/dict9.bin
++ word3010 791
++ word5086 2963
++ word5951 1741
++ word930 9158
+word2388
++ word3335 7235
+- word3789
+! Save /tmp/dict5.bin
++ word4973 3712
++ word1473 6867
+- word7957
++ word4698 6060
++ word5228 1265
++ word2935 7623
++ word2333 99
++ word7974 9720
++ word1477 4827
+- word6829
++ word1525 7777
++ word3284 603
+- word426
++ word7946 8361
++ word3146 4894
+- word76
++ word6337 2679
++ word1460 6775
++ word553 1229
++ word3533 7290
++ word213 9064
++ word7309 2439
++ word3999 4811
++ word6321 7045
+- word2578
++ word7310 3476
+word2870
+word3806
++ word6952 7990
++ word771 1088
+word4546
++ word2648 5539
+- word592
++ word795 8597
+- word3680
++ word6104 1292
+- word1439
++ word4883 8702
+word4712
++ word4315 829
+word3274
++ word1643 4423
++ word7826 235
++ word904 6254
++ word1737 8348
+word3945
+word5716
+word1169
++ word91 6720
++ word1055 1906
++ word2859 4267
+! Save /tmp/dict9.bin
+word5619
++ word4313 120
++ word2515 2000
++ word1199 4334
+! Save /tmp/dict5.bin
++ word4175 206
++ word5235 2601
++ word6700 7621
+word1255
+word460
++ word6945 8094
++ word209 478
+- word7109
++ word5065 307
+- word3487
+- word6650
++ word4726 8722
+- word1245
+RandomStringiNReomLRZE
+- word466
++ word3803 1048
++ word4379 3112
++ word2186 9347
++ word4977 6693
++ word1645 93
++ word5921 2467
++ word3070 5914
++ word3803 4366
++ word2602 3297
+word2135
+word123
++ word7847 1251
++ word2893 984
++ word3881 4027
+word4816
+- word4087
+word127
++ word6922 317
++ word3246 9435
++ word4028 154
++ word1330 7591
+word680
++ word4738 2673
++ word69 6839
++ word6102 4573
+- word6458
+! Load /tmp/dict4.bin
+word2980
+- word1835
++ word255 7475
+word4429
++ word566 9876
++ word5562 3308
++ word5147 4252
++ word7135 5499
+- word2456
++ word4711 7247
++ word1840 4776
+- word5217
+- word130
+- word3055
++ word1435 6801
+- word55
++ word520 2530
++ word4645 5728
++ word4184 3235
+- word4498
+word888
+- word1706
++ word7743 5199
++ word5325 9603
++ word3952 6349
++ word4089 8966
+- word2262
++ word4263 6579
++ word5422 8424
++ word536 2463
+word3662
++ word7506 4140
++ word3710 1048
++ word5633 9963
++ word2471 4043
++ word92 3901
++ word4446 1857
++ word6208 1637
+- word4771
+word5494
++ word6213 2418
++ word437 82
++ word6198 4246
++ word7852 4685
++ word3179 7367
++ word6001 9508
++ word1758 1839
++ word3183 7850
++ word4867 1903
+word5514
++ word4851 5174
+- word4982
++ word4842 4161
+word7783
++ word2957 9232
++ word2439 6401
++ word6611 5615
++ word4019 5975
+- word1069
++ word7239 6143
++ word6906 5175
+word331
+! Save /tmp/dict3.bin
+word4796
+word4551
++ word5778 6657
++ word29 7137
++ word785 1075
+word1333
++ word5333 7780
++ word3415 8424
++ word2260 2063
++ word2916 3534
++ word365 5751
++ word7030 1871
++ word645 7406
+word4436
++ word2481 4400
++ word4910 8010
++ word1214 2315
++ word2737 374
++ word3773 1291
++ LongWordWithMixedCase72 9899
++ word1346 9133
++ word4368 2051
++ word3224 5206
++ word7736 1922
++ word3651 3406
++ word5307 5129
++ word2109 1327
+word2075
++ LongWordWithMixedCase73 4775
+! Save /tmp/dict7.bin
++ word2013 374
++ word4183 5153
++ word1753 818
+word2663
++ word1826 9936
+word3356
+word2175
++ word6996 6409
++ word3163 4215
++ word3111 9436
+- word5976
+word4187
++ word2573 7189
+word3953
++ word1854 8793
++ word7368 3172
+word7098
++ word7073 792
+word429
+word384
+! Load /tmp/dict5.bin
++ word7393 1415
++ word6665 5138
+word6019
+- word1669
+word1101
++ word760 4020
+- word4754
++ word5818 8862
++ word7016 2260
++ word2831 4261
+word3561
+word7604
++ word7495 2097
+word4674
++ word2220 9481
++ word2349 2304
++ word3623 5330
+word6258
++ word5850 1701
+word5785
+! Save /tmp/dict5.bin
+- word5457
++ word2670 5669
++ word1249 4750
++ word6520 7562
++ word6261 5052
+- word4090
++ word3412 4969
++ word7881 2333
+word5860
++ word7444 9079
+- word6337
++ word3954 122
++ word1845 5509
++ word6515 815
++ word1388 1297
+word663
++ word882 3439
+! Save /tmp/dict3.bin
+- word2368
+word4180
+- word1192
++ word7274 1598
+word5896
++ word818 4384
++ word1474 8758
+word152
++ word5479 7346
++ word5727 8351
++ word5059 8160
+word4933
+word3440
++ word694 827
+word1654
++ word1459 4817
+- word7805
++ word5676 916
++ word3328 2198
++ word1575 5082
+- word2619
++ word5399 475
+word320
+- word3544
++ word4202 7978
++ word405 3094
+- word2085
+word5445
++ word5326 3287
+! Save /tmp/dict10.bin
+word5745
++ word3392 70
++ word4945 7116
++ word1694 3477
+word4974
++ word7634 7043
+- word6412
+word6457
+word1949
+word2361
+! Load /tmp/dict2.bin
++ word4777 6017
+- word2886
++ word2657 9680
+! Load /tmp/dict7.bin
++ word5418 5199
++ word7134 4941
++ word3055 7656
++ word5249 3316
+- word7334
++ word1511 4011
++ word2376 1368
++ word2653 6385
++ word6581 1250
++ word2347 5971
++ word2487 8223
+- word582
++ word19 5581
++ word465 2182
++ word7306 9067
+word6952
++ word1211 8182
+word4328
++ word1846 9987
++ word861 8306
++ word3732 5576
++ word7019 372
+word3870
+- word1784
++ word4611 1509
++ word5853 2576
+word2283
+- word4736
++ word6052 8887
++ word3329 5667
+- word5972
++ word643 7522
++ word4023 5597
++ word5879 1648
++ word3553 7765
++ word7968 5935
++ word7548 3933
+word1889
++ word5586 3575
+word531
++ word1088 6977
+- word4709
++ word1310 3236
++ word6700 7962
++ word2234 8601
++ word6489 6749
++ word5653 5250
++ word2783 617
++ word4992 4674
+word5698
+! Save /tmp/dict8.bin
+word4546
++ word2971 7850
+word113
+word7016
++ word5993 7954
++ word722 1355
++ word7191 5082
++ word1362 9242
++ word957 6297
+word475
+- word870
+word7987
++ word4250 8459
+word4777
+- word2987
++ word7805 9280
+word3163
++ word4641 548
+- word6505
+- word714
++ word7382 4400
+! Save /tmp/dict3.bin
++ word6186 9204
+word7076
++ word452 8900
++ word4645 5942
++ LongWordWithMixedCase18 1521
++ word5381 7406
+- word4984
+- word3407
++ word7969 6171
++ word1630 427
++ word111 4448
+word7395
++ word344 658
+- word1823
++ word4040 5524
+word1957
++ word7084 9759
++ word7048 5667
++ word3917 2421
++ word4402 3526
+- word2524
++ word1835 8
+- word4583
+- word7819
++ word2931 197
++ word1447 3322
++ word6195 5950
++ word7801 2326
++ RandomStringiNReomLRZE 9673
++ word7360 902
+! Load /tmp/dict4.bin
+! Save /tmp/dict4.bin
++ word6719 3802
+RandomStringqSWeJXmzun
+word2701
+word5902
+- word5410
+word4112
++ word6719 7833
++ word3571 7682
++ word5265 811
++ word7701 9704
++ word2260 4284
++ word1248 2232
++ word1026 9840
++ word93 2188
+word1340
++ word5459 1024
+- word2917
++ word215 3573
+word7846
++ word4773 1820
+word1471
++ word26 1275
++ word3989 7733
++ word5690 8988
++ word4287 7122
++ word7303 3270
++ word7394 5792
+word5490
+- word48
++ word5722 2550
+word5075
++ word7005 5941
+- word5548
++ word3460 8124
+word2070
+- word5925
+word1870
++ word7262 4626
+word2946
++ word1351 9620
+word2615
++ word964 9357
+! Save /tmp/dict7.bin
++ word4952 8378
++ word589 296
++ LongWordWithMixedCase55 9209
++ word7421 1376
++ word3612 4193
+! Load /tmp/dict3.bin
+word2110
+! Load /tmp/dict3.bin
++ word7319 1644
++ word482 2470
++ word5300 8037
+word6179
++ word4972 5721
++ word2395 1233
++ word545 6548
+word2751
++ word2776 7049
++ word513 3367
++ word7527 2581
++ word1988 6935
+word2718
++ word2946 2792
+- word6065
++ word6071 6667
++ LongWordWithMixedCase100 9112
+- word5382
+word3154
+word5469
+- word6798
++ word1774 7400
++ word7136 9344
++ word5709 2949
++ word498 5992
++ word693 2783
++ word7679 9560
+word4001
++ word3572 4357
++ word2889 9644
++ word1941 6171
++ word7056 2604
+word4471
+word3009
+word4630
++ word520 3736
++ word2341 6841
++ word2657 1914
++ word1076 4573
+- word5529
+word3237
+word7892
+word6920
++ word6422 131
++ word5398 6535
+- word3023
+- word459
++ word127 8043
+word5803
++ word6538 8381
++ word7052 722
+! Save /tmp/dict1.bin
+- word1593
++ word1951 1470
++ word628 8567
++ word6007 6360
++ word7667 361
++ word6629 3496
++ word5565 181
++ word932 4536
++ word4309 7633
+! Load /tmp/dict8.bin
++ word4596 1683
++ word5567 6820
+word1429
++ word4527 6028
++ word3676 2115
+word5298
+word5404
++ word3693 7498
++ word63 8193
++ word3759 5846
++ word6125 3248
++ word4562 5129
++ word710 5853
++ word5304 6183
++ word1559 6482
+- word587
++ word1711 8761
++ word3318 8416
++ word253 264
++ LongWordWithMixedCase38 6996
+- word5939
++ word4214 5047
++ word6886 9241
++ word2737 2624
+word7791
++ word48 9127
++ word7027 8983
++ word3407 9257
+word5734
+word2558
++ word7208 4425
++ word4561 9936
++ word6942 2708
++ word1138 1576
++ word2248 8852
++ word5411 4229
++ word6088 6503
++ word3681 332
++ word7218 8470
+word5598
+- word7186
++ word6227 1527
+word4094
++ word7449 8591
+word6681
++ word2371 1495
++ word905 8667
+- word7980
+- word3277
+- word1132
++ word5879 1939
++ word2720 8279
+- word5941
+word6588
+- word3409
++ word5264 5738
+- word5895
+word5509
++ word837 7792
++ word7703 6327
++ word1116 5984
++ word4060 6807
+word4301
+word7403
++ word6512 8935
++ word3413 3603
++ word3671 8073
+! Load /tmp/dict8.bin
++ word6020 8502
+word593
++ word3043 7315
++ word725 4063
++ word7306 4751
++ word7596 7251
+- word4310
+- word2638
+- word2422
++ word5570 1238
++ word1662 9605
++ word1545 6288
++ word7435 7278
+word1142
+word1778
+RandomStringlukVpgSTmg
+- word1302
++ word782 8534
+- word999
++ word4417 998
++ word1579 3069
++ word122 2656
++ word2067 8697
++ word1714 2746
++ word2917 2061
+word3803
++ word3447 41
+- word5183
++ word7157 6807
++ word7983 7368
++ word3872 3623
++ word142 6294
++ word7608 7654
++ word4441 9434
++ word7143 3725
++ word6793 9227
++ word3317 4788
++ word6687 9371
++ word5948 6595
++ word5634 3196
+- word5876
+- word3663
++ word1595 9687
++ word1706 1412
+word5405
++ word771 8815
++ word4882 653
+- word7396
+word5790
+word7284
++ word814 6132
++ word6659 9467
+word3922
++ word7878 9654
+- word479
+- word4646
+- word1813
++ word6295 8942
++ word1998 22
++ word3891 9230
+word143
++ word5867 1466
+word5842
+word5333
++ word4881 7247
+word2913
++ word5052 1517
++ word283 3771
+- word4687
+word3569
++ word5266 2617
+- word125
++ word7554 8376
++ word5725 3546
++ word5028 1408
++ word6529 8627
++ word7805 8403
+- word2478
+word4880
++ word4234 7486
+word4767
+! Load /tmp/dict8.bin
+- word966
+word148
++ word160 2471
++ word29 7699
++ word3959 2205
++ word2050 6184
+! Save /tmp/dict4.bin
+word4746
++ word6294 2577
++ word3714 6142
+word3088
++ word7750 6353
+- word3917
+word6803
+word7134
++ word4632 2023
+word5892
+word6761
++ word7675 8648
++ word7909 8438
+word1000
++ word488 6910
++ word7196 7497
++ word465 5576
++ word5695 3939
++ word693 3151
+word4587
++ word5659 5651
+- word1944
++ word256 1137
+- word948
++ word2836 8213
++ word5265 9992
++ word2206 7223
+- word3000
+- word4443
++ word7543 296
++ word6390 4771
+! Load /tmp/dict10.bin
+word6442
++ word1901 6740
+word509
++ word198 2949
++ word2437 4318
+word1822
++ word1808 8512
++ word5491 9006
++ word2603 7869
+word5627
+- word1661
++ word1458 9324
++ word4159 738
++ word7 3197
++ word7974 9859
+! Save /tmp/dict9.bin
++ word114 9884
+word3607
++ word7279 5628
+- word4400
++ word3696 7135
+word7990
+word3662
+- word3000
++ word6325 589
++ word3028 4275
+- word7049
++ word3269 6317
+- word7003
+word790
+- word4745
++ word1487 6109
++ word6017 7031
+- word4098
+word5956
++ word7873 1875
++ word3151 8026
++ word5903 7311
++ word7435 640
+word7778
++ word4416 9467
+- word295
++ word4496 469
++ word5967 1563
++ word1525 8618
++ word5904 6811
++ word3627 8619
++ word69 3138
++ word2181 9004
+- word3418
+word3353
++ word7089 3088
+- word6318
++ word3594 2321
++ word6607 5012
+word5636
++ word529 291
+- word3053
++ word2854 5941
++ word7185 3758
+- word5609
++ word4047 548
++ word2389 7000
++ word3899 2270
++ word3196 4666
++ word3014 891
+! Load /tmp/dict7.bin
++ word3960 2923
+word4512
++ word6163 917
+- word6097
+word2180
+- word7550
+- word7758
++ word7358 674
++ word7977 6343
++ word3786 1776
++ word1923 186
++ word5862 8462
++ word680 9108
++ word4459 3444
+word4071
++ word4981 7167
++ word5465 3862
++ word6803 9050
++ word6916 8835
++ word7929 2185
+word563
++ word7427 8113
++ word7402 4672
++ word7982 5702
+word7434
+word5232
+word1098
++ word3073 1656
++ word3822 7759
+word1057
++ word7401 3908
++ RandomStringqSWeJXmzun 3917
++ word7376 2714
+word3439
++ word2911 5123
++ word2674 2321
++ word1556 5871
++ word7437 9381
+word2827
+word641
+word370
++ word463 5967
+word336
++ word336 3066
++ word6253 202
+word2114
++ LongWordWithMixedCase63 9821
++ word3186 2246
++ word2981 4520
++ word1341 9129
++ word6517 4886
++ word4222 7559
++ word6112 1162
++ word656 4012
++ word6058 3881
+word1858
++ word4655 1457
+word5113
+word5477
+- word3998
++ word2833 9250
++ word7492 5792
+- word2259
+word4265
+- word3230
++ word5842 2198
+word1196
++ word6481 7014
++ word4904 6725
++ word537 3219
++ word2370 3141
++ word4850 8864
+! Save /tmp/dict10.bin
++ word2131 1887
+word1591
+word2899
++ word1013 9807
++ word2896 54
++ word6171 7971
+word1376
+- word114
++ word1529 7190
+word4323
+! Save /tmp/dict1.bin
+word3197
+word933
++ word1610 2771
++ word2506 8024
+- word1821
+- word1759
+! Save /tmp/dict4.bin
++ word2134 434
++ word4873 2855
+word790
++ word384 3798
++ word6224 9876
+- word4525
++ word7878 4359
++ word358 1031
++ word2047 7941
++ word3720 6594
++ word3337 2311
+word2010
++ word3890 2898
++ word7930 9998
++ word6203 3554
++ word755 4454
++ word7063 7764
++ word1814 6262
+- word5038
++ word7247 2785
++ word4417 8747
++ word5728 1169
++ word7411 171
++ word3373 92
++ word2401 8783
+- word7695
++ word6615 1532
+word934
+- word4467
++ word5236 576
++ word4651 828
++ word1687 1390
++ word4949 6102
+- word3920
++ word1107 5048
++ word5206 2458
+word5358
++ word456 945
++ word3235 8335
+- word5831
++ word1612 5926
+- word616
++ word1989 4376
+! Save /tmp/dict2.bin
+- word5999
+- word2347
++ word3628 4034
+word2676
++ word7317 586
+word5581
++ word7942 161
++ word539 85
+word2771
++ word5789 5664
++ word2729 875
++ word2361 4760
+word4296
++ word6723 3821
++ word6294 2006
++ word3032 9626
++ word4703 9912
++ word6729 9425
+- word6875
+- word3618
+- word282
++ word4894 4733
+- word5146
++ word4836 6300
++ word4918 1709
++ word4877 592
++ word7046 1452
+- word1686
++ word3133 6996
+- word6103
+- word3091
+word2002
++ word4775 9637
+word6312
+- word793
++ word5746 259
++ word5571 1400
++ word359 4699
++ word1213 6716
++ word5375 9382
++ word3848 8993
+word5635
+- word7043
+word4130
+word6123
+- word4331
++ word6916 2866
++ word5782 2941
++ word4744 3428
++ word1446 7255
+- word5052
++ word1254 2803
+- word2835
++ word7976 2185
+word7837
+word3479
++ word1508 9293
++ word4872 9709
++ word2799 6404
+- word754
+word2039
++ word6803 8598
++ word6473 2739
++ word7380 2081
+word670
++ word1870 6776
+! Load /tmp/dict7.bin
++ word1166 7952
++ word3933 1734
++ word5545 3272
+word3176
+word4224
+word4755
++ word4694 2934
+word7642
++ word6657 2545
++ word4479 2269
+word5085
++ word7057 4916
++ word2378 9932
+- word6043
+- word7849
++ word5408 4783
++ word2219 8902
++ word7516 475
++ word6880 5744
+- word3337
+word7481
+- word317
+- word3021
+- word7082
+- word4419
+word6612
+- word2608
+word1750
++ word1375 8106
+! Load /tmp/dict9.bin
++ word2600 8317
++ word2465 4075
++ word7150 8134
++ word1266 6702
+- word6830
+- word3124
+word7514
++ word4293 3711
++ word2295 1224
++ LongWordWithMixedCase90 6783
++ word1011 5438
+word1872
+word1600
++ word5703 6179
++ word5542 2062
++ word5466 7178
++ word3712 8399
+- word5614
+word3417
++ word6390 5065
+! Load /tmp/dict1.bin
++ word7014 2753
++ word2794 3277
++ word4994 8898
++ word771 2171
+! Load /tmp/dict5.bin
++ word4862 4901
+- word987
+- word828
+- word151
+word1614
+- word7669
+- word5725
++ RandomStringagmgyjABBu 7768
++ word6218 424
+word5751
++ word5836 7437
++ word434 2540
++ word572 3891
+- word4324
++ RandomStringNESSWwBStl 6151
+! Save /tmp/dict7.bin
++ word573 8066
+word4435
++ word5602 6180
+- word7953
++ word2159 6988
++ word7972 7778
++ word5870 1135
++ word3546 7539
+- word2680
++ word1602 7335
+word5826
+- word5024
++ word1007 1011
++ word6671 1896
++ word7879 283
+word3750
+word3946
+! Load /tmp/dict8.bin
++ word3277 6302
++ word438 9365
++ word6233 6667
+- word2645
++ word6653 3263
++ word1465 5852
++ word7262 2064
++ word1159 1964
++ word2058 6831
+word72
+- word6760
++ word4617 2737
++ word5838 9180
++ word826 724
++ word6456 1547
+- word2996
++ word2124 2237
++ word1001 9430
+LongWordWithMixedCase65
++ word5508 1305
+- word4531
++ word5123 8008
++ word127 1931
+- word7197
++ word4399 9058
+- word573
++ word3407 1285
++ word1755 7188
+word4794
++ word6336 7850
+word1108
+word6939
+word2858
++ word2895 1035
+word4086
+word3353
++ word879 8575
++ word6553 1133
++ word2230 6811
++ word6255 6191
++ word1176 3887
+! Save /tmp/dict7.bin
++ word1324 7279
++ word4914 8299
++ word3849 3560
++ word1 762
+word763
+word1961
++ word2150 3479
++ word5407 6346
+! Save /tmp/dict9.bin
++ word2286 8268
+word2132
++ word5161 2419
++ word7375 137
+- word2211
+word2121
++ word3678 6203
++ word4898 4940
++ word5253 9479
++ word2469 8990
++ word5349 5930
+- word6603
++ word4922 7685
++ word4740 8026
++ word1097 3707
++ word218 3725
++ word7035 6131
+- word648
++ word1128 6601
++ word7939 4481
++ word4334 2931
+- word3847
++ word4395 3002
+- word7980
++ word7116 6885
+word7276
++ word895 7863
+word7318
+- word2890
++ word7176 7848
++ word3752 9345
+word1371
++ word805 3287
+word5848
++ word3723 7795
++ word122 1
+word2669
++ word3150 6226
++ word3645 6196
+word4630
+word592
++ word2359 5919
+word2798
++ word6000 4369
+! Load /tmp/dict10.bin
++ word279 2092
++ word231 5286
++ word5999 6633
+word6144
++ word1129 3572
+- word5720
+word968
+! Save /tmp/dict7.bin
+- word5734
+word3006
++ word2221 3544
++ word673 9873
++ word416 2891
+- word6639
+word92
++ word7963 1199
+- word6479
+word3745
+! Load /tmp/dict9.bin
+word4640
++ word354 2829
++ word6679 2512
++ word664 8442
++ word2347 3594
++ word6725 1387
+word565
++ word3168 8645
+- word5597
++ word5837 3254
+- word1593
++ word2052 4399
++ word6946 7709
++ word4958 2437
++ word2204 8321
+- word2735
+word5646
+- word3502
++ word3618 1691
+- word1330
++ word3090 6699
++ word704 4320
+word4992
++ word5215 6924
+word2898
++ word4486 2319
+word6821
+- word7187
++ word6653 5355
++ LongWordWithMixedCase18 9703
++ word6315 7132
++ word1070 3429
+- word2114
++ word1639 6205
++ word5612 8239
++ RandomStringjSrTRbwGkG 6691
+word322
++ word201 1411
++ word3233 2634
++ word2706 295
++ word7812 7610
++ word5819 8266
+word2845
+word7063
++ word3233 5849
+! Save /tmp/dict9.bin
++ word7484 8091
+word5691
++ word2350 1882
++ word5476 1458
++ word6583 164
+word3465
++ word3043 1032
+- word3411
++ word1137 6691
+! Load /tmp/dict7.bin
++ word2043 5028
+- word3669
++ word7837 1062
++ word911 847
++ word333 8513
++ word3694 367
++ word1072 2490
++ word3517 4849
+- word1728
+! Load /tmp/dict4.bin
++ word5838 6680
++ word3566 816
++ word3219 771
++ word1813 1155
+! Save /tmp/dict3.bin
+RandomStringGdYNKnmeAB
+word2591
+- word774
+- word430
++ word4390 1913
++ word7321 619
+! Load /tmp/dict8.bin
+word5072
++ word7328 438
+word4009
++ word4396 1550
++ word3591 3164
++ word1949 6938
++ word4799 9084
+- word719
++ word721 1586
++ word5975 6723
++ word3134 1687
++ word4467 9977
++ word6744 5065
+word90
++ word5526 86
++ word4729 4568
++ word4488 4184
++ word6906 9906
++ word5272 7168
++ word1903 8301
++ word608 2521
++ word5160 2489
+- word4144
+word1434
+word1901
+word6831
++ word4575 1362
+! Save /tmp/dict6.bin
+word6301
++ word2206 5266
++ word6150 5954
+word2826
+word6576
++ word7575 9651
+- word7727
+word632
+- word6850
+- word139
++ word1462 9903
+- word2067
++ word386 8663
++ word7906 7601
+word5466
++ word6985 9599
+word714
+word3766
++ word3043 7905
+- word528
+word4559
++ word3597 581
+- word4189
+word2728
+- word5560
++ word2752 9938
++ word6887 5744
+! Load /tmp/dict2.bin
++ word1663 6402
+word5397
++ word1904 1044
+- word6775
++ word7721 1937
+word6589
++ word2140 4756
+- word7144
++ word935 6368
++ word3646 1795
++ word1311 1205
++ word3447 1724
++ word4252 5430
++ word816 9787
++ word7518 9076
+word7547
++ word5205 2505
++ word5683 7304
+! Load /tmp/dict10.bin
++ word2501 2332
++ word7888 6801
++ word7211 2978
++ word815 198
++ word5772 3371
++ word7874 2592
++ word2977 4899
++ word5471 6896
++ word5303 5826
++ word2631 4351
++ word4657 7034
++ word5972 5263
++ word5353 7023
+word5095
++ word179 3136
++ word2312 8947
++ word6680 164
+- word4792
+- word1442
+word2060
++ word3857 974
++ word7999 7701
++ word6273 2841
++ word7894 4440
++ word4720 4430
+- word4217
++ word4745 9611
+word3593
++ word7824 5404
++ word6735 3306
++ word3293 338
+- word7548
++ word3742 4477
+word5984
++ word6698 9793
+! Save /tmp/dict9.bin
++ word1069 5615
++ word5699 8092
+word7925
+word3625
++ word2485 5594
++ word7907 226
++ word5317 108
++ word4367 9781
++ word3299 4168
++ word6582 8589
++ word2127 8713
+- word1820
++ word6925 8182
+! Load /tmp/dict4.bin
+- RandomStringGdYNKnmeAB
++ word88 1733
++ word1251 2057
+RandomStringVAFiIGFugu
+word50
++ word5733 2400
++ word7310 939
++ word1865 8441
++ word4609 9980
++ word1654 3470
+word3258
++ word1459 8984
+word6081
+word4528
+! Load /tmp/dict7.bin
++ word5871 3490
++ word5482 2357
++ word55 3045
+word5163
+word7684
++ word4628 9048
++ word3177 9765
++ word4256 3788
+word3097
+word7887
++ word3275 420
++ word7857 915
++ word7243 1694
++ RandomStringhAJUNdPnsg 1890
++ word5265 7419
++ word5798 1717
+- word293
++ word6047 5360
+word779
++ word5712 1746
++ word7488 8933
+word7124
+word4480
++ word4376 8669
+- word6174
++ word568 7259
+- word215
++ word7102 1133
+word7055
+- word4544
++ word3360 2098
+word1258
+word5959
++ word5507 2275
+LongWordWithMixedCase48
++ word6761 2957
+word1189
+- word5213
+- word4927
+word7911
++ word6615 7928
+word7191
++ word6909 4367
+- word5992
++ word3557 774
++ word3443 9086
++ word4098 6592
+- word4360
++ word7756 47
++ word6185 7669
++ word1917 5818
++ word3013 9885
++ word1613 6666
++ word74 5456
++ word4617 9170
++ word4818 8456
++ word5402 2948
++ word2459 922
++ word1674 2753
+! Load /tmp/dict3.bin
++ word3286 2965
+! Save /tmp/dict8.bin
+word854
++ word347 8362
++ word345 430
++ word2928 7347
+- word92
++ word95 555
+- word7629
++ word7091 8671
++ word738 2125
++ word7293 5770
++ word3015 9369
+word5622
++ LongWordWithMixedCase48 4087
++ word1565 2873
++ word2839 6216
++ word907 7487
+- word5633
++ word7341 5121
++ word3700 8091
+- word6078
++ word3978 3915
+word6504
+! Load /tmp/dict2.bin
++ word4800 5809
++ word5028 455
+! Save /tmp/dict8.bin
++ word644 2370
+word1959
++ word6807 1940
++ word5362 1347
+word5762
++ word6800 3157
+- word5252
+word7486
++ word6828 326
+- word7876
++ word5525 7937
++ word3412 2035
++ word3262 4907
++ word6619 1234
++ word7334 3360
+! Load /tmp/dict5.bin
++ word2793 4194
++ word3678 9463
++ LongWordWithMixedCase69 3145
+- word7734
++ word234 1447
++ word95 3175
+! Load /tmp/dict10.bin
+word4569
++ word4173 7143
+- word614
++ word7296 7800
+- word3372
+- word5967
+word633
++ word1668 5195
++ word447 4126
++ word3841 5632
+! Save /tmp/dict8.bin
+word4417
+- word3320
+- word5566
+- word2647
+- word7702
+- word441
++ word3426 2266
++ word7302 6281
++ word3378 2719
++ word1369 1565
+- word3584
++ word5737 8987
++ word3553 8686
++ word3382 3485
+- word6588
++ word7675 8899
+! Load /tmp/dict4.bin
++ word3309 2819
++ word3371 474
++ word100 5642
++ word7833 1771
++ word2260 8460
++ word393 3708
+word3519
++ word4869 4847
++ word1638 1732
++ word3715 977
+- word2355
+! Load /tmp/dict10.bin
++ word4614 8801
++ word4185 4535
++ word1766 3138
+word6935
++ word7396 5074
++ word6093 3307
++ word6865 4219
+! Load /tmp/dict5.bin
+- word3456
+word510
++ word713 5037
++ word1101 9583
+- word1035
+word2943
++ word3496 6026
+- word7859
++ word3230 3066
+! Load /tmp/dict2.bin
++ word1961 9664
++ word3992 9573
+word5078
++ word3737 768
++ word493 2044
++ word1254 5293
++ word4179 9982
++ word5527 3088
++ word1908 4756
+- word6439
++ word6469 3241
++ word189 8490
++ word837 3890
++ word5597 4840
++ word2383 8239
+- word2244
+word7244
+word4247
+word3620
+word7177
+- word655
+! Load /tmp/dict2.bin
++ word921 8331
++ word1394 7642
++ word6207 4774
++ word1379 6368
++ word4708 259
+- word5484
++ word6986 7072
+- word1649
++ word6980 8259
++ word5224 2833
+word3637
++ word4148 2503
++ word6395 3402
++ word6750 4005
++ word4012 7126
++ word7725 9412
++ word2411 9883
+word3997
+- word5583
++ word3398 2054
+- word6005
+word2077
++ word2543 9752
++ word5236 7257
++ word5856 455
++ word7217 7655
+- word6180
+- word3525
++ word3151 1746
+- word3446
++ word1942 5099
+word776
+- word1440
++ word3702 8231
+word2232
++ word7741 8868
++ word3526 672
+- word3459
+- word5101
+! Save /tmp/dict7.bin
++ word4750 6777
++ word2211 4697
++ word1808 8930
++ word1218 9312
+- word3949
++ word7760 4721
+- word610
++ word2167 1650
++ word5898 9526
+word6657
++ word4792 7462
++ word6670 1009
++ word5953 6215
++ word5630 8683
++ word6743 5034
++ word4263 8599
++ word6321 6652
++ word285 1918
+word2759
+word3344
+- word3247
+word1923
++ word3205 2699
++ LongWordWithMixedCase29 8319
+word7880
++ word3349 6885
++ word7427 3076
+word2806
++ word4910 4956
++ word4660 9546
++ word4889 5471
++ word6954 4977
++ word7599 7900
+word6709
++ word5177 7237
++ word7957 3651
+word3403
++ word4071 157
+word1818
++ word4810 7461
++ word2219 9719
+- word6230
++ word202 9346
++ word6633 958
+word2565
+- word599
++ word4608 4032
++ word5817 4299
++ word3654 678
++ word7381 1970
+! Save /tmp/dict5.bin
++ word6071 5844
+- word692
+- LongWordWithMixedCase99
++ word1605 917
++ word5851 3449
++ word7960 4753
++ word6010 9696
++ word7440 3512
++ word6959 805
++ word6640 5940
+word6101
+- word5078
++ word2753 6209
++ word5626 9161
++ word2925 3277
++ word7604 8869
++ word7499 2645
++ word1066 4900
+- word3024
++ word2566 9661
+word2722
++ word822 101
+word295
+! Save /tmp/dict3.bin
+word3448
++ word7877 4502
++ word5082 8687
++ word3142 3222
++ word2751 2551
+- word3271
+! Load /tmp/dict1.bin
++ word2411 1742
++ word5673 2279
++ word2332 5073
++ word2246 7178
++ word707 2448
+word2094
++ word6829 4548
+word4611
++ word6958 8147
+- word6066
+word802
++ word5688 7934
++ word5908 8173
+word1612
++ word1991 3108
++ word5192 8214
+- word312
+- word680
++ word3446 7579
+- word385
++ word209 5271
+word7378
++ word2202 5990
++ word7262 1707
++ word6575 4721
++ word3672 9890
+- word5019
++ word1940 2807
++ word1823 3775
+- word96
+word6751
+word7598
++ word7655 1242
+- word5131
++ word3911 6235
++ word7135 6425
++ word7078 2393
++ word2412 5652
++ word3055 1366
+word5265
++ word6154 7981
++ word3399 4197
++ word4445 2981
++ word4261 202
+! Load /tmp/dict5.bin
++ word618 5972
++ word2815 6303
++ word895 3378
++ word3325 2982
+word837
++ word4812 8023
+- word4616
+- word4274
++ word6131 9537
+- word2555
++ word4447 3922
+! Load /tmp/dict9.bin
++ word3680 9533
+- word1211
+- word6475
++ word1860 9086
++ word7922 7389
++ word4686 7416
+- word6237
++ word18 4802
+- word7000
++ word5667 7397
++ word4300 817
+- word1008
++ word3148 9843
++ word5327 9577
+- word5417
++ word3562 4778
++ word7309 7632
+- word3850
+- word6475
++ word568 5850
+word4916
+- word5564
++ word147 555
++ word1735 4801
++ word4022 7379
++ word2579 4725
+- word1623
++ word2527 4190
+- word637
++ word5952 4938
+word3449
+- word2755
+word1620
++ word5047 4171
++ word3197 565
+word616
+- word1317
++ word6275 5176
+word1974
+word2102
++ word7058 7552
++ word5975 4621
++ word3158 8709
+word708
++ word6395 738
+! Load /tmp/dict4.bin
++ word5755 764
++ word3604 127
+word4149
++ word5533 96
++ word2773 6626
+word495
++ word556 3474
++ word7599 5702
+word5957
++ word6841 7725
+! Load /tmp/dict9.bin
+word3675
+- word2036
++ word4883 7566
++ word771 9048
++ word2273 3596
++ word818 9936
++ word64 7479
+word3523
++ word7001 311
+word2268
++ word1179 6533
+- word2155
+word1373
++ word1527 8616
++ word4871 9875
+word5618
++ word3676 7910
++ word5905 1625
++ word2815 8970
+- word7478
++ word3915 7124
+- word4210
++ word1359 9168
++ word7632 6179
+! Save /tmp/dict3.bin
++ word3049 4792
+word6499
++ word5425 594
++ word7339 2640
+word5394
++ word4866 1853
++ word7531 5824
++ word5371 2906
++ word1495 9542
+LongWordWithMixedCase25
++ word7794 8468
++ word3789 9229
++ word3647 1823
++ word2793 391
++ word2821 9373
++ word5783 7351
+word7082
+- word5114
+- word7600
++ word6482 3436
++ word3120 260
++ word6490 5130
++ word1229 5854
++ word4540 3283
++ word4429 3678
++ word1746 4565
+word2002
++ RandomStringlukVpgSTmg 5005
++ word1488 2984
++ word2746 4712
+word764
++ word7914 3490
++ word2720 8505
++ word3690 9088
+word6622
+word371
++ word3932 711
++ word3750 5018
+- word75
++ word3459 9602
+! Load /tmp/dict5.bin
+! Load /tmp/dict6.bin
+word7374
++ word7350 9944
++ word3523 6075
+- word7936
++ LongWordWithMixedCase84 8657
++ word4740 2561
+- word2544
++ word7532 2439
+word7760
++ word1526 8029
++ word3343 9625
+! Save /tmp/dict3.bin
++ word7008 9559
++ LongWordWithMixedCase77 4538
++ word7002 4708
+word3197
++ word5927 7493
++ word1044 1786
++ word4096 705
+word7534
++ word4391 3209
++ word2739 6434
++ word5201 5109
+- word6526
+word5057
+word1277
+- word1679
+- word7000
++ word5160 1601
++ word3344 9707
++ word2723 2013
++ word6658 7820
+- word7870
++ word761 136
+! Save /tmp/dict5.bin
++ LongWordWithMixedCase69 9898
++ word5763 6854
++ word2480 2345
++ word1605 510
++ word7820 7714
+word174
+word201
++ word3131 4835
+- word1328
+- word6351
+word903
++ word5103 7287
++ word4040 9370
++ word7588 6916
++ word1822 6178
++ word6313 4157
+- word2588
+- word4642
++ word3570 66
+word2007
++ word3893 7961
+word4473
+- word3562
++ word7832 5297
+- word2357
++ word1287 1995
+word3288
++ word5361 7597
++ word4709 4446
++ word6051 4950
+- word1428
++ word7885 3721
+! Save /tmp/dict3.bin
++ word1395 3785
++ word4625 7079
++ word7958 6430
++ word6468 2868
++ word2032 6200
++ word4054 4403
++ word4209 494
+- word7840
++ word1661 9419
+- LongWordWithMixedCase69
++ word4146 3050
+word7534
++ word442 3592
++ word2270 1570
++ word7755 8464
++ word797 7590
++ word3489 3917
++ word6891 3586
+- word3332
++ word3012 3342
++ word6126 8279
+- word164
++ word6247 5230
++ word7362 8865
++ word6150 4705
++ word7977 2250
++ word1791 4081
++ word162 6859
++ word548 8811
++ word2345 9172
+- word7725
+word3675
++ word7207 1448
++ word2425 2795
+! Load /tmp/dict6.bin
+! Save /tmp/dict1.bin
++ LongWordWithMixedCase52 6074
++ word7105 709
+- word3118
++ word234 4428
++ word7757 3346
++ word1668 2504
+word3212
++ word2239 4185
+word5321
++ word4855 145
++ word7056 8801
+- word4114
++ word17 1603
++ word2326 9042
+- word3560
++ word5423 9916
+word4955
++ word7926 2066
++ word6986 1565
+word5202
++ word7356 9643
++ word6105 4068
++ word3548 3839
++ word1789 579
++ word5058 1443
+word345
++ word1390 5970
+! Save /tmp/dict10.bin
+- word721
++ RandomStringlfSZFPNGLL 4905
++ word937 903
++ word7430 223
++ word7176 4903
+- word226
+- word6826
++ word4439 8210
+- word1536
++ word2537 2395
+word6679
+word2578
++ word1462 562
++ word661 5101
++ LongWordWithMixedCase73 7069
++ word6222 7037
++ word2434 2349
++ word4369 4959
++ word6775 9567
+! Load /tmp/dict1.bin
++ word5372 7022
++ word3358 6619
++ word3240 3070
++ word3410 564
++ word4420 7784
+- word3889
+word2087
+- word5882
++ word5787 9385
+- word5594
+! Load /tmp/dict5.bin
++ word4295 7603
+- word3170
++ word7711 1836
+word4027
++ word600 5893
++ word2085 5614
++ word943 6077
++ word364 8996
+word1396
+- word2768
+word857
+word7051
++ word2415 2764
++ word104 5507
+word896
++ word6526 6435
++ RandomStringnGBLFyRFww 1417
+word2288
++ word6800 9994
+word2972
+word4277
++ word1954 3246
++ word995 8517
+word2126
++ word2167 3725
++ word1753 2188
++ word4193 3938
++ word2204 9138
++ word4650 4709
++ word3923 1559
++ word6156 3345
++ word5465 1988
+- word500
++ word6415 6026
++ word3260 8804
+- word331
++ word2792 2342
+- word7954
++ word3693 6083
+- word5428
+word532
+- word1879
++ word4814 2712
+word6108
++ word7134 3965
+word2596
+- word1600
+- word6071
+- word3803
++ word3430 4597
+! Save /tmp/dict8.bin
+word4971
++ word5116 2554
++ word2451 3012
++ word6694 8795
++ word4539 1007
+word864
+- word2888
+word3942
++ word6052 3081
+word841
++ word6122 3863
++ word3432 6110
++ word1952 8370
+! Save /tmp/dict2.bin
++ word4972 8923
++ word4160 4913
+word7204
++ word3812 5863
++ word344 5091
++ word7980 8557
++ word3372 7868
++ word5141 1085
++ word1779 8912
++ word6401 7732
+- word1778
+- word7088
++ word3034 9783
+- word3269
++ word3749 5873
+- word6202
+- word2182
++ word4633 5681
++ word457 7465
++ word7463 6084
+word2509
++ word3956 3067
++ word4558 2306
+word6509
+word3536
+word2653
+word1333
++ word4931 7849
++ word6665 970
+word4479
++ word703 8726
++ word5969 3209
+word3797
+word6640
++ word5508 1253
++ word5395 6375
+- word7701
+word6571
++ word369 7568
++ word259 9506
++ word3178 1042
+- word2487
++ LongWordWithMixedCase94 1816
+- word3840
+word7087
+word2501
++ word6851 7469
++ word3166 8953
+- word7857
++ word7503 4029
++ word5060 3242
++ word1577 8129
+word7887
++ word2700 9705
++ word5637 2831
++ word7985 4102
++ word1737 3725
+- word7958
++ word2193 3100
++ word4103 2351
+- word2616
+- word4870
+! Load /tmp/dict9.bin
++ word867 8464
++ word584 5725
++ word1715 9991
++ word4779 3067
+word3383
+word2666
++ word6756 283
++ LongWordWithMixedCase73 1129
++ word4980 6561
++ word837 6023
+word6633
++ word7216 931
++ word6389 3059
++ word7416 3199
+word2170
+- word2288
++ word269 90
+word6407
+word3842
++ word5881 1635
+word5755
+word1393
+- word2954
++ word983 1241
++ word3601 9967
++ word2646 5716
+word4710
+- word4640
++ word629 6530
++ word3425 1892
++ word3776 8195
++ word7061 7979
+- word2336
+! Load /tmp/dict4.bin
++ word501 6208
+word5749
++ word4100 2013
++ word7422 2543
+! Load /tmp/dict3.bin
+- word3140
+word4056
++ word1762 8047
++ word665 5135
++ word1429 8051
++ word5025 8727
++ word3242 2494
++ word6039 4489
+- word2310
++ word3481 4805
+word1112
+- word6202
++ LongWordWithMixedCase64 3103
++ word2363 7689
+- word7314
+word4513
++ word107 6661
++ word4923 4119
++ word4887 8803
++ word6068 4735
++ word1797 5154
++ LongWordWithMixedCase31 4323
++ word4287 2640
+! Save /tmp/dict4.bin
+word5146
+- word5013
++ word3890 4429
+word7749
+word7102
++ word3151 7679
++ word1709 1306
+word203
++ word751 7018
+word4374
+- word7644
++ word3795 4268
+word4818
++ word6935 9436
+word3417
++ word5516 6474
+! Load /tmp/dict2.bin
++ word5380 2974
++ word7720 1182
++ word1774 200
++ word5994 3376
++ word4851 1894
+- word6064
+- word5026
++ word4971 870
++ word7390 9733
++ word6471 2242
+word4494
++ word3018 9129
++ word2219 6771
+word3754
++ word7260 6185
++ word7972 4226
++ word1807 6587
+- LongWordWithMixedCase3
++ word7280 703
++ word4204 8983
++ word7589 2158
+word4703
+! Load /tmp/dict10.bin
++ word3087 626
+- word1960
+word1520
++ word3303 322
++ word2037 9649
++ word6303 9093
+word3252
++ word7201 3588
+- word6739
++ word4409 8241
++ word2785 5200
++ word1316 3162
++ word5511 5176
+- word3190
++ word5422 6517
++ word4729 3887
++ word419 3072
+- word1830
+- word4207
+- RandomStringiFJVetKTvx
+- word7851
++ word73 138
++ word3637 9152
++ word4428 2531
++ word96 7580
++ word887 63
++ word2654 4982
++ word2259 5668
++ RandomStringNESSWwBStl 9284
+- RandomStringuIeJsQnCyq
+word4346
++ word6477 1355
++ word3961 7961
+! Load /tmp/dict4.bin
++ word3576 5744
+word3117
+word5280
+word2617
+word2538
+- word6213
++ word3266 3997
+word1177
++ word4361 623
+word1083
++ word5254 1365
++ word4286 9817
+- word6931
+! Load /tmp/dict10.bin
+word2585
+word1340
++ word4416 5305
++ word3180 925
++ word1996 5411
+word1969
++ word1932 9592
++ word7296 159
++ word4230 2347
+- word4746
+word3422
++ word1906 1275
++ word6522 5569
+! Load /tmp/dict4.bin
+word4189
++ word5993 2602
+- word6710
+word4426
++ word489 4655
+- word4667
++ word4913 9679
++ word6755 6595
++ word2660 2027
++ word5323 5360
++ word2519 7179
++ word3952 1065
++ word4585 4201
+word7578
++ word4815 1804
+- word3686
+word3874
++ word6566 7702
+word5433
+word3034
++ word391 1907
++ word7732 7513
++ word4068 7576
++ word2235 9214
+! Save /tmp/dict5.bin
++ word4023 1899
++ word368 9210
++ word3328 6594
++ word1410 4221
++ word1992 4970
+- word45
++ word1908 4036
++ word707 9743
++ word4170 885
++ word7374 2823
++ word1259 6674
++ word3678 7101
++ word6073 4425
+word6248
++ word6631 9304
++ word3003 8495
++ word446 220
+word684
++ word3663 1368
++ word4559 3956
++ word4150 703
+- word2489
+word6265
++ LongWordWithMixedCase23 236
++ word1018 1297
++ word257 1729
++ word1958 8614
+word2926
++ word306 8682
++ word3035 8677
++ word821 4187
+- word6753
+! Load /tmp/dict1.bin
+- word5903
+word169
++ word5606 1999
++ word4826 4045
++ word3109 9022
++ word4317 3077
++ word4666 2454
++ word3302 7726
++ word771 9151
++ word4126 5143
++ word2761 8712
++ word2520 9503
++ word6905 5465
++ word5442 4793
++ word5240 6748
+word5950
++ word6324 3869
++ word1329 180
+- word7261
++ word3541 7101
++ word7239 8803
+word470
++ word5419 8077
++ word3730 5206
++ word66 4019
++ word6685 3466
+- word4790
+- word6749
+- word1101
++ word1135 8415
+! Load /tmp/dict3.bin
++ word3620 3996
++ word1466 4493
++ word1034 6755
++ word5905 8336
+word5767
+word461
++ word7691 6843
++ word6537 4020
+- word5913
+word5828
++ word7201 7788
++ word5694 1899
+word2721
++ word4894 3960
++ word6730 3336
++ word7128 1082
+word572
++ word606 6398
++ word650 4245
++ word87 5259
++ word6951 9138
++ word1142 5840
++ word146 8003
++ word3542 9585
++ word304 7452
++ word1331 8788
+! Load /tmp/dict4.bin
++ word6979 6036
++ word1823 5703
+! Save /tmp/dict5.bin
+- word3750
++ word1863 3249
+- word2899
++ word2834 9606
++ word5282 8333
+word4271
++ word6407 3255
++ word80 3172
+- word5069
++ word6718 5852
++ word1927 556
+! Save /tmp/dict9.bin
+- word1961
+word4194
+word1550
++ word2621 2976
+word1297
+- word3385
++ word6847 4844
+word3896
++ word2941 9449
++ word6496 869
++ word3979 2930
+- word116
++ word1580 2656
++ word2607 3432
++ LongWordWithMixedCase99 8347
+word1460
++ word1677 6231
++ word6643 2724
+- word6830
++ word4747 4640
+word4704
+- word1158
+- word4899
+word7858
+- word4293
++ word6780 6354
++ word7719 8776
+! Save /tmp/dict9.bin
++ word1163 8725
+- word7411
++ word2742 8783
++ word73 4366
++ word2144 9917
++ word3003 2469
++ word2020 2556
++ word3701 9685
++ word2577 4638
++ word5560 3615
++ word5224 557
+word4097
++ word6693 4655
+word5184
++ word511 3408
++ word5629 2550
++ word2821 7844
++ word107 2715
++ word4753 4754
++ word2072 9114
+word2386
++ word4674 3050
+word2680
++ word2141 7145
++ word7909 8325
+word6118
+word6641
++ word4366 4009
++ word574 1971
+word3999
++ word931 1320
++ word6333 9388
++ word4271 1834
++ word4820 6645
+- word1511
+word1518
+- word4741
+word3751
++ word2247 6501
++ word4323 2424
++ word4839 3564
++ word5350 1947
+word4048
++ word4006 4587
++ word2138 7298
+word598
++ word225 5276
++ word4305 568
++ word481 8815
+- word1203
+word2130
++ word3341 6037
+word5421
+word6677
++ word2660 2374
+word4621
++ word7351 4219
++ word258 7460
++ word902 9893
++ word1253 9629
+! Load /tmp/dict4.bin
++ word6686 645
+word82
++ word6412 1760
++ word7988 8328
++ word3044 7449
++ word2889 3524
++ word4236 4489
+- word1081
+word7541
++ word7054 1373
++ word3358 6794
++ word3467 1351
++ word5587 1179
+word7233
+- word3568
++ word1765 914
+word6576
+! Load /tmp/dict6.bin
++ word4313 3358
+word3729
+! Save /tmp/dict4.bin
+! Save /tmp/dict8.bin
+word1194
++ word3330 3059
+! Load /tmp/dict9.bin
+- word3822
+word7820
++ word4577 9129
+word4773
++ word5297 6186
++ word7625 9019
+word109
+- word6068
+word1271
++ word6252 4812
+- word7974
+- word6892
++ word2486 6170
++ word1427 3614
+word3519
+word5757
++ word5649 1246
++ word327 1578
++ word7968 2165
++ word4054 6035
+word1262
++ word7107 2276
+word223
++ word3733 931
+word4495
+word932
+! Save /tmp/dict4.bin
+! Load /tmp/dict4.bin
++ word4387 674
++ word1002 7068
+word2638
+- word1890
++ word7253 2826
+word883
++ word1783 4876
++ word1447 8054
+- word5456
+- word4101
++ word4654 6971
++ word824 5654
+- word5567
+! Save /tmp/dict2.bin
++ word4922 6211
++ word7367 2767
+word6878
++ word7440 4272
++ word1191 5573
++ word3340 5831
+word2045
++ word6006 7458
++ word4228 5490
+- word3306
++ word4974 8800
++ word1756 4709
+- word6950
++ word4149 7733
+word1769
++ word4955 9584
++ word7018 2484
++ word235 3036
++ word349 1835
++ word2810 1209
++ word2322 4237
++ word4337 5458
++ word5279 860
+word7030
++ word7876 9160
++ word6986 6416
++ word5642 7146
++ word1274 4102
+- word7706
+word757
+word5260
+- word4600
+word7127
++ word5408 3357
++ word4624 1684
+word2071
++ word4803 1058
+- word7058
+word7701
++ word7257 5840
+word3483
+- word149
+word3535
++ word5241 4373
+- word5312
++ word1552 8613
+! Load /tmp/dict6.bin
++ word4915 2926
++ word2387 6851
++ word935 3719
+- word951
+! Load /tmp/dict3.bin
++ word3767 8332
+- word2658
+word5242
++ word7011 7377
++ word4673 7927
++ word618 9219
++ word4708 2074
++ word2171 2174
++ word3878 3588
++ word5387 9588
++ word7230 2724
++ word7876 6371
++ word1769 9849
+- word1668
+- word2251
+word2873
++ word5374 6508
+word3947
++ word4454 8433
++ word6143 284
+word3705
++ word2790 521
+word7781
+word346
++ word1873 4571
++ word5560 5688
++ word4602 4317
+- word4965
++ word4092 853
+! Load /tmp/dict2.bin
++ word7491 888
++ word6683 9790
+- word6890
++ word3965 1343
++ word7848 9693
++ LongWordWithMixedCase51 8466
+- word6420
+! Save /tmp/dict9.bin
++ word6233 9481
+word7539
++ word1751 1745
++ word5579 2411
+- word572
+word1187
++ word334 6465
++ word2668 2988
++ word3448 7356
+- word3784
++ word3599 4542
+! Load /tmp/dict3.bin
++ word1419 9704
++ word1025 920
++ word4908 163
+- word7494
+word4058
++ word7132 3751
++ word552 19
++ word351 5515
++ word3844 7800
+word3311
++ word2164 9790
++ word7092 2058
++ word5040 8634
+word7098
++ word1268 5725
++ word5001 5920
+- word3943
+word1041
++ word2944 1972
+word7016
+word7903
++ word2527 1269
+- word4774
+word5070
++ word2545 4953
+- word3616
++ word6623 1695
+- word958
++ word2121 4498
+word388
+- word456
++ word5573 1843
++ word3697 5330
+! Save /tmp/dict9.bin
++ word1022 2542
++ word3508 9255
++ word1178 5127
+- word1693
++ word2294 7280
+word3035
+word5643
+- word2590
+- word3099
+word2310
+- word5402
++ word3663 4545
+- LongWordWithMixedCase6
++ word389 6443
+word2703
+RandomStringGdYNKnmeAB
+! Load /tmp/dict5.bin
++ word4858 9804
++ word4960 3033
++ word3822 9122
++ word2059 9003
+- word491
+word3084
++ word5988 7069
++ word6600 6811
+word6626
++ word1165 5076
+- word5235
+- word4384
++ word6091 7099
++ word5902 3788
++ word6004 7958
+word6719
+- word2267
+- word6646
+word124
++ word5472 3368
++ word3566 6311
++ word3570 6555
+word3760
++ word6892 7157
++ word791 3760
+word4789
++ word3095 642
++ word6655 2528
++ word7585 5643
++ word4997 3211
++ word1516 3428
++ word4040 9631
++ word1447 6119
++ word839 3300
++ word855 6919
++ word5469 4693
+- word6452
+word6758
+word739
++ word1696 8835
+word2898
+- word4721
+word23
++ word5081 6230
+- word3038
+- word6193
++ word1883 6809
++ word4327 681
++ word1469 6884
+word777
++ word1458 3733
++ word4632 9185
++ word813 2153
++ word6409 9458
++ word4558 9731
+! Save /tmp/dict2.bin
+- word5034
+word1041
++ word1352 5555
++ word3287 3470
++ word2251 1855
++ word5927 5986
++ word3034 7646
+- word7378
++ word2326 7597
+- word2210
++ word304 3140
++ word2556 7103
++ word4108 3735
++ word5872 4343
++ word2298 8341
++ word3054 8340
++ word299 8904
++ word828 5085
++ word651 2545
++ word5579 9275
++ word7083 6073
++ word4671 9506
+word7024
++ word1597 7112
++ word492 6820
++ word1157 6044
+! Save /tmp/dict7.bin
+word6944
+word4671
++ word3193 4010
++ word5258 89
++ word4775 126
++ word1511 7025
+- word3707
++ word806 7971
+- word6195
++ word1658 5822
++ word6402 6264
+! Load /tmp/dict3.bin
+word7879
+word6174
+- word141
+- word3727
+! Save /tmp/dict9.bin
++ word5993 2524
+word5489
++ word1986 9231
++ word6327 6955
++ word477 4055
+word3960
++ word5090 4554
++ word2017 6266
++ word2616 1429
++ word7746 5946
++ word7987 2798
+- word7447
+- word2325
+- word807
++ word4925 727
++ word2504 865
++ word4768 8833
++ word1217 7266
++ word2097 7651
++ word4566 2571
+- word7473
+- word3656
++ word4464 1979
++ word6801 7886
+word6047
++ word7657 5632
++ word4432 6279
+! Load /tmp/dict3.bin
++ word2395 1366
++ word1917 7441
+word3977
+word1001
++ word2391 3189
+word5657
++ word3095 3397
++ word501 986
+! Load /tmp/dict3.bin
+word7717
++ word7739 3724
+word3399
++ word6912 25
++ word421 2010
+- word1573
++ word3711 1133
++ word5034 9420
++ word3102 6796
++ word1956 330
++ word2257 4355
+- word4831
+- word666
++ word2330 3252
+word3980
++ word2951 3928
++ word4905 3453
++ word7048 1833
++ word2454 6690
++ word3320 1949
++ word136 2025
+- word1843
+- word7532
++ word6163 8869
++ word5286 2462
+word6449
++ word3684 1078
+- word6476
++ word330 5891
++ word7203 4984
++ word2422 2613
++ word202 8641
++ word4595 1236
++ word2625 4389
+- word1092
++ word788 5870
+word3509
++ word5328 2905
++ word6052 1291
++ LongWordWithMixedCase100 1193
+- word1366
+- word179
++ word540 9359
++ word2266 2504
+- word250
++ word4472 8893
++ word6231 5820
++ word7698 938
++ word1745 1862
++ word653 6238
++ word2900 5876
++ word1325 9870
++ word5538 9305
++ word4982 9648
++ word5589 3883
++ word7251 376
+word7031
+word6911
++ word1675 2359
++ word2129 1428
++ word2577 1771
++ word1360 7152
++ word6882 6715
+word4062
++ word6571 641
++ word118 5894
+- word5167
+- word6371
++ word2228 5902
+word4695
+word3395
++ word6340 3004
++ word3748 9831
++ word3749 333
++ word7769 1966
++ word2452 9175
+- word4964
++ word5168 8002
+word4075
++ word2638 3592
++ word3999 6139
+- word5725
++ word5572 5528
+word7326
++ word7263 5267
++ word2688 23
++ word3720 8551
++ word2454 2783
+word1977
+- word1730
+- word6731
++ word4794 1694
+- word2728
+- word5177
++ word3709 80
+- word7912
++ word661 4643
+- word4891
++ word6331 2632
++ word1980 4806
+- word6653
+- word7885
+- word2045
++ word4138 1066
++ word4062 8108
+word7196
+- word378
++ word4655 3581
++ word6762 2852
+word3714
++ word3376 6164
++ word6377 7616
+- word3660
++ word7916 9813
+- word7018
++ word2365 7662
++ word3502 6405
++ word2074 1917
+word5449
++ word6758 2894
++ word3213 5451
+word5955
++ word3830 3949
++ word4226 4355
+- word2280
++ word776 6322
+word7512
++ word1535 7020
+- word5079
++ word3239 9224
++ word6487 6795
+word3160
+! Save /tmp/dict1.bin
++ word6081 5881
+word3481
+- word2118
++ word3926 6116
++ word5865 6130
++ word437 5803
+- word3325
++ word7581 7148
+word4181
++ word2521 4370
++ word6376 2171
+! Save /tmp/dict1.bin
++ word5004 5733
++ word4491 7040
++ word7993 4055
+word7424
++ word2503 6464
++ word767 2925
+word4713
++ word3667 67
++ word6882 2738
++ word1039 7967
++ word2647 1754
+word494
++ word4993 8691
++ word3959 2558
+- word4527
+! Save /tmp/dict3.bin
++ word3615 8204
+- word7367
+word4443
+- word6801
++ word2335 1808
++ word3645 8277
+LongWordWithMixedCase2
+- word5886
+word7120
+LongWordWithMixedCase68
++ word1412 7148
+- word2181
++ word704 4884
++ word2815 7489
+- word5861
+- word6068
+word1915
++ word1211 6004
++ word5219 957
+word3806
++ word4878 769
++ word1281 6156
++ word6041 2613
++ word4608 5557
+! Save /tmp/dict8.bin
+- word1466
+- word5783
++ word2489 2663
+word25
+word6335
++ word6532 264
++ word2363 8433
+word2272
++ word3151 4490
+! Load /tmp/dict5.bin
++ word3776 7297
+- word7049
+- word6199
++ word1436 6134
++ word3426 6588
++ word38 5892
++ word1926 1900
+word1119
++ word1705 9632
++ word2659 3362
++ word3169 1853
+- word4377
++ word3651 3196
++ word2234 31
++ word2237 1546
++ word1569 4249
++ word3235 4097
+word680
+- word1247
++ word7265 224
+word433
++ word3185 8495
+word789
+! Load /tmp/dict5.bin
++ word3159 3550
++ word3021 1850
+word4700
++ word3291 1725
+! Load /tmp/dict3.bin
+! Load /tmp/dict5.bin
++ word240 3327
+word4611
++ word4036 9672
++ word265 9283
++ word7646 3510
++ word6537 2718
+word4303
++ word5358 2433
++ word6346 4141
++ word3344 358
+word2510
++ word5770 2348
+- word7594
++ word2230 4171
++ word1802 5173
+! Load /tmp/dict7.bin
+- word4316
++ word3475 9886
++ word4825 1832
+word1610
+- word833
+word196
++ word2289 3600
++ word916 4212
++ word7163 3935
+word2948
+- word42
++ word627 5580
++ word5723 5631
++ word2524 6175
+word1407
++ word305 9259
++ word3176 534
++ word3794 5846
++ word3810 3152
+word2382
++ word1130 6218
++ word7559 2667
++ word5916 4139
+word4019
+- word117
+- word2988
++ word4672 4257
+word6315
++ word5697 4503
++ word2795 7217
+word4515
+word7360
++ word4078 7745
+word6888
++ word4415 904
++ word5908 4792
++ word5803 3371
++ word2976 5122
++ word118 6190
++ word4437 282
+! Save /tmp/dict9.bin
+! Load /tmp/dict10.bin
++ word5797 282
+- word3722
+! Save /tmp/dict9.bin
++ word5685 1376
++ word7417 5781
++ word5962 1513
+- word5997
++ word1609 5336
+! Save /tmp/dict3.bin
+word1259
+! Save /tmp/dict10.bin
++ word5316 8733
++ word922 1310
++ word1792 8047
++ word5086 9253
++ word2840 8452
++ word4725 7833
+word3612
++ word3442 843
+word5412
+word4320
++ word2031 8198
++ word4999 3297
+word6218
++ word113 1244
++ word4858 6478
+word4166
+word7028
++ word915 2588
++ word2300 104
+word295
+word527
++ word4681 7170
++ word7371 9806
++ word2462 1233
++ word363 2902
+word7237
+word3223
++ word254 4821
++ word230 5980
++ word1003 1816
+- word4776
+- word312
++ word7253 5554
++ word7424 6369
+word3197
++ word3995 5322
++ word1688 5935
+! Save /tmp/dict5.bin
++ LongWordWithMixedCase41 2686
+word1263
++ word1786 9430
+- word5409
++ word2426 2766
+word413
++ word24 7976
+! Save /tmp/dict2.bin
+- word2516
++ word7237 9087
+- word4888
++ word7290 5283
++ word4986 4964
+- word4446
+- word5699
++ word7248 5013
+word7658
++ word6879 3073
+- word4310
+word5870
+- word4575
+- word2189
++ word6966 5909
++ word1326 3814
++ word1737 5439
++ word3618 5600
+- word6052
++ word3881 7714
++ word2182 1382
++ word7656 5415
+- word1842
+! Save /tmp/dict9.bin
+word2527
++ word3621 3224
++ word1511 4960
+word7479
+word4235
++ word2004 3959
++ word1557 5
+word5097
+- word5028
+word2940
++ word2203 9275
++ word315 155
++ word6934 344
+word5485
+word1792
+- word5073
++ word7105 6721
++ word5716 9917
++ word5473 4590
+word1771
++ LongWordWithMixedCase99 1948
+word866
+! Load /tmp/dict10.bin
+word3216
++ word1360 5224
+word7826
++ word6008 3964
++ word3420 3510
++ word7701 4801
+- word5299
++ word6380 9261
++ word1102 5147
+! Save /tmp/dict1.bin
++ word3460 1419
+! Save /tmp/dict9.bin
++ word4139 8698
++ word716 1567
++ word7730 9632
++ word4918 6299
+word1365
+- word1999
++ word5220 9881
++ word3763 4235
++ word6534 7110
++ word3508 2670
+word3759
+word2992
+word3412
+word5218
++ word2164 2804
++ word5259 3516
++ word5503 3993
++ word7973 2149
++ word1010 1285
+word1685
++ word5320 4671
+- word3123
+- word3614
+- word6020
++ word2686 8302
+- word4170
+! Save /tmp/dict5.bin
++ word6971 8046
+! Save /tmp/dict10.bin
+- word5997
++ word6359 6197
++ LongWordWithMixedCase100 1988
++ word3448 8584
++ word6611 2104
++ word3480 192
++ word7041 3092
++ word7046 5957
+word3723
+word3057
++ word1396 4402
+- word5252
++ word5849 3348
++ word394 6502
++ word3492 8630
+- word6257
+- word4547
++ word5543 8719
+word3046
+word5262
++ word7150 9395
+- word5164
+word4493
+- word2249
++ word2788 4991
++ word796 2801
++ word7043 8000
++ word3152 2802
+word4116
++ word6748 3749
+word2600
++ word7053 6765
++ word3723 2423
++ word4882 6814
+word3283
++ word5562 885
+word1120
+LongWordWithMixedCase7
++ word618 5161
++ LongWordWithMixedCase10 524
++ word932 2490
+! Save /tmp/dict5.bin
++ word7841 429
++ word2458 3912
++ word4490 6186
++ word1208 1510
+word4097
+- word489
++ word4784 2895
+word4254
+- word263
++ word1246 6630
++ word98 7149
++ word16 9470
++ word1757 8275
+- word4238
++ word3958 2856
++ word7950 1032
++ word3649 3305
++ word3556 7646
+word1000
++ word5574 6477
++ word1042 6193
++ word7600 3927
+! Save /tmp/dict5.bin
++ word5221 3821
+- word4024
+word1861
+word3142
++ word7304 4429
++ word5163 7978
++ word5495 94
++ word7328 6224
++ word7176 4027
++ word1294 1935
+word7101
++ word4738 4633
+- word7026
++ word7151 4560
++ word2274 5149
++ word5264 3217
++ word5834 4538
+word1713
+word1578
+word2478
+word973
++ word6457 4554
++ word4419 6769
++ word4989 9466
++ word5839 5336
+word4824
+word1602
++ word2670 4807
+word5280
++ word6293 9002
++ word5222 5995
+- word377
+- word780
++ word1397 1431
++ word617 9945
+- word2211
+- word2178
++ word1138 1262
++ word349 412
++ word6720 4727
++ word1067 5728
+- word2628
++ word4073 1669
++ word4380 2954
++ word2190 7489
++ word2793 1473
+! Save /tmp/dict10.bin
++ word86 4038
+word1290
+! Save /tmp/dict8.bin
+- word1408
+word60
++ word3038 3813
+word147
++ word4054 8415
++ word1746 2543
+word6709
++ word1280 2608
++ word4288 2114
+- word4417
++ word1250 2602
++ word2982 1455
+word3436
++ word6928 4260
++ word228 5556
++ word2355 1970
+- word4204
+- word5926
++ word2720 291
++ word5505 5072
++ word2747 9944
++ word7561 859
+word4571
++ word1976 8994
+word6774
++ word7747 8265
++ word4546 9760
+word365
+word4110
+word3357
++ word4490 1900
++ word4309 7868
+- word5954
++ word1910 8869
++ word7428 1047
++ word7879 3981
++ word1142 7842
++ word7803 2004
++ word3025 3650
++ word1565 7520
+word532
++ word4496 7081
++ word1099 3068
++ word3447 7647
++ word4193 1651
++ word6064 8218
++ word6362 5182
++ word1159 8273
++ word7350 6425
++ word4701 7312
++ word5087 4122
++ word1844 2274
++ word1152 3966
+word5742
++ LongWordWithMixedCase22 6696
++ word3847 317
++ word4709 146
++ word6737 9416
++ word672 6619
+- word6376
+word613
++ word3708 9537
+word6739
++ word4256 397
++ word4071 1277
++ word612 8816
+- word1425
+word5384
+- word7498
++ word2360 9613
++ word6321 2294
+word3518
++ word7759 8834
+- word5492
++ word2542 1428
++ word3486 9034
++ word3568 7795
+word2535
+! Save /tmp/dict10.bin
+word1474
+- word484
++ word6691 4922
+! Save /tmp/dict1.bin
+RandomStringlfSZFPNGLL
++ word218 4804
++ word3285 8945
++ word231 7706
++ word7413 8038
++ word3661 6070
++ word1582 8621
+word7336
+- word2065
++ word2384 3558
++ word6056 5820
++ word1603 5945
++ word7574 6322
++ word6774 800
++ word1289 790
++ word4433 4109
++ word3030 1441
+- word345
+word700
++ word1256 4501
+word6924
++ word5445 6305
+- word6939
++ word2684 9184
+- word7873
+word3576
++ word2136 1506
+word6067
+- word2995
++ word2085 3422
++ word6460 9169
+word5900
++ word1710 2124
++ word640 1513
++ word4983 2376
+- word7427
++ word3688 8579
++ word7110 8526
+- word6133
+word3211
++ word65 8100
++ word838 6810
+word4197
++ word7205 787
++ word3473 7056
+- word3324
++ word741 4023
+- word5727
++ word7452 8247
++ word3209 854
++ word6885 3319
++ word4907 488
+- word3173
++ word1117 4575
++ word1130 3924
+- word4655
+! Load /tmp/dict2.bin
++ word1570 9794
++ word7292 2270
++ word5175 969
++ word3361 677
+word1075
++ word6755 5210
+word3470
++ word4068 5005
+word647
+- word4559
++ word7141 6899
++ word6321 4991
++ word5340 6360
++ word4009 9325
+word3675
++ word3369 4410
++ word203 369
+word2146
+! Save /tmp/dict6.bin
++ word7381 5930
+! Save /tmp/dict10.bin
+word4226
++ word2437 783
++ word1530 7334
++ word3822 3453
++ word2849 5633
++ word2438 5032
++ LongWordWithMixedCase71 2854
++ word3189 5038
++ word202 222
+word7699
++ word5546 2353
++ word5225 6574
++ word1038 7535
++ word7777 4368
+- word7870
++ word7109 3674
++ word3061 232
+word5914
+! Save /tmp/dict8.bin
++ word4896 4867
++ word2531 3024
++ word3559 182
++ word7390 4539
++ word4286 1536
++ word272 8844
+- word7980
++ word7129 6760
++ word3732 2707
++ word3514 5279
++ word4162 4755
++ word7910 2520
++ word5719 6076
+! Load /tmp/dict1.bin
++ word4410 8026
+word2415
+word4679
++ word7245 4047
++ word3846 4758
+word4755
+! Load /tmp/dict1.bin
+word5863
++ word3995 2404
+- word1780
++ word83 5085
++ word1549 8903
+word7824
+word5089
+! Load /tmp/dict3.bin
++ word99 6805
++ word659 9711
+- word3096
++ word3140 7961
++ word300 9319
++ word7862 6963
++ word7055 671
++ word5009 5354
+- word6053
++ word7015 3774
++ LongWordWithMixedCase39 9638
+- word4581
++ word7700 8358
++ word2322 7448
++ word3516 4823
+word6517
+- word5591
++ word3734 7625
+word7069
++ word3052 6810
++ word4068 8234
++ word9 1552
++ word67 5061
++ word1506 2543
+- word3890
+- word1677
+word6239
+- word3439
++ word7203 3236
++ word180 964
+- word1098
+- word2239
++ word996 843
+! Load /tmp/dict9.bin
++ word3318 9632
++ word365 8348
+- word1919
++ word470 8247
++ word129 4426
+word1390
++ word6389 257
+! Load /tmp/dict3.bin
++ word3639 4271
+- word190
+word6292
+word4550
++ word3957 2907
+word6394
+word7856
++ word7850 7233
++ word1424 5350
++ word780 9830
++ word2400 1303
++ word4682 4571
+- word7393
++ word7568 3741
+! Load /tmp/dict8.bin
++ word7106 949
++ word1660 6534
++ word5359 1390
++ word3190 2435
++ word5439 4770
+- word5307
++ word473 9219
++ word6946 6680
++ word6786 6563
++ word2962 2223
+- word230
+word5395
+- word633
++ word887 6197
++ word7459 909
++ word2789 3735
++ word33 7207
+- word5668
++ word185 7698
+- word7523
+! Save /tmp/dict8.bin
+- word4269
++ word6540 1503
+- word5013
++ word516 2694
+- word33
++ word2556 8639
++ word7115 5823
++ word1492 5638
++ word812 6061
+word1510
+RandomStringlukVpgSTmg
++ word2172 7543
+- word7349
++ word802 6529
+- LongWordWithMixedCase7
+- word1336
++ word3104 4524
+! Save /tmp/dict2.bin
++ word509 9000
++ word4649 7291
+- word3939
++ word1720 7056
+- word7991
+word572
+word4778
+word3063
+- word5801
+- word4156
++ word3140 1315
++ word723 7737
++ word2469 2738
++ word3625 932
++ word2183 3868
+word7864
++ word3890 8253
++ word7254 6859
+word7028
++ word7259 6942
++ word5280 6419
+- word277
++ word308 4114
+! Load /tmp/dict1.bin
++ word1800 4574
++ word6945 2341
+word930
+- word205
++ word7458 4340
+word698
++ word124 1791
++ word7190 138
++ word3642 7945
+- word6343
++ word6836 3467
++ word1467 9048
++ word2870 764
++ word1742 1177
++ word4509 7384
++ word5021 7906
++ word678 1281
++ word4560 7448
+word6538
++ word5454 8343
+- word7064
++ word3594 2260
++ word7276 4184
+word7362
++ word6765 9119
++ word2779 406
+! Save /tmp/dict3.bin
+- word6705
+word2326
++ word3461 6181
++ word5425 1901
++ word2871 2233
++ word567 8101
++ LongWordWithMixedCase41 7395
++ word4047 1831
++ word2945 4722
+word6226
++ word3638 6883
++ word5902 6057
+- word7079
+- word6302
+word188
+word5
++ word7433 5104
+- word558
++ word139 1462
++ word5639 7630
+word6138
++ word661 3323
+word7691
++ word2134 8839
++ word2174 2258
++ word3504 2867
+word5197
+- word3560
++ word4777 4036
++ word1315 6170
++ word174 2342
++ word1914 7199
+! Save /tmp/dict7.bin
++ word1061 9121
+word3237
+word5432
+word2473
++ word3173 7407
++ word5833 9776
++ word1332 948
++ word6977 8885
++ word6507 6949
++ word7186 7852
++ word6525 8506
+word1300
+LongWordWithMixedCase13
++ word6117 2234
+word4225
++ word7513 6484
++ word4011 2927
++ word6726 4318
++ word4450 6996
+- word7556
++ word1181 8570
+- word2712
++ word118 863
+! Save /tmp/dict7.bin
++ word3644 4604
++ word4923 5886
+- word3469
++ word1928 7172
++ word691 934
+word4282
++ word7414 5628
++ word1032 4354
++ word7162 6740
++ word4353 577
+- word6705
++ word4309 161
+- word7870
++ word4569 5527
+word2149
+word5861
++ word2161 7209
++ word5850 3317
+! Save /tmp/dict9.bin
+word7871
++ word5903 4890
+- word5105
++ word5713 3234
++ word2941 1892
+- word2530
+! Load /tmp/dict2.bin
+! Load /tmp/dict7.bin
++ word4180 5165
+word4086
+word581
+- word1621
+word7295
++ word2621 7367
++ word567 2752
+word7115
++ word3938 5423
++ word1753 7776
++ word4058 423
+! Save /tmp/dict3.bin
+word4895
+- word5219
++ word4000 8003
++ word1819 5903
+word4249
++ word631 1454
+word5655
+- word7433
++ word6483 2997
+- word974
+- word4588
++ word1229 10
++ word7517 6624
++ word6770 5110
++ word7966 6942
++ LongWordWithMixedCase91 5970
++ word3011 6965
+! Save /tmp/dict8.bin
+word2526
+word3772
++ LongWordWithMixedCase83 3599
++ word4248 2185
++ word841 1712
+word532
++ word2193 1256
++ word6875 6551
+RandomStringqSWeJXmzun
+word1617
+! Save /tmp/dict4.bin
++ word5903 2416
++ word5860 1611
+- word1632
+word4904
++ word2291 4043
++ word3609 7542
++ word5457 5540
+- word3166
++ word3969 7470
+word6460
+word2190
+word4487
+word6933
++ word7651 3466
++ word6574 6784
+word2348
++ word1171 5449
++ word2233 1626
++ word2979 7144
+- word1461
++ word2857 3027
++ word6112 721
++ word2720 826
++ word2683 3149
++ word3671 8902
++ word1311 8227
++ word3986 1418
+word7728
++ word1977 1506
+- word3232
+- word3093
+word2713
+word865
++ word7583 9064
++ word5364 5720
+word1049
++ word5371 6451
+word2998
+word5647
++ RandomStringnGBLFyRFww 191
+- word20
+! Save /tmp/dict4.bin
+- word4439
+LongWordWithMixedCase68
++ word4264 3926
+! Load /tmp/dict4.bin
++ word1132 7519
++ word5833 8605
+word4680
++ word1046 3003
+- word686
++ word2693 3449
++ word6602 4005
++ word6644 2968
+word1247
++ word4791 7553
+word7244
++ LongWordWithMixedCase65 2826
++ word1133 4979
++ word7675 5669
++ word5534 2157
++ word7775 1723
++ word6245 8913
++ word2422 8718
++ word7853 6939
++ word3128 3044
+word7904
+word1443
++ word2135 9654
+word4522
+word7019
++ word5119 6148
+- word370
+- word6791
++ RandomStringhAJUNdPnsg 1093
+word1955

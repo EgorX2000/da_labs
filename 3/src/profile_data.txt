@@ -1,0 +1,335 @@
+Flat profile:
+
+Each sample counts as 0.01 seconds.
+  %   cumulative   self              self     total           
+ time   seconds   seconds    calls  us/call  us/call  name    
+ 54.55      0.06     0.06  1847322     0.03     0.03  BTree::strLess(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)
+  9.09      0.07     0.01   166599     0.06     0.50  BTree::insertElem(Node*, NodeElem const&)
+  9.09      0.08     0.01   119209     0.08     0.13  BTree::splitNode(Node*, int)
+  9.09      0.09     0.01      236    42.37    42.37  BTree::saveNode(std::ostream&, Node*)
+  9.09      0.10     0.01                             _init
+  4.55      0.10     0.01   649501     0.01     0.01  NodeElem::~NodeElem()
+  4.55      0.11     0.01   363648     0.01     0.01  NodeElem::NodeElem()
+  0.00      0.11     0.00  1847322     0.00     0.00  unsigned long const& std::min<unsigned long>(unsigned long const&, unsigned long const&)
+  0.00      0.11     0.00   591390     0.00     0.00  NodeElem::operator=(NodeElem const&)
+  0.00      0.11     0.00   166599     0.00     0.51  BTree::insert(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, unsigned long long)
+  0.00      0.11     0.00   121216     0.00     0.04  Node::Node()
+  0.00      0.11     0.00   121216     0.00     0.02  Node::~Node()
+  0.00      0.11     0.00   121216     0.00     0.04  BTree::createNode()
+  0.00      0.11     0.00   119254     0.00     0.00  NodeElem::NodeElem(NodeElem const&)
+  0.00      0.11     0.00    89303     0.00     0.00  BTree::strEqual(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)
+  0.00      0.11     0.00    28507     0.00     0.00  std::__is_constant_evaluated()
+  0.00      0.11     0.00    17324     0.00     0.00  std::char_traits<char>::length(char const*)
+  0.00      0.11     0.00    17324     0.00     0.00  bool std::operator==<char, std::char_traits<char>, std::allocator<char> >(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, char const*)
+  0.00      0.11     0.00    11183     0.00     0.00  std::char_traits<char>::compare(char const*, char const*, unsigned long)
+  0.00      0.11     0.00     7983     0.00     0.26  BTree::find(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)
+  0.00      0.11     0.00     1534     0.00     0.43  BTree::removeElem(Node*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, Node*, int)
+  0.00      0.11     0.00     1534     0.00     0.43  BTree::remove(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)
+  0.00      0.11     0.00      248     0.00    11.28  BTree::deleteNode(Node*)
+  0.00      0.11     0.00      248     0.00     0.00  BTree::BTree(int)
+  0.00      0.11     0.00      248     0.00    11.28  BTree::~BTree()
+  0.00      0.11     0.00      247     0.00   331.96  BTree::load(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)
+  0.00      0.11     0.00      236     0.00    42.37  BTree::save(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)
+  0.00      0.11     0.00      163     0.00     0.02  BTree::balanceNodes(Node*, Node*, int)
+  0.00      0.11     0.00       45     0.00     0.00  BTree::getMaxLeft(Node*, int)
+
+ %         the percentage of the total running time of the
+time       program used by this function.
+
+cumulative a running sum of the number of seconds accounted
+ seconds   for by this function and those listed above it.
+
+ self      the number of seconds accounted for by this
+seconds    function alone.  This is the major sort for this
+           listing.
+
+calls      the number of times this function was invoked, if
+           this function is profiled, else blank.
+
+ self      the average number of milliseconds spent in this
+ms/call    function per call, if this function is profiled,
+	   else blank.
+
+ total     the average number of milliseconds spent in this
+ms/call    function and its descendents per call, if this
+	   function is profiled, else blank.
+
+name       the name of the function.  This is the minor sort
+           for this listing. The index shows the location of
+	   the function in the gprof listing. If the index is
+	   in parenthesis it shows where it would appear in
+	   the gprof listing if it were to be printed.
+
+Copyright (C) 2012-2024 Free Software Foundation, Inc.
+
+Copying and distribution of this file, with or without modification,
+are permitted in any medium without royalty provided the copyright
+notice and this notice are preserved.
+
+		     Call graph (explanation follows)
+
+
+granularity: each sample hit covers 4 byte(s) for 9.09% of 0.11 seconds
+
+index % time    self  children    called     name
+                                                 <spontaneous>
+[1]     90.9    0.00    0.10                 main [1]
+                0.00    0.08     247/247         BTree::load(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) [4]
+                0.00    0.01     236/236         BTree::save(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) [7]
+                0.00    0.00     248/248         BTree::~BTree() [16]
+                0.00    0.00    4825/166599      BTree::insert(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, unsigned long long) [2]
+                0.00    0.00    7983/7983        BTree::find(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) [17]
+                0.00    0.00    1534/1534        BTree::remove(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) [18]
+                0.00    0.00   17324/17324       bool std::operator==<char, std::char_traits<char>, std::allocator<char> >(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, char const*) [33]
+                0.00    0.00       1/248         BTree::BTree(int) [35]
+-----------------------------------------------
+                0.00    0.00    4825/166599      main [1]
+                0.00    0.08  161774/166599      BTree::load(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) [4]
+[2]     76.8    0.00    0.08  166599         BTree::insert(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, unsigned long long) [2]
+                0.01    0.07  166599/166599      BTree::insertElem(Node*, NodeElem const&) [3]
+                0.00    0.00  166599/649501      NodeElem::~NodeElem() [10]
+                0.00    0.00    1759/119209      BTree::splitNode(Node*, int) [6]
+                0.00    0.00    2007/121216      BTree::createNode() [13]
+-----------------------------------------------
+                              991780             BTree::insertElem(Node*, NodeElem const&) [3]
+                0.01    0.07  166599/166599      BTree::insert(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, unsigned long long) [2]
+[3]     75.3    0.01    0.07  166599+991780  BTree::insertElem(Node*, NodeElem const&) [3]
+                0.06    0.00 1762309/1847322     BTree::strLess(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) [5]
+                0.01    0.01  117450/119209      BTree::splitNode(Node*, int) [6]
+                0.00    0.00  300978/591390      NodeElem::operator=(NodeElem const&) [28]
+                              991780             BTree::insertElem(Node*, NodeElem const&) [3]
+-----------------------------------------------
+                0.00    0.08     247/247         main [1]
+[4]     74.5    0.00    0.08     247         BTree::load(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) [4]
+                0.00    0.08  161774/166599      BTree::insert(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, unsigned long long) [2]
+                0.00    0.00     247/248         BTree::BTree(int) [35]
+-----------------------------------------------
+                0.00    0.00   20432/1847322     BTree::removeElem(Node*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, Node*, int) [19]
+                0.00    0.00   64581/1847322     BTree::find(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) [17]
+                0.06    0.00 1762309/1847322     BTree::insertElem(Node*, NodeElem const&) [3]
+[5]     54.5    0.06    0.00 1847322         BTree::strLess(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) [5]
+                0.00    0.00 1847322/1847322     unsigned long const& std::min<unsigned long>(unsigned long const&, unsigned long const&) [27]
+-----------------------------------------------
+                0.00    0.00    1759/119209      BTree::insert(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, unsigned long long) [2]
+                0.01    0.01  117450/119209      BTree::insertElem(Node*, NodeElem const&) [3]
+[6]     14.4    0.01    0.01  119209         BTree::splitNode(Node*, int) [6]
+                0.00    0.00  119209/121216      BTree::createNode() [13]
+                0.00    0.00  119209/649501      NodeElem::~NodeElem() [10]
+                0.00    0.00  290023/591390      NodeElem::operator=(NodeElem const&) [28]
+                0.00    0.00  119209/119254      NodeElem::NodeElem(NodeElem const&) [29]
+-----------------------------------------------
+                0.00    0.01     236/236         main [1]
+[7]      9.1    0.00    0.01     236         BTree::save(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) [7]
+                0.01    0.00     236/236         BTree::saveNode(std::ostream&, Node*) [8]
+-----------------------------------------------
+                              112681             BTree::saveNode(std::ostream&, Node*) [8]
+                0.01    0.00     236/236         BTree::save(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) [7]
+[8]      9.1    0.01    0.00     236+112681  BTree::saveNode(std::ostream&, Node*) [8]
+                              112681             BTree::saveNode(std::ostream&, Node*) [8]
+-----------------------------------------------
+                                                 <spontaneous>
+[9]      9.1    0.01    0.00                 _init [9]
+-----------------------------------------------
+                0.00    0.00      45/649501      BTree::removeElem(Node*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, Node*, int) [19]
+                0.00    0.00  119209/649501      BTree::splitNode(Node*, int) [6]
+                0.00    0.00  166599/649501      BTree::insert(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, unsigned long long) [2]
+                0.00    0.00  363648/649501      Node::~Node() [14]
+[10]     4.5    0.01    0.00  649501         NodeElem::~NodeElem() [10]
+-----------------------------------------------
+                0.01    0.00  363648/363648      Node::Node() [12]
+[11]     4.5    0.01    0.00  363648         NodeElem::NodeElem() [11]
+-----------------------------------------------
+                0.00    0.01  121216/121216      BTree::createNode() [13]
+[12]     4.5    0.00    0.01  121216         Node::Node() [12]
+                0.01    0.00  363648/363648      NodeElem::NodeElem() [11]
+-----------------------------------------------
+                0.00    0.00    2007/121216      BTree::insert(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, unsigned long long) [2]
+                0.00    0.00  119209/121216      BTree::splitNode(Node*, int) [6]
+[13]     4.5    0.00    0.01  121216         BTree::createNode() [13]
+                0.00    0.01  121216/121216      Node::Node() [12]
+-----------------------------------------------
+                0.00    0.00       2/121216      BTree::remove(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) [18]
+                0.00    0.00     128/121216      BTree::balanceNodes(Node*, Node*, int) [20]
+                0.00    0.00  121086/121216      BTree::deleteNode(Node*) [15]
+[14]     2.5    0.00    0.00  121216         Node::~Node() [14]
+                0.00    0.00  363648/649501      NodeElem::~NodeElem() [10]
+-----------------------------------------------
+                              120838             BTree::deleteNode(Node*) [15]
+                0.00    0.00     248/248         BTree::~BTree() [16]
+[15]     2.5    0.00    0.00     248+120838  BTree::deleteNode(Node*) [15]
+                0.00    0.00  121086/121216      Node::~Node() [14]
+                              120838             BTree::deleteNode(Node*) [15]
+-----------------------------------------------
+                0.00    0.00     248/248         main [1]
+[16]     2.5    0.00    0.00     248         BTree::~BTree() [16]
+                0.00    0.00     248/248         BTree::deleteNode(Node*) [15]
+-----------------------------------------------
+                0.00    0.00    7983/7983        main [1]
+[17]     1.9    0.00    0.00    7983         BTree::find(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) [17]
+                0.00    0.00   64581/1847322     BTree::strLess(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) [5]
+                0.00    0.00   82837/89303       BTree::strEqual(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) [30]
+-----------------------------------------------
+                0.00    0.00    1534/1534        main [1]
+[18]     0.6    0.00    0.00    1534         BTree::remove(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) [18]
+                0.00    0.00    1534/1534        BTree::removeElem(Node*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, Node*, int) [19]
+                0.00    0.00       2/121216      Node::~Node() [14]
+-----------------------------------------------
+                               10727             BTree::removeElem(Node*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, Node*, int) [19]
+                0.00    0.00    1534/1534        BTree::remove(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) [18]
+[19]     0.6    0.00    0.00    1534+10727   BTree::removeElem(Node*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, Node*, int) [19]
+                0.00    0.00   20432/1847322     BTree::strLess(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) [5]
+                0.00    0.00     163/163         BTree::balanceNodes(Node*, Node*, int) [20]
+                0.00    0.00      45/649501      NodeElem::~NodeElem() [10]
+                0.00    0.00    6466/89303       BTree::strEqual(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) [30]
+                0.00    0.00      79/591390      NodeElem::operator=(NodeElem const&) [28]
+                0.00    0.00      45/45          BTree::getMaxLeft(Node*, int) [36]
+                               10727             BTree::removeElem(Node*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, Node*, int) [19]
+-----------------------------------------------
+                0.00    0.00     163/163         BTree::removeElem(Node*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, Node*, int) [19]
+[20]     0.0    0.00    0.00     163         BTree::balanceNodes(Node*, Node*, int) [20]
+                0.00    0.00     128/121216      Node::~Node() [14]
+                0.00    0.00     310/591390      NodeElem::operator=(NodeElem const&) [28]
+-----------------------------------------------
+                0.00    0.00 1847322/1847322     BTree::strLess(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) [5]
+[27]     0.0    0.00    0.00 1847322         unsigned long const& std::min<unsigned long>(unsigned long const&, unsigned long const&) [27]
+-----------------------------------------------
+                0.00    0.00      79/591390      BTree::removeElem(Node*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, Node*, int) [19]
+                0.00    0.00     310/591390      BTree::balanceNodes(Node*, Node*, int) [20]
+                0.00    0.00  290023/591390      BTree::splitNode(Node*, int) [6]
+                0.00    0.00  300978/591390      BTree::insertElem(Node*, NodeElem const&) [3]
+[28]     0.0    0.00    0.00  591390         NodeElem::operator=(NodeElem const&) [28]
+-----------------------------------------------
+                0.00    0.00      45/119254      BTree::getMaxLeft(Node*, int) [36]
+                0.00    0.00  119209/119254      BTree::splitNode(Node*, int) [6]
+[29]     0.0    0.00    0.00  119254         NodeElem::NodeElem(NodeElem const&) [29]
+-----------------------------------------------
+                0.00    0.00    6466/89303       BTree::removeElem(Node*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, Node*, int) [19]
+                0.00    0.00   82837/89303       BTree::find(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) [17]
+[30]     0.0    0.00    0.00   89303         BTree::strEqual(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) [30]
+-----------------------------------------------
+                0.00    0.00   11183/28507       std::char_traits<char>::compare(char const*, char const*, unsigned long) [34]
+                0.00    0.00   17324/28507       std::char_traits<char>::length(char const*) [32]
+[31]     0.0    0.00    0.00   28507         std::__is_constant_evaluated() [31]
+-----------------------------------------------
+                0.00    0.00   17324/17324       bool std::operator==<char, std::char_traits<char>, std::allocator<char> >(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, char const*) [33]
+[32]     0.0    0.00    0.00   17324         std::char_traits<char>::length(char const*) [32]
+                0.00    0.00   17324/28507       std::__is_constant_evaluated() [31]
+-----------------------------------------------
+                0.00    0.00   17324/17324       main [1]
+[33]     0.0    0.00    0.00   17324         bool std::operator==<char, std::char_traits<char>, std::allocator<char> >(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, char const*) [33]
+                0.00    0.00   17324/17324       std::char_traits<char>::length(char const*) [32]
+                0.00    0.00   11183/11183       std::char_traits<char>::compare(char const*, char const*, unsigned long) [34]
+-----------------------------------------------
+                0.00    0.00   11183/11183       bool std::operator==<char, std::char_traits<char>, std::allocator<char> >(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, char const*) [33]
+[34]     0.0    0.00    0.00   11183         std::char_traits<char>::compare(char const*, char const*, unsigned long) [34]
+                0.00    0.00   11183/28507       std::__is_constant_evaluated() [31]
+-----------------------------------------------
+                0.00    0.00       1/248         main [1]
+                0.00    0.00     247/248         BTree::load(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) [4]
+[35]     0.0    0.00    0.00     248         BTree::BTree(int) [35]
+-----------------------------------------------
+                0.00    0.00      45/45          BTree::removeElem(Node*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, Node*, int) [19]
+[36]     0.0    0.00    0.00      45         BTree::getMaxLeft(Node*, int) [36]
+                0.00    0.00      45/119254      NodeElem::NodeElem(NodeElem const&) [29]
+-----------------------------------------------
+
+ This table describes the call tree of the program, and was sorted by
+ the total amount of time spent in each function and its children.
+
+ Each entry in this table consists of several lines.  The line with the
+ index number at the left hand margin lists the current function.
+ The lines above it list the functions that called this function,
+ and the lines below it list the functions this one called.
+ This line lists:
+     index	A unique number given to each element of the table.
+		Index numbers are sorted numerically.
+		The index number is printed next to every function name so
+		it is easier to look up where the function is in the table.
+
+     % time	This is the percentage of the `total' time that was spent
+		in this function and its children.  Note that due to
+		different viewpoints, functions excluded by options, etc,
+		these numbers will NOT add up to 100%.
+
+     self	This is the total amount of time spent in this function.
+
+     children	This is the total amount of time propagated into this
+		function by its children.
+
+     called	This is the number of times the function was called.
+		If the function called itself recursively, the number
+		only includes non-recursive calls, and is followed by
+		a `+' and the number of recursive calls.
+
+     name	The name of the current function.  The index number is
+		printed after it.  If the function is a member of a
+		cycle, the cycle number is printed between the
+		function's name and the index number.
+
+
+ For the function's parents, the fields have the following meanings:
+
+     self	This is the amount of time that was propagated directly
+		from the function into this parent.
+
+     children	This is the amount of time that was propagated from
+		the function's children into this parent.
+
+     called	This is the number of times this parent called the
+		function `/' the total number of times the function
+		was called.  Recursive calls to the function are not
+		included in the number after the `/'.
+
+     name	This is the name of the parent.  The parent's index
+		number is printed after it.  If the parent is a
+		member of a cycle, the cycle number is printed between
+		the name and the index number.
+
+ If the parents of the function cannot be determined, the word
+ `<spontaneous>' is printed in the `name' field, and all the other
+ fields are blank.
+
+ For the function's children, the fields have the following meanings:
+
+     self	This is the amount of time that was propagated directly
+		from the child into the function.
+
+     children	This is the amount of time that was propagated from the
+		child's children to the function.
+
+     called	This is the number of times the function called
+		this child `/' the total number of times the child
+		was called.  Recursive calls by the child are not
+		listed in the number after the `/'.
+
+     name	This is the name of the child.  The child's index
+		number is printed after it.  If the child is a
+		member of a cycle, the cycle number is printed
+		between the name and the index number.
+
+ If there are any cycles (circles) in the call graph, there is an
+ entry for the cycle-as-a-whole.  This entry shows who called the
+ cycle (as parents) and the members of the cycle (as children.)
+ The `+' recursive calls entry shows the number of function calls that
+ were internal to the cycle, and the calls entry for each member shows,
+ for that member, how many times it was called from other members of
+ the cycle.
+
+Copyright (C) 2012-2024 Free Software Foundation, Inc.
+
+Copying and distribution of this file, with or without modification,
+are permitted in any medium without royalty provided the copyright
+notice and this notice are preserved.
+
+Index by function name
+
+  [12] Node::Node()            [7] BTree::save(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) [29] NodeElem::NodeElem(NodeElem const&)
+  [14] Node::~Node()           [2] BTree::insert(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, unsigned long long) [10] NodeElem::~NodeElem()
+  [13] BTree::createNode()    [18] BTree::remove(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) [28] NodeElem::operator=(NodeElem const&)
+  [15] BTree::deleteNode(Node*) [5] BTree::strLess(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) [32] std::char_traits<char>::length(char const*)
+  [36] BTree::getMaxLeft(Node*, int) [8] BTree::saveNode(std::ostream&, Node*) [34] std::char_traits<char>::compare(char const*, char const*, unsigned long)
+   [3] BTree::insertElem(Node*, NodeElem const&) [30] BTree::strEqual(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) [31] std::__is_constant_evaluated()
+  [19] BTree::removeElem(Node*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, Node*, int) [6] BTree::splitNode(Node*, int) [27] unsigned long const& std::min<unsigned long>(unsigned long const&, unsigned long const&)
+  [20] BTree::balanceNodes(Node*, Node*, int) [35] BTree::BTree(int) [33] bool std::operator==<char, std::char_traits<char>, std::allocator<char> >(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, char const*)
+  [17] BTree::find(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) [16] BTree::~BTree() [9] _init
+   [4] BTree::load(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) [11] NodeElem::NodeElem()
