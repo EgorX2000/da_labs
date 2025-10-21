@@ -1,68 +1,61 @@
 #include <algorithm>
 #include <iostream>
-#include <set>
 #include <string>
 #include <vector>
 
 enum patternSymbol { GREATER, LESS, PATTERN_FOUND };
 
-void addSentinel(std::string& str) {
-    while ((str.size() & (str.size() - 1)) != 0) {
-        str.push_back('$');
+int comparePattern(const std::string& text, int pos,
+                   const std::string& pattern) {
+    int n = text.size(), m = pattern.size();
+    int len = std::min(n - pos, m);
+    for (int i = 0; i < len; i++) {
+        if (text[pos + i] < pattern[i]) return -1;
+        if (text[pos + i] > pattern[i]) return 1;
     }
+    if (n - pos < m) return -1;
+    return 0;
 }
 
-patternSymbol unmatchingSymbol(const std::string& pattern,
-                               const std::string& text) {
-    for (size_t i = 0; i < pattern.size(); i++) {
-        if (std::tolower(pattern[i]) > std::tolower(text[i])) {
-            return GREATER;
-        } else if (std::tolower(pattern[i]) < std::tolower(text[i])) {
-            return LESS;
-        }
+std::pair<int, int> findRange(const std::vector<int>& sa,
+                              const std::string& text,
+                              const std::string& pattern) {
+    int l = 0, r = sa.size();
+    while (l < r) {
+        int mid = (l + r) / 2;
+        if (comparePattern(text, sa[mid], pattern) < 0)
+            l = mid + 1;
+        else
+            r = mid;
     }
-    return PATTERN_FOUND;
+    int start = l;
+    l = 0;
+    r = sa.size();
+    while (l < r) {
+        int mid = (l + r) / 2;
+        if (comparePattern(text, sa[mid], pattern) <= 0)
+            l = mid + 1;
+        else
+            r = mid;
+    }
+    return {start, l};
 }
 
-std::vector<int> binarySearch(std::vector<int>& suffixArray,
-                              const std::string& pattern,
-                              const std::string& text) {
-    int l = 0, r = suffixArray.size() - 1;
-    std::vector<int> result;
-
-    while (l <= r) {
-        int m = l + (r - l) / 2;
-        patternSymbol ps =
-            unmatchingSymbol(pattern, text.substr(suffixArray[m]));
-        if (ps == PATTERN_FOUND) {
-            result.push_back(suffixArray[m]);
-
-            int i = m - 1;
-            while (i >= 0 &&
-                   unmatchingSymbol(pattern, text.substr(suffixArray[i])) ==
-                       PATTERN_FOUND) {
-                result.push_back(suffixArray[i]);
-                i--;
-            }
-
-            i = m + 1;
-            while (i < suffixArray.size() &&
-                   unmatchingSymbol(pattern, text.substr(suffixArray[i])) ==
-                       PATTERN_FOUND) {
-                result.push_back(suffixArray[i]);
-                i++;
-            }
-
-            break;
-        } else if (ps == GREATER) {
-            l = m + 1;
-        } else {
-            r = m - 1;
-        }
+std::vector<int> countingSort(const std::vector<int>& indices,
+                              const std::vector<int>& ec) {
+    int n = indices.size();
+    int classes = *std::max_element(ec.begin(), ec.end()) + 1;
+    std::vector<int> cnt(classes, 0);
+    for (int i = 0; i < n; i++) cnt[ec[indices[i]]]++;
+    std::vector<int> pos(classes, 0);
+    for (int i = 1; i < classes; i++) pos[i] = pos[i - 1] + cnt[i - 1];
+    std::vector<int> res(n);
+    for (int i = 0; i < n; i++) {
+        int cl = ec[indices[i]];
+        res[pos[cl]] = indices[i];
+        pos[cl]++;
     }
-
-    std::stable_sort(result.begin(), result.end());
-    return result;
+    return res;
 }
 
 int main() {
@@ -70,17 +63,15 @@ int main() {
     std::cin >> input;
     int arraySize = input.size();
 
-    addSentinel(input);
+    input.push_back('$');
     int n = input.size();
 
     std::vector<std::pair<std::string, int>> str;
-    for (int i = 0; i < n; i++) {
-        str.push_back({std::string{input[i]}, i});
-    }
-    std::stable_sort(str.begin(), str.end());
+    for (int i = 0; i < n; i++) str.push_back({std::string{input[i]}, i});
+    std::sort(str.begin(), str.end());
 
     std::vector<int> ec(n, 0);
-    ec[str[0].second] = 1;
+    ec[str[0].second] = 0;
     for (int i = 1; i < n; i++) {
         if (str[i].first != str[i - 1].first)
             ec[str[i].second] = ec[str[i - 1].second] + 1;
@@ -89,52 +80,47 @@ int main() {
     }
 
     std::vector<int> indices(n);
-    for (int i = 0; i < n; i++) {
-        indices[i] = str[i].second;
-    }
+    for (int i = 0; i < n; i++) indices[i] = str[i].second;
 
     for (int k = 1; k < n; k *= 2) {
-        for (int i = 0; i < n; i++) {
-            indices[i] = (indices[i] - k + n) % n;
-        }
+        for (int i = 0; i < n; i++) indices[i] = (indices[i] - k + n) % n;
+        indices = countingSort(indices, ec);
 
-        std::stable_sort(indices.begin(), indices.end(),
-                         [&](int a, int b) { return ec[a] < ec[b]; });
-
-        std::vector<int> ec_new(n, 0);
-        ec_new[indices[0]] = 1;
+        std::vector<int> ec_new(n);
+        ec_new[indices[0]] = 0;
         for (int i = 1; i < n; i++) {
             int prev1 = ec[indices[i - 1]];
             int prev2 = ec[(indices[i - 1] + k) % n];
             int cur1 = ec[indices[i]];
             int cur2 = ec[(indices[i] + k) % n];
-            if (cur1 != prev1 || cur2 != prev2)
-                ec_new[indices[i]] = ec_new[indices[i - 1]] + 1;
-            else
-                ec_new[indices[i]] = ec_new[indices[i - 1]];
+            ec_new[indices[i]] =
+                ec_new[indices[i - 1]] + (prev1 != cur1 || prev2 != cur2);
         }
         ec = ec_new;
-
-        if (*std::max_element(ec.begin(), ec.end()) == n) break;
+        if (*std::max_element(ec.begin(), ec.end()) == n - 1) break;
     }
 
     std::vector<int> suffixArray;
-    for (int i : indices) {
+    for (int i : indices)
         if (i < arraySize) suffixArray.push_back(i);
-    }
 
     std::string pattern;
     int patternNumber = 1;
+    std::string originalText = input.substr(0, arraySize);
     while (std::cin >> pattern) {
-        std::vector<int> positions = binarySearch(suffixArray, pattern, input);
-        std::cout << patternNumber << ": ";
-        for (size_t i = 0; i < positions.size(); i++) {
-            std::cout << positions[i] + 1;
-            if (i + 1 < positions.size()) {
-                std::cout << ", ";
+        auto range = findRange(suffixArray, originalText, pattern);
+        int start = range.first, end = range.second;
+        if (start != end) {
+            std::vector<int> pos;
+            for (int i = start; i < end; i++) pos.push_back(suffixArray[i] + 1);
+            std::sort(pos.begin(), pos.end());
+            std::cout << patternNumber << ": ";
+            for (size_t i = 0; i < pos.size(); i++) {
+                if (i) std::cout << ", ";
+                std::cout << pos[i];
             }
+            std::cout << "\n";
         }
-        std::cout << std::endl;
         patternNumber++;
     }
     return 0;
